@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\images",
+    "\\assets\\images\\2016",
+    "\\assets\\images\\2016\\12",
+    "\\assets\\vendor",
+    "\\assets\\vendor\\bootstrap",
+    "\\assets\\vendor\\bootstrap\\css",
+    "\\_layouts",
+    "\\_posts"
   ],
+  "SelectedNode": "\\_posts\\2020-06-20-mouse-helper.md",
   "PreviewInSolutionExplorer": false
 }
