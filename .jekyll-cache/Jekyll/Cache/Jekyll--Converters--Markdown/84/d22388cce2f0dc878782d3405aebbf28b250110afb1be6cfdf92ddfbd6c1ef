@@ -1,0 +1,34 @@
+I"r<!-- wp:cover {"url":"https:\/\/redhillthemedemo.files.wordpress.com\/2019\/07\/kike-vega-f2qh3yjz6jk-unsplash.jpg","id":155,"dimRatio":30,"align":"full"} -->
+<div clasxs="wp-block-cover alignfull has-background-dim-30 has-background-dim" style="background-image:url('https://redhillthemedemo.files.wordpress.com/2019/07/kike-vega-f2qh3yjz6jk-unsplash.jpg');"><div clasxs="wp-block-cover__inner-container"><!-- wp:heading {"align":"center","level":1} -->
+<h1 class="has-text-align-center">Taller de yoga de fin de semana</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p style="text-align:center;">¡Aprovecha ya los precios especiales para las primeras suscripciones!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:button {"align":"center"} -->
+<div clasxs="wp-block-button aligncenter"><a clasxs="wp-block-button__link" href="#">¡Regístrate!</a></div>
+<!-- /wp:button --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":32} -->
+<div style="height:32px;" aria-hidden="true" clasxs="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"align":"center"} -->
+<h2 class="has-text-align-center">¡Te damos la bienvenida!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nuestro estudio ofrece un espacio tranquilo y sereno para practicar yoga en un ambiente seguro y acogedor. Creemos que el yoga es para todas las personas, por lo que todo el mundo es bienvenido.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ofrecemos clases y cursos para niveles de principiante y avanzado, así como sesiones especiales de edición limitada de yoga prenatal, yoga para niños, meditación y conciencia plena.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote clasxs="wp-block-quote"><p><em>El yoga te permite encontrar una paz interior que no se ve afectada por el estrés y las tensiones del día a día</em>.</p><cite>B.K.S Iyengar</cite></blockquote>
+<!-- /wp:quote -->
+:ET

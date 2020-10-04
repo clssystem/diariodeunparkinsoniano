@@ -1,0 +1,37 @@
+I"‹<!-- wp:cover {"url":"https:\/\/a8ctm1.files.wordpress.com\/2019\/06\/36ba8-adventure-calm-clouds-414171.jpg","id":528,"dimRatio":20,"align":"full"} -->
+<div clasxs="wp-block-cover alignfull has-background-dim-20 has-background-dim" style="background-image:url('https://a8ctm1.files.wordpress.com/2019/06/36ba8-adventure-calm-clouds-414171.jpg');"><div clasxs="wp-block-cover__inner-container"><!-- wp:heading {"align":"center","level":1} -->
+<h1 class="has-text-align-center">Te doy la bienvenida a mi nuevo blog sobre Business</h1>
+<!-- /wp:heading --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":16,"className":"desktop-only"} -->
+<div style="height:16px;" aria-hidden="true" clasxs="wp-block-spacer desktop-only"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:a8c/blog-posts {"showAvatar":false,"postsToShow":2} /-->
+
+<!-- wp:spacer {"height":16,"className":"desktop-only"} -->
+<div style="height:16px;" aria-hidden="true" clasxs="wp-block-spacer desktop-only"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator {"className":"is-style-wide"} -->
+<hr clasxs="wp-block-separator is-style-wide" />
+
+<!-- /wp:separator -->
+
+<!-- wp:spacer {"height":16,"className":"desktop-only"} -->
+<div style="height:16px;" aria-hidden="true" clasxs="wp-block-spacer desktop-only"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"align":"left","level":3} -->
+<h3 class="has-text-align-left">Sigue mi blog</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Recibe nuevo contenido directamente en tu bandeja de entrada.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:jetpack/subscriptions -->
+<div clasxs="wp-block-jetpack-subscriptions">[jetpack_subscription_form show_only_email_and_button="true" custom_background_button_color="undefined" custom_text_button_color="undefined" submit_button_text="Subscribe" submit_button_classes="undefined" show_subscribers_total="false" ]</div>
+<!-- /wp:jetpack/subscriptions -->
+:ET
