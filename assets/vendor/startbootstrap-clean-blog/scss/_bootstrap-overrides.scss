@@ -1,4 +1,17 @@
 // Bootstrap overrides for this template
+body {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+p {
+    text-align: justify;
+    font-size: 1rem;
+}
 .btn {
   font-size: 14px;
   font-weight: 800;
@@ -25,3 +38,4 @@
   font-size: 16px;
   padding: 25px 35px;
 }
+
