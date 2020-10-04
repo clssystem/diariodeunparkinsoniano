@@ -1,12 +1,4 @@
----
-layout: post
-title: Trece
-date: 2020-10-01 04:53
-author: diariodeunparkinsoniano
-comments: true
-categories: [Sin categoría]
----
-<!-- wp:paragraph -->
+I"N<!-- wp:paragraph -->
 <p>El número trece siempre ha sido mi número favorito.</p>
 <!-- /wp:paragraph -->
 
@@ -98,7 +90,7 @@ categories: [Sin categoría]
 <p>Y, también, permíteme por una vez que sea egoísta, que nunca olviden los recuerdos que un día su tío Lulú les forjó, con la mejor y más noble de sus intenciones.</p>
 <!-- /wp:paragraph -->
 
-<img class="img-fluid"  src="/assets/images/2020/10/cimg2161.jpg?w=768" alt="" />
+<p><img class="img-fluid" src="/assets/images/2020/10/cimg2161.jpg?w=768" alt="" /></p>
 
 <!-- wp:paragraph -->
 <p>Este es mi pequeño regalo, en forma de 
@@ -111,3 +103,4 @@ categories: [Sin categoría]
 <!-- wp:paragraph -->
 <p>Os quiero, trece añeros.</p>
 <!-- /wp:paragraph -->
+:ET
