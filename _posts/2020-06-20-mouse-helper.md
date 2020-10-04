@@ -5,6 +5,7 @@ date: 2020-06-20 05:07
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+published: false
 ---
 <!-- wp:paragraph -->
 <p><em>Mouse Helper</em> es un programa gratuito creado por mí (A.Liberal) que permite modificar la velocidad del puntero del ratón de manera sencilla.     </p>
