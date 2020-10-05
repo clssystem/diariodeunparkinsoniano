@@ -4,7 +4,7 @@ title: Recalculando…
 date: 2018-01-23 21:28
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos IV]
 ---
 <p style="text-align:justify;">Seguro que, si alguna vez has usado un GPS y te has equivocado de ruta, habrás oído esa voz chirriante salir del altavoz del dichoso aparato.</p>
 <p style="text-align:justify;">Pues así he estado estos días.</p>

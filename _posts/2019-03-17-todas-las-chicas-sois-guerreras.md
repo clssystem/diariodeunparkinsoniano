@@ -4,7 +4,7 @@ title: Todas las chicas sois guerreras
 date: 2019-03-17 10:25
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Si, ya sé que últimamente me apoyo mucho en los títulos de canciones para mis entradas en el blog, pero esta vez tengo excusa.</p>
 <p style="text-align:justify;">Anoche asistí a un concierto de Doro Pech, la reina indiscutible del Heavy Metal Ochentero, que yo escuchaba cuando apenas era un adolescente imberbe, recién estrenado en mi nueva vida en el instituto.</p>

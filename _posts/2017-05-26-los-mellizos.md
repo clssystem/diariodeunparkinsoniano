@@ -5,6 +5,7 @@ date: 2017-05-26 22:55
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-I'
 ---
 <p style="text-align:justify;">Nacieron un sábado 29 de septiembre, día de San Miguel, hace ya casi 10 años.</p>
 <p style="text-align:justify;">Aquel día fue el inicio de sus vidas, y un cambio enorme para el resto de nosotros.</p>

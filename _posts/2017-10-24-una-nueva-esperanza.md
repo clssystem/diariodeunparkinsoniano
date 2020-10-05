@@ -5,6 +5,7 @@ date: 2017-10-24 19:05
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-III'
 ---
 Hoy tocaba de nuevo visitar al neurólogo.
 

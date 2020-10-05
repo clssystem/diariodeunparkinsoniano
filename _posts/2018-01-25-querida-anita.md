@@ -4,7 +4,7 @@ title: Querida Anita
 date: 2018-01-25 21:50
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos IV]
 ---
 <p style="text-align:justify;">Querida Anita:</p>
 <p style="text-align:justify;">El niño tímido que habita dentro de mí quiere decirte unas cuantas cosas.</p>

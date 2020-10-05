@@ -5,6 +5,7 @@ date: 2017-07-01 03:32
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-II'
 ---
 Hoy cumplo 45 años.
 

@@ -4,7 +4,7 @@ title: La tienda de la esquina
 date: 2018-08-29 20:52
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VI]
 ---
 <p style="text-align:justify;">Hace unas semanas, caminando por mi barrio (que en realidad ya es mayor, y lo debería llamar pueblo), descubrí horrorizado algo que no me hubiera gustado ver nunca: En el escaparate de la perfumería de una compañera de la E.G.B. había plantado un cartel que decía:</p>
 <p style="text-align:justify;">“Liquidación total por cierre”</p>

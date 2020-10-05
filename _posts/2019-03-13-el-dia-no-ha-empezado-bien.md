@@ -4,7 +4,7 @@ title: El día no ha empezado bien
 date: 2019-03-13 21:14
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Hoy el día no ha empezado bien.</p>
 <p style="text-align:justify;">He llevado el coche al taller, y como siempre que me acerco por allí, la broma me ha salido cara.</p>

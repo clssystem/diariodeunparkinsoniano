@@ -5,6 +5,7 @@ date: 2017-06-28 21:43
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-II'
 ---
 <p style="text-align:justify;">No, no me he equivocado, no es una entrada repetida.</p>
 <p style="text-align:justify;">Mi hermana, mi amiga, se llama Lucía.</p>

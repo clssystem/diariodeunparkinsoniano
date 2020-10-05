@@ -5,6 +5,7 @@ date: 2017-08-18 23:16
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-III'
 ---
 <p style="text-align:justify;">… y pantalones vaqueros, debería continuar.</p>
 <p style="text-align:justify;">Ayer estuve en un concierto de música heavy cerca de donde vivo.</p>

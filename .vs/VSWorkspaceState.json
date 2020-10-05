@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\images",
-    "\\assets\\images\\2016",
-    "\\assets\\images\\2016\\12",
     "\\assets\\vendor",
     "\\assets\\vendor\\bootstrap",
     "\\assets\\vendor\\bootstrap\\css",
+    "\\assets\\vendor\\startbootstrap-clean-blog",
+    "\\assets\\vendor\\startbootstrap-clean-blog\\scss",
     "\\_layouts",
-    "\\_posts"
+    "\\_posts",
+    "\\_sass"
   ],
-  "SelectedNode": "\\_posts\\2020-06-20-mouse-helper.md",
+  "SelectedNode": "\\assets\\vendor\\startbootstrap-clean-blog\\scss\\_masthead.scss",
   "PreviewInSolutionExplorer": false
 }

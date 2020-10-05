@@ -4,7 +4,7 @@ title: Terapia de grupo
 date: 2018-02-21 21:34
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos V]
 ---
 <p style="text-align:justify;">Hoy he añadido una nueva arma a mi colección letal “anti-parkinsoniana”.</p>
 <p style="text-align:justify;">Esta tarde he asistido a una terapia de grupo para “jóvenes”, organizada por la asociación de Parkinson.</p>

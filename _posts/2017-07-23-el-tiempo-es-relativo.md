@@ -5,6 +5,7 @@ date: 2017-07-23 16:32
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-II'
 ---
 <p style="text-align:justify;">Cuando estudiaba Teleco, vi por primera vez el significado del tiempo de manera matemática.</p>
 <p style="text-align:justify;">Lo tratábamos como una dimensión, donde teníamos las tres espaciales y añadíamos una cuarta, que era el paso del tiempo.</p>

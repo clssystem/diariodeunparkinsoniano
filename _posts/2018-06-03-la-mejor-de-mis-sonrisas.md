@@ -4,7 +4,7 @@ title: La mejor de mis sonrisas
 date: 2018-06-03 06:32
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos V]
 ---
 <p style="text-align:justify;">Ayer fue un día importante, de esos que nunca olvidas.</p>
 <p style="text-align:justify;">Mi amiga lunática estaba convaleciente en el hospital, después de haber librado su primera, y, afortunadamente, última batalla, contra ese demonio disfrazado de rosa.</p>

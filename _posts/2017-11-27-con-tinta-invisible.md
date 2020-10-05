@@ -4,7 +4,7 @@ title: Con tinta invisible
 date: 2017-11-27 21:40
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos IV]
 ---
 <p style="text-align:justify;">Sin darme cuenta, he terminado el cursillo sobre el Parkinson.</p>
 <p style="text-align:justify;">Y, también, sin darme cuenta, en tan sólo cinco semanas, han cambiado muchas cosas.</p>

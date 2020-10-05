@@ -5,6 +5,7 @@ date: 2017-06-22 20:11
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-I'
 ---
 <p style="text-align:justify;">Como cada mañana he salido a caminar.</p>
 <p style="text-align:justify;">Es el remedio que tengo contra el insomnio que provoca la enfermedad.</p>

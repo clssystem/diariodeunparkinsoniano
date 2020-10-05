@@ -5,6 +5,7 @@ date: 2017-07-12 19:18
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-II'
 ---
 <p style="text-align:justify;">Hace un par de días fui con mis sobrinos a las atracciones, que aquí se llaman barracas, que han puesto en Pamplona, por ser San Fermín.</p>
 <p style="text-align:justify;">Ya se me había olvidado la ilusión de ese momento, el poder montarte en una atracción, que, además, si es para mayores, mejor.</p>

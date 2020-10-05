@@ -5,6 +5,7 @@ date: 2017-09-30 03:22
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-III'
 ---
 <p style="text-align:justify;">No, no es lo que estás pensando.</p>
 <p style="text-align:justify;">No es una condena.</p>

@@ -5,6 +5,7 @@ date: 2017-10-11 21:42
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-III'
 ---
 <p style="text-align:justify;">Esta semana ha sido una de las peores que he tenido.</p>
 <p style="text-align:justify;">Además del continuo temblor, mi cuerpo se ha revelado, haciéndome pagar todos los esfuerzos golpeándome con el látigo de la ansiedad.</p>

@@ -4,7 +4,7 @@ title: Mi maestro de Yoga
 date: 2018-05-12 20:39
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos V]
 ---
 <p style="text-align:justify;">Hoy, como hace unos meses, he asistido a un nuevo taller de Yoga, impartido por mi maestro Omkar, del que he hablado algunas veces.</p>
 <p style="text-align:justify;">Aunque intuyo que a él no le gustan rangos, títulos o encasillamientos, espero que me dé su permiso por esta vez, y me deje llamarlo así.</p>

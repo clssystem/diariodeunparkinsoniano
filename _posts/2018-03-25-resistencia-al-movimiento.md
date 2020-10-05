@@ -4,7 +4,7 @@ title: Resistencia al movimiento
 date: 2018-03-25 21:01
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos V]
 ---
 <p style="text-align:justify;">Esta mañana me he despertado cansado.</p>
 <p style="text-align:justify;">No sé a quien se le ha ocurrido la maravillosa idea de adelantar los relojes físicos (analógicos, digitales y atómicos) para adecuarlos al horario de verano, pero a mí reloj biológico lo acaba desequilibrando.</p>

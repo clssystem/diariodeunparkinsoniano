@@ -5,6 +5,7 @@ date: 2017-09-10 20:11
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-III'
 ---
 <p style="text-align:justify;">Esta semana he estado un poco plof.</p>
 <p style="text-align:justify;">He tenido todo el cuerpo agarrotado, como si me hubieran pulsado en la tecla “off”.</p>

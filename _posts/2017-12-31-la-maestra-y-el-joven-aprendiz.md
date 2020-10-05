@@ -4,7 +4,7 @@ title: La maestra y el joven aprendiz
 date: 2017-12-31 02:09
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos IV]
 ---
 <p style="text-align:justify;">Érase una vez que se era, en un lugar tan recóndito y en un tiempo tan lejano que se pierde en el recuerdo, una maestra y su joven aprendiz.</p>
 <p style="text-align:justify;">Como cada mañana se encontraban paseando por su jardín de orquídeas blancas, caminando por el sendero de piedra, en medio de un silencio sepulcral, sólo roto por el brotar del agua del riachuelo cercano y el trinar de los pájaros que habitaban aquel paradisiaco lugar.</p>

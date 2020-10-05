@@ -4,7 +4,7 @@ title: Llenando huequitos
 date: 2019-08-12 19:25
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Querido diario.</p>
 <p style="text-align:justify;">Perdóname.</p>

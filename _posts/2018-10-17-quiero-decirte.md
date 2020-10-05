@@ -4,7 +4,7 @@ title: Quiero decirte...
 date: 2018-10-17 20:50
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VI]
 ---
 <p style="text-align:justify;">Esta tarde he ido a verte al hospital.</p>
 <p style="text-align:justify;">Si, ya sé que no es nada, que es una pequeña operación en tu orejita, que mañana volverás a casa y que tu madre, cuando lea esto, me va a decir que estoy tonto.</p>

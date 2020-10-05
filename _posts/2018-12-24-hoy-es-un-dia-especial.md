@@ -4,7 +4,7 @@ title: Hoy es un día especial
 date: 2018-12-24 07:23
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VI]
 ---
 <p style="text-align:justify;">Hoy, como cada día, me he levantado a las seis y media de la mañana, y así tomar mi primera dosis de pastillas.</p>
 <p style="text-align:justify;">Cualquier mortal las engulliría medio dormido, con los ojos cerrados y legañosos, y arrastraría sus pies en la semioscuridad de la habitación, hasta encontrar la cama recién abandonada, para, sin dudarlo, lanzarse en plancha y acurrucarse entre los brazos de Morfeo.</p>

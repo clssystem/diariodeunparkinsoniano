@@ -4,7 +4,7 @@ title: Fear of the Dark
 date: 2019-01-04 19:39
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VI]
 ---
 <p style="text-align:justify;">El otro día mis sobrinos se quedaron a dormir en casa.</p>
 <p style="text-align:justify;">Mi sobrino cayó rendido en la cama, de la que me han desterrado hace tiempo, vencido por el cansancio de sus partidos de fútbol y balonmano.</p>

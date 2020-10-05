@@ -4,7 +4,7 @@ title: SuperHero Papi
 date: 2018-02-25 03:28
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos V]
 ---
 <p style="text-align:justify;">Hoy el alma de blues de mi trotamúsico favorito entona su canción de la manera más triste y desafinada que nunca llegué a oír.</p>
 <p style="text-align:justify;">Su padre se ha ido de este mundo, de repente, en pocos días, sin apenas poder despedirse.</p>

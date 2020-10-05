@@ -4,7 +4,7 @@ title: Rutina, ¡bendita rutina!
 date: 2018-09-23 17:22
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VI]
 ---
 <p style="text-align:justify;">Este verano ha sido un poco atípico.</p>
 <p style="text-align:justify;">Comenzó “con mala pata”, cuando, intentando emular a aquella copia barata de Superman que era “el gran héroe americano”, acabé comiéndome el último escalón de la escalera que hay en las oficinas de mi trabajo, retorciéndome con fuerza el tobillo izquierdo, desmayándome de la impresión al oír el crujido de los tejidos, mientras que por mi cabeza pasaba la idea de “¡Dios, se acabaron mis vacaciones en Cádiz!”, y que en apenas 15 días iba a disfrutar con mis amigos.</p>

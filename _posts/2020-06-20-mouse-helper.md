@@ -4,7 +4,7 @@ title: Mouse Helper
 date: 2020-06-20 05:07
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 published: false
 ---
 <!-- wp:paragraph -->

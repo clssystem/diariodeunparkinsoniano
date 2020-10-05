@@ -4,7 +4,7 @@ title: Hace ya cinco años
 date: 2019-04-25 19:34
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Hace ya cinco años de aquel reencuentro, en el año 2.014</p>
 <p style="text-align:justify;">Y, aunque apenas supone un minúsculo granito de arena en el reloj del tiempo, para mí, como para el resto de mis compañeros de la E.G.B., fue un momento especial que siempre recordaremos en nuestros corazones.</p>

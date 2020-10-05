@@ -4,7 +4,7 @@ title: It’s YOUR Wonderful Life
 date: 2018-04-24 21:53
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos V]
 ---
 <p style="text-align:justify;">Hoy estoy pensativo, y también, algo usual en mí, dubitativo.</p>
 <p style="text-align:justify;">¿Quién no ha intentado centrar el rumbo y dirigir su barco hacia aguas más calmadas en medio de un océano de dudas?</p>

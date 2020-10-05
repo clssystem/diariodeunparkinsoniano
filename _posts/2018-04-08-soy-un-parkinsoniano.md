@@ -4,7 +4,7 @@ title: Soy un Parkinsoniano
 date: 2018-04-08 08:05
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos V]
 ---
 <p style="text-align:justify;">El 11 de abril se celebra el día mundial del Parkinson, coincidiendo con el aniversario del nacimiento (en 1.817) del médico y botánico James Parkinson, quien hizo las primeras descripciones de lo que él llamó “parálisis agitante”.</p>
 <p style="text-align:justify;">Aunque yo prefiero decir que es el día de los Parkinsonianos.</p>

@@ -4,7 +4,7 @@ title: La mochila
 date: 2018-12-09 08:33
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VI]
 ---
 <p style="text-align:justify;">Hay algunos días en los que la mochila figurada que todos los seres humanos llevamos a la espalda se siente más pesada.</p>
 <p style="text-align:justify;">Poquito a poco se va llenando (o, mejor dicho, la vamos llenando, inconscientemente) de nuestros problemas y preocupaciones.</p>

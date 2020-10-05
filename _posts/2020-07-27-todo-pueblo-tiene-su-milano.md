@@ -4,7 +4,7 @@ title: Todo pueblo tiene su milano
 date: 2020-07-27 18:01
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <!-- wp:paragraph -->
 <p>Querido diario.</p>

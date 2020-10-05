@@ -5,6 +5,7 @@ date: 2017-09-01 20:19
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-III'
 ---
 <p style="text-align:justify;">Si.</p>
 <p style="text-align:justify;">Por lo visto soy friki.</p>

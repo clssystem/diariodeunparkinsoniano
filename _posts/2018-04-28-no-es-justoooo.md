@@ -4,7 +4,7 @@ title: ¡No es justoooo!
 date: 2018-04-28 18:08
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos V]
 ---
 <p style="text-align:justify;">Mi sobrino, cuando algo no le parece bien, sobro todo para sus jóvenes e imberbes intereses, balbucea, en medio de un mar de lágrimas y pucheros ¡No es justooooo!, acompañado de esa mirada de niño “buenico”, como de no haber roto nunca un plato.</p>
 <p style="text-align:justify;">Esta misma mañana, mientras le explicaba a mi sobrina, su hermana Nahia, el por qué me temblaba la mano, ha puesto esa misma carita, mientras me decía: ¡No es justoooo!</p>

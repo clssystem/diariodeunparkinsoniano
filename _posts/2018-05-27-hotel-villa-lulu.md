@@ -4,7 +4,7 @@ title: Hotel Villa Lulú
 date: 2018-05-27 20:58
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos V]
 ---
 <p style="text-align:justify;">Este fin de semana he recibido en mi casa, en el “Hotel Villa Lulú”, a dos huéspedes ilustres, mis sobrinitos.</p>
 <p style="text-align:justify;">Esos bichejos disfrazados de niños de diez años, Nahia e Ibai, y que son las dos personitas que más quiero en el mundo.</p>

@@ -5,6 +5,7 @@ date: 2017-06-20 03:09
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-I'
 ---
 Mi amiga Ana está triste.
 

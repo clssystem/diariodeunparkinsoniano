@@ -4,7 +4,7 @@ title: ¡Soy más fuerte que tú!
 date: 2017-12-24 02:40
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos IV]
 ---
 <p style="text-align:justify;">Querido Parki.</p>
 <p style="text-align:justify;">Ya sé que debería ser educado y llamarte de usted, pero permíteme que te tutee mientras te escribo esta carta.</p>

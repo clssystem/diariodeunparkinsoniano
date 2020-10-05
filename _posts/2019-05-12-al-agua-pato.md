@@ -4,7 +4,7 @@ title: ¡Al agua, pato!
 date: 2019-05-12 10:27
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Hace ya mucho tiempo, demasiado, que quería quitarme una espinita que se había clavado y enquistado muy dentro de mí, la de aprender a nadar.</p>
 <p style="text-align:justify;">Sí, aunque parezca mentira, y a mis cuarenta y muchos años, es una de las muchísimas cosas que, <em>todavía</em>, no sé hacer.</p>

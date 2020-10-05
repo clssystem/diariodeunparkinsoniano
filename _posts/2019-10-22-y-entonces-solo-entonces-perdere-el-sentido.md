@@ -4,7 +4,7 @@ title: Y entonces, sólo entonces, perderé el sentido
 date: 2019-10-22 12:37
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Cuando Parki irrumpió en mi vida como un elefante en una cacharrería, hace ya casi cuatro añitos, me advirtieron que iba a perder dos cosas: La sonrisa, y, algo que, sobre todo, llamó mi atención: el sentido del olfato.</p>
 <p style="text-align:justify;">De momento la sonrisa sigue dibujada en mi cara.</p>

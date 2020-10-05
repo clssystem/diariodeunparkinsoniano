@@ -5,6 +5,7 @@ date: 2017-10-03 20:44
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-III'
 ---
 <p style="text-align:justify;">Hoy he empezado la rehabilitación en la asociación del Parkinson.</p>
 <p style="text-align:justify;">El jueves pasado me valoró la fisio, y me estuvo observando sin que yo me diera cuenta.</p>

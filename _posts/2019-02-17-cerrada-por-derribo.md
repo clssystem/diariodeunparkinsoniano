@@ -4,7 +4,7 @@ title: Cerrada por derribo
 date: 2019-02-17 21:39
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VI]
 ---
 <p style="text-align:justify;">Hace apenas dos años, en el parqué de mi cuarto de estar, surgió de la nada una tienda de chucherías.</p>
 <p style="text-align:justify;">En realidad, nació de la imaginación de mi sobrina Nahia, en una de esas noches mágicas en las que mis sobrinos se quedan a dormir en casa.</p>

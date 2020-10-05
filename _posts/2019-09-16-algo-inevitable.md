@@ -4,7 +4,7 @@ title: Algo inevitable
 date: 2019-09-16 19:26
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Este fin de semana, finalmente, ha ocurrido.</p>
 <p style="text-align:justify;">Mis sobrinos han roto ese fino cordón umbilical que separa la infancia de la pubertad.</p>

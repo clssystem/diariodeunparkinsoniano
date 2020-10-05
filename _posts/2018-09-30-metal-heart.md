@@ -4,7 +4,7 @@ title: Metal Heart
 date: 2018-09-30 09:48
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VI]
 ---
 <p style="text-align:justify;">Ayer tocaba concierto heavy.</p>
 <p style="text-align:justify;">Normalmente voy con mis amigas “las hermaníssssimas”, pero esta vez no fue así.</p>

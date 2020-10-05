@@ -4,7 +4,7 @@ title: Un fin de semana en las alturas
 date: 2018-10-07 21:04
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VI]
 ---
 <p style="text-align:justify;">El mismo día que el destino me comunicó oficialmente que me había asignado como compañero a Parki, decidí dos cosas.</p>
 <p style="text-align:justify;">La primera es que no le iba a dar ni un segundo de tregua, que no tiraría la toalla en el ring de la vida.</p>

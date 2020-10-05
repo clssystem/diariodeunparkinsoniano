@@ -4,7 +4,7 @@ title: Bricolajjjj
 date: 2018-07-25 21:00
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos V]
 ---
 <p style="text-align:justify;">Según el diccionario de la R.A.E., la Real Academia Española, la palabra “bricolaje” significa “Actividad manual y casera de reparación, instalación montaje o de cualquier otro tipo, que se realiza sin ayuda profesional”.</p>
 <p style="text-align:justify;">En francés, como no, se pronuncia “bricolagggg”, alargando la “g” hasta arrinconar a la pobre “e”.</p>

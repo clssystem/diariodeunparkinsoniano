@@ -4,7 +4,7 @@ title: Despejando la X
 date: 2020-04-22 06:03
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Ayer por la noche, cuando ya estaba medio dormido y a punto de caer rendido en los brazos de Morfeo, vencido a partes iguales por el cansancio y por la desidia del aburrimiento que produce este dichoso confinamiento, zumbó descarado mi teléfono móvil, advirtiéndome de la llegada de un nuevo mensaje de WhatsApp.</p>
 <p style="text-align:justify;">Esperando el enésimo meme de “los negros del WhatsApp” bailando la danza de la muerte, me calé las gafas anti-presbicia y centré la vista en la pantalla, intentando descifrar el enigmático mensaje.</p>

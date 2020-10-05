@@ -4,7 +4,7 @@ title: El portaminas
 date: 2017-11-14 21:17
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos IV]
 ---
 <p style="text-align:justify;">El otro día llevé a mi sobrina a apuntarse a un curso de pintura.</p>
 <p style="text-align:justify;">En realidad, ya es “una veterana” de esto de la pintura, porque hace dos años, cuando tenía 8, hizo su primer curso.</p>

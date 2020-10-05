@@ -4,7 +4,7 @@ title: Date tiempo
 date: 2017-11-26 08:44
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos IV]
 ---
 <p style="text-align:justify;">Esta semana que ya acaba he conseguido algo fundamental.</p>
 <p style="text-align:justify;">Me he dado tiempo, y también se lo he dado a los demás.</p>

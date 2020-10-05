@@ -4,7 +4,7 @@ title: Sentimientos silenciosos
 date: 2019-12-20 18:28
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Hace un par de días que tuvimos una nueva sesión del grupo de terapia de jóvenes parkinsonianos, la última del año.</p>
 <p style="text-align:justify;">Nuestro grupo ha crecido este curso hasta duplicarse, de manera que ahora somos seis “jóvenes”, o, mejor dicho, siete, si contamos con Isabel, nuestra psicóloga de cabecera.</p>

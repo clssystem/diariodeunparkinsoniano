@@ -4,7 +4,7 @@ title: ¡Que le den candela!
 date: 2019-06-05 22:00
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Hoy no he conseguido hacerme con ese artilugio infernal, mal llamado respirador, y que a mí me ha resultado más un “ahogador”, en mi clase de natación.</p>
 <p style="text-align:justify;">Y mira que lo he intentado, pero ha sido inútil.</p>

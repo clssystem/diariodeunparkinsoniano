@@ -4,7 +4,7 @@ title: Más fácil será vencerlo
 date: 2019-04-10 21:23
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Mañana, día 11 de abril, es el día mundial del Párkinson y, este año, tiene como lema “Conocerlo es el primer paso para combatirlo”.</p>
 <p style="text-align:justify;">No sé de quien ha sido la idea, pero coincido plenamente con ella.</p>

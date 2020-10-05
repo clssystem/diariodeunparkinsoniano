@@ -5,6 +5,7 @@ date: 2017-08-27 17:22
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-III'
 ---
 <p style="text-align:justify;">“Mi mamá me mima”</p>
 <p style="text-align:justify;">Quien no escribió esa frase de pequeño, hasta que la letra le salía redondita y limpia.</p>

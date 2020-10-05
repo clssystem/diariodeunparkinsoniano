@@ -5,6 +5,7 @@ date: 2017-07-21 22:02
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-II'
 ---
 Si, me he acordado: Hoy es tu cumpleaños.
 

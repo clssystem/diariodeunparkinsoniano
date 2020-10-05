@@ -4,7 +4,7 @@ title: El examen sorpresa
 date: 2019-02-01 21:56
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VI]
 ---
 <p style="text-align:justify;">Ayer Omkar, mi maestroamigo de yoga, nos hizo un examen sorpresa al comenzar la clase.</p>
 <p style="text-align:justify;">Teníamos que ponernos delante de los demás, en grupos de tres en tres, y hacer una serie de saludos al Sol.</p>

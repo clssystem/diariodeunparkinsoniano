@@ -4,7 +4,7 @@ title: Perdamos el miedo
 date: 2020-03-19 08:35
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Todavía no ha amanecido.</p>
 <p style="text-align:justify;">La mezcla explosiva, a partes iguales, de medicación, insomnio y pensamientos, ha terminado de expulsarme a patadas de la cama, tan mullidita como estaba.</p>

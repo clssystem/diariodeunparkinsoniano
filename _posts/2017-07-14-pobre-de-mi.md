@@ -5,6 +5,7 @@ date: 2017-07-14 21:46
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-II'
 ---
 <p style="text-align:justify;">Hoy es catorce de Julio, y se “celebra” el pobre de mí, el último día de las fiestas de San Fermín.</p>
 <p style="text-align:justify;">Llevo toda la semana con una contractura en la espalda que no me deja moverme libremente, y hoy, por fin, he acompañado a mis amigos, a paso de tortuga, dando una vuelta por Pamplona, para estar con ellos, aunque sea en este día triste.</p>

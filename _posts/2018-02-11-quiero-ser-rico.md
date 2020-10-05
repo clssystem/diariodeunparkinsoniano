@@ -4,7 +4,7 @@ title: ¡Quiero ser rico!
 date: 2018-02-11 10:46
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos IV]
 ---
 <p style="text-align:justify;">Si.</p>
 <p style="text-align:justify;">Quiero ser rico.</p>

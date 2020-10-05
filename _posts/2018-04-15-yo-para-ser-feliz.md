@@ -4,7 +4,7 @@ title: Yo para ser feliz…
 date: 2018-04-15 20:26
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos V]
 ---
 <p style="text-align:justify;">El otro día en la tele pusieron un programa sobre el Parkinson, en el que entrevistaron a varios invitados, para conocer su experiencia con la enfermedad.</p>
 <p style="text-align:justify;">Salvando las distancias y las buenas intenciones, que en ningún momento dudo, el presentador estaba empeñado en hacer sobre todo dos preguntas a los invitados, mientras los miraba y no paraba de sonreírles, mostrando sus blancos dientes Profident:</p>

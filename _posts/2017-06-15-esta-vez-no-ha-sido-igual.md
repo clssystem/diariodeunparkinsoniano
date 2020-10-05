@@ -5,6 +5,7 @@ date: 2017-06-15 19:52
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-I'
 ---
 He estado de nuevo en el neurólogo.
 

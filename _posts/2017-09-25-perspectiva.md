@@ -5,6 +5,7 @@ date: 2017-09-25 19:49
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-III'
 ---
 <p style="text-align:justify;">Estos días estoy un poco plof.</p>
 <p style="text-align:justify;">Ese maldito programa que estoy haciendo para domar a mí ratón me roba demasiadas horas de sueño, y el sábado mi cuerpo dijo basta.</p>

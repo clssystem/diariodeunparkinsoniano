@@ -5,6 +5,7 @@ date: 2017-08-15 08:31
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-II'
 ---
 <p style="text-align:justify;">Érase una vez un hojalatero.</p>
 <p style="text-align:justify;">Érase una vez un hombre rubio, alto y bien parecido, de mirada profunda, llamado José, pero al que todos llamaban Pepe.</p>

@@ -4,7 +4,7 @@ title: Quién me ha robado el mes de abril
 date: 2020-05-03 09:19
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <!-- wp:paragraph -->
 <p>Ayer, después de más de 40 días de confinamiento por el dichoso coronavirus, pudimos dar, por fin, un paseo en condiciones.</p>

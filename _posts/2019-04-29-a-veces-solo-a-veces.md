@@ -4,7 +4,7 @@ title: A veces, sólo a veces…
 date: 2019-04-29 21:51
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">A veces, sólo a veces, recuerdo a nuestro padre abriendo la puerta de casa, y a nuestra madre acercándote a mí lado para darte el primer beso, envuelta en tu mantita, con apenas unos días de vida, mientras esperaba impaciente ese momento, rodeado de familiares, estrenando por primera vez con orgullo mi título de hermano mayor.</p>
 <p style="text-align:justify;">A veces, sólo a veces, recuerdo aquellas mañanas de sábado, escondidos debajo de la mesa de la cocina, guarecidos de la tormenta, al tiempo que nuestra madre se afanaba en preparar la comida y la música de la radio silenciaba el ruido de los truenos en nuestros oídos.</p>

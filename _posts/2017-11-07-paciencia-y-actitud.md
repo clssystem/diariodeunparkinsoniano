@@ -5,6 +5,7 @@ date: 2017-11-07 22:02
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-III'
 ---
 <p style="text-align:justify;">Hace ya algunas semanas que no escribo.</p>
 <p style="text-align:justify;">Pensaba haberlo hecho el día 31, que fue mi “primer aniversario”, cuando me diagnosticaron.</p>

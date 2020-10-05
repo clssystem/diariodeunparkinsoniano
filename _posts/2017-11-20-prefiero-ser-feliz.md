@@ -4,7 +4,7 @@ title: Prefiero ser feliz
 date: 2017-11-20 22:46
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos IV]
 ---
 &nbsp;
 <p style="text-align:justify;">En realidad, el título de este post iba a ser “Un día <span style="text-decoration:line-through;">casi</span> perfecto”, pero como suele pasar en esta vida, todo cambia en el último momento.</p>

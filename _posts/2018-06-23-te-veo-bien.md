@@ -4,7 +4,7 @@ title: Te veo bien
 date: 2018-06-23 07:45
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos V]
 ---
 <p style="text-align:justify;">Últimamente la gente me dice mucho esa frase.</p>
 <p style="text-align:justify;">Y cuando lo hace, irremediablemente, se dibuja una sonrisa en mi cara, a modo de agradecimiento.</p>

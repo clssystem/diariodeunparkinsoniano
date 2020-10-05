@@ -4,7 +4,7 @@ title: Con eso me basta
 date: 2019-05-26 08:34
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Por fin, ha llegado el día.</p>
 <p style="text-align:justify;">Parece que fue ayer, pero han pasado cinco años ya, desde la anterior reunión con mis compis de cole de la E.G.B.</p>

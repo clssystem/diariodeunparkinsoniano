@@ -4,7 +4,7 @@ title: El número diecinueve
 date: 2020-03-22 08:05
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Ha pasado ya una semana, toda una eternidad, desde que empezó nuestro auto encierro y se nota en el ambiente y en el ánimo de cada uno de nosotros.</p>
 <p style="text-align:justify;">Esta mañana me ha podido la incertidumbre, la morriña o como demonios quieras llamarlo, así que aprovechando que tenía que ir a comprar el pan y sacar algo de dinero para tener en metálico, me he acercado al portal que me vio crecer desde renacuajo, y donde, afortunadamente, siguen viviendo mis ancianos padres.</p>

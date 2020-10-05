@@ -5,6 +5,7 @@ date: 2017-10-22 19:07
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-III'
 ---
 <p style="text-align:justify;">Esta semana no pensaba escribir nada.</p>
 <p style="text-align:justify;">Desde mi “desconexión”, me faltaban las fuerzas.</p>

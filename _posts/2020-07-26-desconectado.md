@@ -4,7 +4,7 @@ title: Desconectado
 date: 2020-07-26 19:23
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <!-- wp:paragraph {"align":"justify"} -->
 <p class="has-text-align-justify">Querido diario.</p>

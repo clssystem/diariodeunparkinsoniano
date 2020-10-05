@@ -5,6 +5,7 @@ date: 2017-06-18 06:20
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-I'
 ---
 <p style="text-align:justify;">Hoy me han regalado una medalla.</p>
 <p style="text-align:justify;">En realidad, esa medalla pertenece a mi amigo Eugenio. Dicen (y es verdad), que los amigos se cuentan con los dedos de las manos. Él ocupa uno de ellos desde que íbamos juntos al cole de pequeños.</p>

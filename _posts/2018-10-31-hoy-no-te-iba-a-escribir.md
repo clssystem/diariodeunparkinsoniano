@@ -4,7 +4,7 @@ title: Hoy no te iba a escribir
 date: 2018-10-31 23:18
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VI]
 ---
 <p style="text-align:justify;">Aunque es difícil olvidarme del día en que te conocí, hoy no te iba a escribir.</p>
 <p style="text-align:justify;">Fue un 30 de octubre, de hace ya dos años.</p>

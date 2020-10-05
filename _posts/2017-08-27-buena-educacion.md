@@ -5,6 +5,7 @@ date: 2017-08-27 16:01
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-III'
 ---
 <p style="text-align:justify;">Hace tiempo que pienso que se ha perdido la buena educación.</p>
 <p style="text-align:justify;">Ya nadie abre la puerta y deja pasar a la otra persona.</p>

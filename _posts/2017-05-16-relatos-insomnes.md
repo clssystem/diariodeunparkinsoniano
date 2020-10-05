@@ -5,6 +5,7 @@ date: 2017-05-16 20:35
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-I'
 ---
 <p style="text-align:justify;">Últimamente no duermo mucho, así que para matar el tiempo se me ocurren algunas reflexiones y relatos.</p>
 <p style="text-align:justify;">De momento aquí va uno:</p>

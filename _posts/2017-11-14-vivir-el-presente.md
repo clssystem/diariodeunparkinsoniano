@@ -4,7 +4,7 @@ title: Vivir el presente
 date: 2017-11-14 21:18
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos IV]
 ---
 <p style="text-align:justify;">Ayer fui de nuevo al cursillo del Parkinson.</p>
 <p style="text-align:justify;">Entré más decidido que el día anterior, en parte porque la medicación nueva parece que me está sentando mejor, y en parte porque ya conozco a los demás.</p>

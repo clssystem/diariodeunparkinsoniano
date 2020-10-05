@@ -4,7 +4,7 @@ title: Mas de cien motivos que valen la pena
 date: 2019-01-19 19:45
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VI]
 ---
 <p style="text-align:justify;">Cada vez que voy a ver al neurólogo siempre me pasa lo mismo.</p>
 <p style="text-align:justify;">Por más que me digo: “Tranquilo tío, es sólo una visita rutinaria, y además es por tu bien”, siempre me pasa lo mismo.</p>

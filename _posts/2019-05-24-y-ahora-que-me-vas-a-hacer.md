@@ -4,7 +4,7 @@ title: Y ahora qué me vas a hacer
 date: 2019-05-24 21:50
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Han pasado varias semanas desde que decidí, o más bien, hicieron decidirme, amenazado a punta de remo de kayak por esos angelitos que tengo por amigos, el empezar el cursillo de natación.</p>
 <p style="text-align:justify;">Siempre llego un poco antes de tiempo, porque me gusta asomarme a la piscina y ver como disfrutan y chapotean en el agua la manada de renacuajos que, con apenas unos meses de vida, se sumergen en ella un poco antes que yo, sin el lastre de los complejos ni las ataduras que nos agobian a los mayores.</p>

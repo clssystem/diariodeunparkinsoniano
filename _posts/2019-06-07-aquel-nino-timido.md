@@ -4,7 +4,7 @@ title: Aquel niño tímido
 date: 2019-06-07 22:25
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VII]
 ---
 <p style="text-align:justify;">Ayer en clase de yoga hicimos un ejercicio interesante.</p>
 <p style="text-align:justify;">Formamos grupos de tres personas, y Omkar, mi maestro de yoga, formuló tres preguntas, que tuvimos que responder en voz alta al resto de compañeros, por turnos.</p>

@@ -4,7 +4,7 @@ title: ¿Qué será, será?
 date: 2018-08-03 20:30
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos VI]
 ---
 <p style="text-align:justify;">En apenas unos días voy a pasar por el quirófano, ese taller de chapa y pintura que tenemos los humanos, para que me hagan unos pequeños arreglillos en mi cuerpo, la envoltura de mi alma.</p>
 <p style="text-align:justify;">Hace unos años me hubiera puesto a temblar inmediatamente, agobiado por la situación, fíjate tú, como decían en sus días de mejor gloria los “Martes y Trece”, en aquellos estrambóticos shows televisivos de los 90.</p>

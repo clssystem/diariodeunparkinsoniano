@@ -5,6 +5,7 @@ date: 2017-07-08 20:28
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-II'
 ---
 Aunque yo no tenga pareja, sé que es cierto.
 

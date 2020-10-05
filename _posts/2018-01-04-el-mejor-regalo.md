@@ -4,7 +4,7 @@ title: El mejor regalo
 date: 2018-01-04 22:30
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos IV]
 ---
 <p style="text-align:justify;">En mi casa, hasta la llegada a nuestras vidas de mis sobrinos, éramos mas de Reyes Magos que de Olentzero.</p>
 <p style="text-align:justify;">Probablemente fuera porque todos los comienzos de enero, los Reyes Magos visitaban la fábrica donde trabajaba mi padre.</p>

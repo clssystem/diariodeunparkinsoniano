@@ -5,6 +5,7 @@ date: 2017-10-17 18:49
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-III'
 ---
 <p style="text-align:justify;">El sábado me desconecté.</p>
 <p style="text-align:justify;">Llevaba unos días medio mareado, que no me encontraba normal, y al final me desconecté.</p>

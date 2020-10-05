@@ -5,6 +5,7 @@ date: 2017-05-19 20:55
 author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
+tags: 'Relatos-I'
 ---
 <p style="text-align:justify;">De repente se oyeron unos ruidos en el vagón de al lado e instintivamente surgió en mí la necesidad de ir hacia aquel lugar. Quise despedirme de Soledad (de mi soledad), pero al volverme hacia ella había desaparecido. Sentí alivio y una cierta melancolía.</p>
 <p style="text-align:justify;">Caminé hacia aquel vagón hasta que pude distinguir la silueta de tres personas: Un niño regordete, una niña más pequeña, y, por último, una anciana que parecía ser su abuela.</p>

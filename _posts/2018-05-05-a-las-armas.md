@@ -4,7 +4,7 @@ title: ¡A las armas!
 date: 2018-05-05 06:04
 author: diariodeunparkinsoniano
 comments: true
-categories: [Sin categoría]
+tags: [Relatos V]
 ---
 <p style="text-align:justify;">Querida amiga mía:</p>
 <p style="text-align:justify;">Hoy, como casi siempre te ha pasado en esta vida, debes volver a las armas.</p>
