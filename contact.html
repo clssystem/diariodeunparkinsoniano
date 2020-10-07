@@ -6,40 +6,36 @@ background: '/img/bg-contact.jpg'
 form: true
 ---
 
+
+<script src="https://www.google.com/recaptcha/api.js?hl=es"></script>
+
 <p>¿Quieres contactar conmigo? Rellena este formulario para mandarme un mensaje, e intentaré responderte lo antes posible!</p>
-<form name="sentMessage" id="contactForm" novalidate>
+<form name="sentMessagXe" id="contactForm" action="https://formspree.io/f/mknponpg" method="POST">
     <div class="control-group">
         <div class="form-group floating-label-form-group controls">
-            <label>Name</label>
-            <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
+            <label>Nombre</label>
+            <input type="text" class="form-control" placeholder="Nombre" id="name" required data-validation-required-message="Introduce tu nombre">
             <p class="help-block text-danger"></p>
         </div>
     </div>
     <div class="control-group">
         <div class="form-group floating-label-form-group controls">
-            <label>Email Address</label>
-            <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
-            <p class="help-block text-danger"></p>
-        </div>
-    </div>
-    <div class="control-group">
-        <div class="form-group col-xs-12 floating-label-form-group controls">
-            <label>Phone Number</label>
-            <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
+            <label>E-mail</label>
+            <input type="email" class="form-control" placeholder="Email" id="email" required data-validation-required-message="Introduce tu e-mail">
             <p class="help-block text-danger"></p>
         </div>
     </div>
     <div class="control-group">
         <div class="form-group floating-label-form-group controls">
-            <label>Message</label>
-            <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+            <label>Mensaje</label>
+            <textarea rows="5" class="form-control" placeholder="Mensaje" id="message" required data-validation-required-message="Introduce tu mensaje"></textarea>
             <p class="help-block text-danger"></p>
         </div>
     </div>
     <br>
     <div id="success"></div>
     <div class="form-group">
-        <button type="submit" class="btn btn-primary" id="sendMessageButton">Send</button>
+        <button type="submit" class="btn btn-primary" id="sendMessageButton">Enviar</button>
     </div>
     <div class="g-recaptcha" data-sitekey="6Ld90tQZAAAAADtsV0fqHWd-z6PxVe-Qa0xolyAG"></div>
 </form>
