@@ -7,10 +7,11 @@
     "\\assets\\vendor\\bootstrap\\css",
     "\\assets\\vendor\\startbootstrap-clean-blog",
     "\\assets\\vendor\\startbootstrap-clean-blog\\scss",
+    "\\_includes",
     "\\_layouts",
     "\\_posts",
     "\\_sass"
   ],
-  "SelectedNode": "\\assets\\vendor\\startbootstrap-clean-blog\\scss\\_masthead.scss",
+  "SelectedNode": "\\_includes\\navbar.html",
   "PreviewInSolutionExplorer": false
 }

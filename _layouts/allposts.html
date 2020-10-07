@@ -28,8 +28,23 @@ layout: default
         <span class="col-lg-8 col-md-10 mx-auto">
 
             {{ content }}
-
-            <!-- Home Post List -->
+            <!--<ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span class="nav-label">Entradas</span> <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        {% for tag in site.tags %}
+                        <li class="dropdown-submenu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span class="nav-label">{{ tag[0] | replace: '-', ' '}}</span><span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                {% for post in tag[1] reversed %}
+                                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </li>
+            </ul>-->            <!-- Home Post List -->
             {% for tag in site.tags %}
             <h3>{{ tag[0] | replace: '-', ' '}} </h3>
             <ul>
