@@ -17,21 +17,24 @@
             <li class="nav-item">
                 <a class="nav-link" href="{{ "/allposts" | relative_url }}">Entradas</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://feedburner.google.com/fb/a/mailverify?uri=DiarioDeUnParkinsoniano&amp;loc=es_ES">Suscribirse</a>
+            </li>
             <!--<li class="nav-item dropdown">
-                <a href="#" class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Entradas</a>
+        <a href="#" class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Entradas</a>
+        <ul class="nav-item dropdown-menu">
+            {% for tag in site.tags %}
+            <li class="nav-item dropdown">
+                <a href="#" class="nav-link dropdown-toggle">{{tag[0]}}<span class="caret"></span></a>
                 <ul class="nav-item dropdown-menu">
-                    {% for tag in site.tags %}
-                    <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle">{{tag[0]}}<span class="caret"></span></a>
-                        <ul class="nav-item dropdown-menu">
-                            {% for post in tag[1] reversed %}
-                            <li class="dropdown-item"><a  href="{{ post.url }}">{{ post.title }}</a></li>
-                            {% endfor %}
-                        </ul>
-                    </li>
+                    {% for post in tag[1] reversed %}
+                    <li class="dropdown-item"><a  href="{{ post.url }}">{{ post.title }}</a></li>
                     {% endfor %}
                 </ul>
-            </li>-->
+            </li>
+            {% endfor %}
+        </ul>
+    </li>-->
 
         </ul>
     </div>
