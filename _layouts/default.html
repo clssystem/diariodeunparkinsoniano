@@ -1,20 +1,26 @@
 <!DOCTYPE html>
 
-<html>
+<html lang="es">
 
 {% include head.html %}
 
 <body>
+    {% include scripts.html %}
 
     {% include navbar.html %}
+    <!-- Search Results -->
+    <div id="lunrsearchresults">
+        <ul class="mb-0"></ul>
+    </div>
+
 
     {{ content }}
+
 
 
     {% include footer.html %}
 
 
-    {% include scripts.html %}
 
     {% include google-analytics.html %}
 

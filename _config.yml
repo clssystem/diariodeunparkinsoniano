@@ -2,9 +2,20 @@ title:              Diario de un parkinsoniano
 email:              diariodeunparkinsoniano@outlook.es
 description:        Blog personal de un parkinsoniano
 author:             Antonio Liberal
+
+authors:
+    diariodeunparkinsoniano:
+      name:           diariodeunparkinsoniano
+      site:           https://diariodeunparkinsoniano.cls-system.es/
+      avatar:         assets/images/diariodeunparkinsoniano.gif
+      bio:            "Hola, soy Antonio, el autor de este blog. ¡Espero que lo disfrutes!"
+      email:          diariodeunparkinsoniano@outlook.es
+      twitter:        https://twitter.com/antoniolibe
+
+
 baseurl:            ""
 url:                "https://diariodeunparkinsoniano.cls-system.es"
-
+disqus: 'diariodeunparkinsoniano'
 # Social Profiles
 twitter_username:   antoniolibe
 github_username:    
@@ -25,3 +36,5 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, .vs]

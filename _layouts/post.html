@@ -48,26 +48,55 @@ layout: default
         </div>
     </header>
   <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="row">
+          <!-- Share -->
+          <div class="col-lg-2 pr-4 mb-4 col-md-12">
+              <div class="sticky-top sticky-top-offset text-center">
+                  <div class="text-muted">
+                      Compartir
+                  </div>
+                  <div class="share d-inline-block">
+                      <!-- AddToAny BEGIN -->
+                      <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+                          <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+                          <a class="a2a_button_facebook"></a>
+                          <a class="a2a_button_twitter"></a>
+                      </div>
+                      <script async src="https://static.addtoany.com/menu/page.js"></script>
+                      <!-- AddToAny END -->
+                  </div>
+              </div>
+          </div>
 
-        {{ content }}
+          <div class="col-lg-8 col-md-10 mx-auto">
 
-        <hr>
 
-        <div class="clearfix">
+              {{ content }}
+              <!-- Comments -->
+              {% if page.comments != false %}
+              {% include comments.html %}
+              {% endif %}
 
-          {% if page.previous.url %}
-          <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Anterior<span class="d-none d-md-inline">
-              </span></a>
-          {% endif %}
-          {% if page.next.url %}
-          <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Siguiente<span class="d-none d-md-inline">
-              </span> &rarr;</a>
-          {% endif %}
 
-        </div>
+              <hr>
 
+              <div class="clearfix">
+
+                  {% if page.previous.url %}
+                  <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">
+                      &larr; Anterior<span class="d-none d-md-inline">
+                      </span>
+                  </a>
+                  {% endif %}
+                  {% if page.next.url %}
+                  <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">
+                      Siguiente<span class="d-none d-md-inline">
+                      </span> &rarr;
+                  </a>
+                  {% endif %}
+
+              </div>
+
+          </div>
       </div>
-    </div>
   </div>

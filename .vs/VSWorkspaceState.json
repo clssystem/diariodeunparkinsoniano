@@ -3,15 +3,14 @@
     "",
     "\\assets",
     "\\assets\\vendor",
-    "\\assets\\vendor\\bootstrap",
-    "\\assets\\vendor\\bootstrap\\css",
     "\\assets\\vendor\\startbootstrap-clean-blog",
+    "\\assets\\vendor\\startbootstrap-clean-blog\\js",
     "\\assets\\vendor\\startbootstrap-clean-blog\\scss",
     "\\_includes",
     "\\_layouts",
     "\\_posts",
     "\\_sass"
   ],
-  "SelectedNode": "\\_includes\\footer.html",
+  "SelectedNode": "\\_includes\\scripts.html",
   "PreviewInSolutionExplorer": false
 }
