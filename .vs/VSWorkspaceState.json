@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\vendor",
+    "\\assets\\images\\2017",
+    "\\assets\\images\\2017\\07",
+    "\\assets\\js",
+    "\\assets\\vendor\\bootstrap\\css",
     "\\assets\\vendor\\startbootstrap-clean-blog",
-    "\\assets\\vendor\\startbootstrap-clean-blog\\js",
     "\\assets\\vendor\\startbootstrap-clean-blog\\scss",
-    "\\_includes",
     "\\_layouts",
-    "\\_posts",
-    "\\_sass"
+    "\\_sass",
+    "\\_site"
   ],
-  "SelectedNode": "\\_includes\\scripts.html",
+  "SelectedNode": "\\_layouts\\allposts.html",
   "PreviewInSolutionExplorer": false
 }
