@@ -15,11 +15,11 @@ footer {
 
     .newsletter-container {
         max-width: 400px;
-        border-radius: 1em;
+        border-radius: 0.5em;
         display: flex;
         flex-direction: column;
-        padding: 1em 0;
-        background: #444;
+        padding: 0.5em 0.5em;
+        background: $black;
         box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2);
         margin-bottom: 2em;
     }
