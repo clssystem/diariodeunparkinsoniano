@@ -13,7 +13,7 @@
             window.idx = lunr(function () {
                 this.field('id');
                 this.field('title');
-                this.field('body', { boost: 10 });
+                this.field('body', { boost: 5 });
                 this.field('url');
                 this.field('author');
                 this.field('categories');
