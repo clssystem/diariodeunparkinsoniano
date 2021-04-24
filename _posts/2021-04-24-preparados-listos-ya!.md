@@ -78,6 +78,7 @@ La Dra. Luquin habló de una próxima vacuna y de todas las líneas de investiga
 Del HIFU, pero también de cómo estaban consiguiendo con ondas de baja frecuencia abrir la barrera que hace infranqueable al cerebro, para poder introducir virus que modificasen genéticamente algunas neuronas y así de esa manera producir dopamina, y conseguir la ansiada curación.
 
 En sus ojos vi esa chispita de luz que se ve cuando la gente cree en algo y dedica su vida a hacerlo realidad.
+
 Cirugía.
 
 Esa palabra que al principio tanto temía, y que, con el tiempo, me he acostumbrado a pronunciar en alto.
