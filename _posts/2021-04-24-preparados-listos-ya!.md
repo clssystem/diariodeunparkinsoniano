@@ -9,7 +9,9 @@ tags: [Relatos VII]
 
 Querido diario.
 
-Hoy, de nuevo, vuelvo a pintar tu blanco lienzo con los trazos de mis pensamientos. Intentando, de esta manera, expulsarlos, sacarlos de mí, para poder ordenarlos y pensar con claridad.
+Hoy, de nuevo, vuelvo a pintar tu blanco lienzo con los trazos de mis pensamientos.
+
+Intentando, de esta manera, expulsarlos, sacarlos de mí, para poder ordenarlos y pensar con claridad.
 
 Permíteme que lo haga.
 
