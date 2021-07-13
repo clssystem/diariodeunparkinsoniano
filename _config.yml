@@ -31,7 +31,7 @@ markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
 excerpt_separator: <!–break–>
-permalink: /post/:year/:month/:dayitle
+permalink: /post/:year/:month/:day/:title
 page:
     background: '/img/bg-contact.jpg'
 plugins:
