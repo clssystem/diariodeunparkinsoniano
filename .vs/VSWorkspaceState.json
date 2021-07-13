@@ -1,14 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.jekyll-cache",
-    "\\.jekyll-cache\\Jekyll",
-    "\\.jekyll-cache\\Jekyll\\Cache",
-    "\\.jekyll-cache\\Jekyll\\Cache\\Jekyll--Cache",
     "\\bin",
-    "\\_posts",
-    "\\_site\\assets"
+    "\\_layouts",
+    "\\_posts"
   ],
-  "SelectedNode": "\\.travis.yml",
+  "SelectedNode": "\\_layouts\\post.html",
   "PreviewInSolutionExplorer": false
 }
