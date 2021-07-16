@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\images",
+    "\\assets\\images\\2021",
+    "\\assets\\images\\2021\\07",
     "\\bin",
-    "\\_layouts",
     "\\_posts"
   ],
-  "SelectedNode": "\\_layouts\\post.html",
+  "SelectedNode": "\\_posts\\2021-05-13-lua.md",
   "PreviewInSolutionExplorer": false
 }
