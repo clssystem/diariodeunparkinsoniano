@@ -19,7 +19,7 @@ Es de mí, dedicada a ti.
 
 No quería escribirla así, tan de repente.
 
-Pero, cómo surgen las cosas buenas, ha surgido de eta manera, sin esperarla.
+Pero, cómo surgen las cosas buenas, ha surgido de esta manera, sin esperarla.
 
 Mira que he tenido tiempo para hacerlo.
 
