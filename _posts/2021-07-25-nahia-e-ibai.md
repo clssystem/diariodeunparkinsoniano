@@ -39,7 +39,7 @@ Hoy la acompaña con una sonrisa que es nueva para mí, porque su carita de niñ
 
 Y qué decir de Nahia.
 
-Esa princesita de ojos rizados que me enamoró nada más verla, a la que admiro por su trabajo y tesón.
+Esa princesita, reflejo del espejo de su madre, de cabellos rizados que me enamoró nada más verla, a la que admiro por su trabajo y tesón.
 
 La que me robó mi portaminas, y que también se llevó con él un trocito de mi corazón.
 
