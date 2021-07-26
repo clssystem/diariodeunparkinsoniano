@@ -4,7 +4,7 @@ title: Unidos, pero no revueltos
 date: 2020-03-15 05:19
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos VII]
+tags: [Relatos VIII]
 ---
 <p style="text-align:justify;">Hace tiempo que no escribo, y menos de madrugada, con lo mal que le sienta a mi castigado cuerpo.</p>
 <p style="text-align:justify;">En mi cabeza iban surgiendo ideas para hacerlo, pero desaparecían del cielo de mí consciencia, como nubes algodonadas mecidas por la brisa del suave viento de esta adelantada primavera.</p>

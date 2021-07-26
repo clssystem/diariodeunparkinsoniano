@@ -4,7 +4,7 @@ title: Memes y memos
 date: 2020-03-29 07:02
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos VII]
+tags: [Relatos VIII]
 ---
 <p style="text-align:justify;">Ya han pasado quince días desde nuestro auto encierro.</p>
 <p style="text-align:justify;">Siempre intento escribir de manera imparcial, pero esta vez no lo puedo hacer.</p>

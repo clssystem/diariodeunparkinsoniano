@@ -4,7 +4,7 @@ title: Preparados, listos... ¿ya?
 date: 2021-04-24 06:51
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos VII]
+tags: [Relatos IX]
 ---
 
 Querido diario.

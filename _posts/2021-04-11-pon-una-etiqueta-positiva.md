@@ -4,7 +4,7 @@ title: #PonUnaEtiquetaPositiva
 date: 2021-04-11 06:51
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos VII]
+tags: [Relatos IX]
 ---
 
 Hoy es Domingo, 11 de Abril del 2021

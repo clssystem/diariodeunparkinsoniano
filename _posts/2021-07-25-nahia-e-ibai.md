@@ -4,7 +4,7 @@ title: Nahia e Ibai. Ibai y Nahia
 date: 2021-07-25 06:51
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos VII]
+tags: [Relatos IX]
 ---
 
 Hoy empiezo mi entrada en el blog por su final.

@@ -4,7 +4,7 @@ title: Hasta siempre Txemis
 date: 2021-07-12 06:51
 author: diariodeunparkinsoniano
 comments: true7
-tags: [Relatos VII]
+tags: [Relatos IX]
 ---
 
 Hoy había empezado a escribir en mi blog, abandonado desde hacía tantos meses.

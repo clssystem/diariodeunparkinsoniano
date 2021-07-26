@@ -4,7 +4,7 @@ title: Ahora, por fin, lo entiendo
 date: 2020-01-17 21:01
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos VII]
+tags: [Relatos VIII]
 ---
 <p style="text-align:justify;">Por fin.</p>
 <p style="text-align:justify;">Después de unos cuantos días de espera, por fin ha llegado.</p>

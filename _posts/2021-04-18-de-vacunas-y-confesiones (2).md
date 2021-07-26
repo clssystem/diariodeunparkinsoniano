@@ -4,7 +4,7 @@ title: De vacunas y confesiones
 date: 2021-04-18 06:51
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos VII]
+tags: [Relatos IX]
 ---
 
 Ha pasado más de un año desde que empezó esta pesadilla del coronavirus.

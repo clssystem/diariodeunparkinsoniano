@@ -4,7 +4,7 @@ title: Qué vida más achuchá
 date: 2021-07-16 06:51
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos VII]
+tags: [Relatos IX]
 ---
 
 Erase una vez, una vez que se era, una niñita llamada Elma.

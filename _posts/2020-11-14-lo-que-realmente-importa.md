@@ -4,7 +4,7 @@ title: Lo que realmente importa
 date: 2020-11-14 07:51
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos VII]
+tags: [Relatos IX]
 ---
 
 Querido diario.

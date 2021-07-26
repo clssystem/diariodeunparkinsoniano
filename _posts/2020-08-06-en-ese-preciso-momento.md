@@ -4,7 +4,7 @@ title: En ese preciso momento
 date: 2020-08-06 05:20
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos VII]
+tags: [Relatos VIII]
 ---
 <!-- wp:paragraph -->
 <p>Querido diario.</p>

@@ -4,7 +4,7 @@ title: Reyes Magos
 date: 2021-01-06 07:51
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos VII]
+tags: [Relatos IX]
 ---
 
 Érase una vez que se era, hace ya tanto tiempo, tanto que se desvanece en mi recuerdo, una época en la que a los críos se nos clasificaba de otra manera.

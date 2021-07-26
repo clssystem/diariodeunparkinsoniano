@@ -4,7 +4,7 @@ title: El olor a lluvia mojada
 date: 2020-04-11 19:22
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos VII]
+tags: [Relatos VIII]
 ---
 <p style="text-align:justify;">Como cada tarde a las ocho, desde hace ya un interminable mes, hemos salido al balcón, medio adormilados por el cansancio de la rutina, dispuestos a cumplir con el ritual de los aplausos.</p>
 <p style="text-align:justify;">Se ve y se oye a la gente aplaudir desde sus ventanas y balcones, convertidos en una especie de Robinsones forzosos, la mayoría con los pelos alborotados y descuidados, con los ojos cansados de ver siempre lo mismo.</p>
