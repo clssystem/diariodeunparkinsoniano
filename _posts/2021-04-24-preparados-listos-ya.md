@@ -96,7 +96,6 @@ Y, sin dudarlo, he dicho que sí.
 Así que a partir de ahora empieza una nueva carrera.
 
 Hoy, como hace casi cinco años, escucho de nuevo el “Preparados, listos…¡YA!”
- 
 
 
 
@@ -105,8 +104,8 @@ Hoy, como hace casi cinco años, escucho de nuevo el “Preparados, listos…¡Y
 
 
 
-<img class="img-fluid"  src="/assets/images/2021/04/preparadoslistosya.jpg" alt="" />
 
+<img class="img-fluid"  src="/assets/images/2021/04/preparadoslistosya.jpg" alt="preparados listos ya" />
 
 
 

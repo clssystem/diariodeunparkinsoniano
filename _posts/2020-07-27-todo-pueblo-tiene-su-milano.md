@@ -27,7 +27,7 @@ tags: [Relatos VIII]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":1102,"sizeSlug":"large"} -->
-<div clasXs="wp-block-image"><figure class="alignleft size-large"><img class="img-fluid"  src="/assets/images/2020/07/amstrad_ppc512_open-1.jpg?w=1024" alt="" clasXs="wp-image-1102" /></figure></div>
+<div clasXs="wp-block-image"><figure class="alignleft size-large"><img class="img-fluid"  src="/assets/images/2020/07/amstrad_ppc512_open-1.jpg?w=1024" alt="Amstrad PPC512" clasXs="wp-image-1102" /></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -95,5 +95,5 @@ tags: [Relatos VIII]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1104,"sizeSlug":"large"} -->
-<figure clasXs="wp-block-image size-large"><img class="img-fluid"  src="/assets/images/2020/07/2020011314573493668-1.jpg?w=1024" alt="" clasXs="wp-image-1104" /></figure>
+<figure clasXs="wp-block-image size-large"><img class="img-fluid"  src="/assets/images/2020/07/2020011314573493668-1.jpg?w=1024" alt="Todo pueblo tiene su milano" clasXs="wp-image-1104" /></figure>
 <!-- /wp:image -->

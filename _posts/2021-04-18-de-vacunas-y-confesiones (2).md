@@ -98,8 +98,7 @@ De vacunas y confesiones.
 
 
 
-<img class="img-fluid"  src="/assets/images/2021/04/vacunasconfesiones.jpg" alt="" />
-
+<img class="img-fluid"  src="/assets/images/2021/04/vacunasconfesiones.jpg" alt="De vacunas y confesiones" />
 
 
 

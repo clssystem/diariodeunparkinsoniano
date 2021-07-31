@@ -60,4 +60,4 @@ Y todos rieron, fueron felices y comieron perdices.
 
 
 
-<img class="img-fluid"  src="/assets/images/2021/07/elma.jpeg" alt="" />
+<img class="img-fluid"  src="/assets/images/2021/07/elma.jpeg" alt="que vida mas achucha" />

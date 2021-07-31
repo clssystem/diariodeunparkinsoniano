@@ -65,8 +65,7 @@ Feliz día del Parkinsoniano.
 
 
 
-<img class="img-fluid"  src="/assets/images/2021/04/PonUnaEtiquetaPositiva.jpg" alt="" />
-
+<img class="img-fluid"  src="/assets/images/2021/04/PonUnaEtiquetaPositiva.jpg" alt="pon una etiqueta positiva en tu vida" />
 
 
 
