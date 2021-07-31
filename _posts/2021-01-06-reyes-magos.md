@@ -62,8 +62,7 @@ Y por eso, sólo por eso, soy y seré “de los Reyes Magos”
 
 
 
-<img class="img-fluid"  src="/assets/images/2021/01/reyes.jpg" alt="" />
-
+<img class="img-fluid"  src="/assets/images/2021/01/reyes.jpg" alt="Reyes Magos" />
 
 
 

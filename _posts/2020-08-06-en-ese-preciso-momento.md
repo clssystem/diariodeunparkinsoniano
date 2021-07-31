@@ -115,7 +115,7 @@ tags: [Relatos VIII]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1111,"sizeSlug":"large"} -->
-<figure clasXs="wp-block-image size-large"><img class="img-fluid"  src="/assets/images/2020/08/img-20200805-wa0007-01.jpeg?w=768" alt="" clasXs="wp-image-1111" /></figure>
+<figure clasXs="wp-block-image size-large"><img class="img-fluid"  src="/assets/images/2020/08/img-20200805-wa0007-01.jpeg?w=768" alt="En ese preciso momento" clasXs="wp-image-1111" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
