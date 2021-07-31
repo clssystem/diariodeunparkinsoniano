@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Pandoc]
+"MUIVerb"="&Pandoc"
+"SubCommands"="Pandoc.2doc; Pandoc.2txt; Pandoc.2html; "
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\Pandoc.2doc]
+="&2doc"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\Pandoc.2doc\command]
+=""C:\Program Files (x86)\Pandoc\pandoc.exe" -s "%1" -o "%1.docx""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\Pandoc.2txt]
+="&2txt"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\Pandoc.2txt\command]
+=""C:\Program Files (x86)\Pandoc\pandoc.exe" -s "%1" -o "%1.txt""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\Pandoc.2html]
+="&2html"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\CommandStore\shell\Pandoc.2html\command]
+=""C:\Program Files (x86)\Pandoc\pandoc.exe" -s "%1" -o "%1.html""
