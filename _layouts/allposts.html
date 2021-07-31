@@ -50,9 +50,9 @@ layout: default
                 <!-- Home Post List -->
                 {% for tag in site.tags %}
                 <h3>{{ tag[0] | replace: '-', ' '}}
-                <a href="\assets\ebooks\{{ tag[0] | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.epub"><img src="\assets\ebooks\epub.png" alt="EPUB" />
-                <a href="\assets\ebooks\{{ tag[0] | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.mobi"><img src="\assets\ebooks\mobi.png" alt="MOBI"  />
-                <a href="\assets\ebooks\{{ tag[0] | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.pdf"><img src="\assets\ebooks\pdf.png" alt="PDF"  />
+                <a href="/assets/ebooks/{{ tag[0] | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.epub"><img src="/assets/ebooks/epub.png" alt="EPUB" />
+                <a href="/assets/ebooks/{{ tag[0] | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.mobi"><img src="/assets/ebooks/mobi.png" alt="MOBI"  />
+                <a href="/assets/ebooks/{{ tag[0] | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.pdf"><img src="/assets/ebooks/pdf.png" alt="PDF"  />
                 </h3>
                 <ul>
                     {% for post in tag[1] reversed %}
