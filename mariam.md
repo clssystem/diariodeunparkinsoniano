@@ -4,6 +4,7 @@ title: Mariam
 date: 2021-07-19 06:51
 author: diariodeunparkinsoniano
 comments: false
+sitemap: false
 #tags: [Relatos VII]
 ---
 
@@ -74,5 +75,4 @@ Y ahí, con esa cosa aparentemente tan tonta, me ha surgido la inspiración.
 Y ahí, me he dado cuenta, que se me ha quedado un huequito vacío, en lo más profundo de mi corazón.
 
 Te quiero, mi vida.
-
 
