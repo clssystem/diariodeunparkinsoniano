@@ -14,4 +14,4 @@ tags: 'Relatos-I'
 <p style="text-align:justify;">Esas vivencias alimentan el fuego de la amistad.  Por pequeñas y ridículas que puedan parecer.  Quizás para ti las mías no tengan sentido. Pero haz una prueba: Sustitúyelas por las tuyas. Seguro que acabarás sonriendo pensando en uno de tus amigos, poniéndole cara.</p>
 <p style="text-align:justify;">Todas sus reacciones me han llegado al alma. Todas y cada una. Pero me voy a permitir elegir una que resume todas las demás:  Siempre juntos. En lo bueno y en lo malo. En la salud y en la enfermedad.</p>
 <p style="text-align:justify;">Por eso… SIEMPRE JUNTOS. Siempre estaréis en mi corazón. Os quiero.</p>
-<img class="img-fluid"  src="/assets/images/2017/05/img_20170417_084220_5351015.jpg" />
+<img class="img-fluid"  src="/assets/images/2017/05/img_20170417_084220_5351015.jpg" alt="Siempre juntos" />

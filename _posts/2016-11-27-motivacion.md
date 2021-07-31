@@ -39,4 +39,4 @@ Bueno, creo que esto es todo lo que quería contar de momento. En resumen: Que v
 
 Para finalizar os dejo una foto que hice un día. Es un sitio real. Se llama Paseo de la Esperanza.
 
-<img class="img-fluid"  src="/assets/images/2016/12/img-20161224-wa0018.jpg" />
+<img class="img-fluid"  src="/assets/images/2016/12/img-20161224-wa0018.jpg" alt="Motivacion Parkinson" />
