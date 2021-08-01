@@ -60,12 +60,15 @@ layout: default
                         </span>
                     </a>
                     {% endif %}
+
                     {% if page.next.url %}
                     <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">
                         Siguiente<span class="d-none d-md-inline">
                         </span> &rarr;
                     </a>
                     {% endif %}
+                    <span>&nbsp;</span>
+                    <a class="btn btn-primary float-right" href="{{"/allposts" | relative_url }}">Todas&rarr;</a>
 
                 </div>
                 <!-- Comments -->

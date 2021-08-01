@@ -80,9 +80,40 @@ layout: default
 
                 <!-- Pager -->
                 <div class="clearfix">
-                    <a class="btn btn-primary float-right" href="{{"/allposts" | relative_url }}">Ver todas las entradas &rarr;</a>
-                </div>
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a class="btn btn-primary float-right"  href="{{ paginator.previous_page_path | relative_url }}">&larr;</a>
+  {% else %}
+    <span class="btn btn-primary float-right"  >&larr;</span>
+  {% endif %}
+    <span>&nbsp;</span>
+{% assign minPage = paginator.page | plus: -2 %}
+{% assign maxPage = paginator.page | plus: 2  %}
+    {%if maxPage>paginator.total_pages %}
+    {% assign maxPage = paginator.total_pages  %}
+    {%endif%}
+  {% for page in (minPage..maxPage) %}
+    {% if page == paginator.page %}
+      <em class="btn btn-primary float-right"  ><u>{{ page }}</u> </em>
+    <span>&nbsp;</span>
+    {% elsif page == 1 %}
+      <a class="btn btn-primary float-right"  href="{{ '/' | relative_url }}">{{ page }}</a>
+        <span>&nbsp;</span>
+    {% elsif page > 0 %}
+      <a class="btn btn-primary float-right"  href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    <span>&nbsp;</span>
+    {% endif %}
+  {% endfor %}
 
+  {% if paginator.next_page %}
+    <a class="btn btn-primary float-right"   href="{{ paginator.next_page_path | relative_url }}">&rarr;</a>
+    <span>&nbsp;</span>
+  {% endif %}
+                    <a class="btn btn-primary float-right" href="{{"/allposts" | relative_url }}">Entradas</a>
+</div>
+{% endif %}
+                </div>
             </div>
         </div>
     </div>
