@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 ---
 
@@ -78,42 +78,50 @@ layout: default
 
                 {% endfor %}
 
+            </div>
+        </div>
+            <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
                 <!-- Pager -->
-                <div class="clearfix">
+<ul class="list-inline text-center">
+    <li class="list-inline-item"><span>Pág:</span></li>
 {% if paginator.total_pages > 1 %}
-<div class="pagination">
+    <li class="list-inline-item">
   {% if paginator.previous_page %}
-    <a class="btn btn-primary float-right"  href="{{ paginator.previous_page_path | relative_url }}">&larr;</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}">&larr;</a>
   {% else %}
-    <span class="btn btn-primary float-right"  >&larr;</span>
+    <span >&larr;</span>
   {% endif %}
-    <span>&nbsp;</span>
+        </li>
 {% assign minPage = paginator.page | plus: -2 %}
 {% assign maxPage = paginator.page | plus: 2  %}
     {%if maxPage>paginator.total_pages %}
     {% assign maxPage = paginator.total_pages  %}
     {%endif%}
   {% for page in (minPage..maxPage) %}
+    <li class="list-inline-item">
     {% if page == paginator.page %}
-      <em class="btn btn-primary float-right"  ><u>{{ page }}</u> </em>
-    <span>&nbsp;</span>
+      <em ><u>{{ page }}</u> </em>
     {% elsif page == 1 %}
-      <a class="btn btn-primary float-right"  href="{{ '/' | relative_url }}">{{ page }}</a>
-        <span>&nbsp;</span>
+      <a href="{{ '/' | relative_url }}">{{ page }}</a>
     {% elsif page > 0 %}
-      <a class="btn btn-primary float-right"  href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-    <span>&nbsp;</span>
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
     {% endif %}
+        </li>
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a class="btn btn-primary float-right"   href="{{ paginator.next_page_path | relative_url }}">&rarr;</a>
-    <span>&nbsp;</span>
+    <li class="list-inline-item">
+    <a href="{{ paginator.next_page_path | relative_url }}">&rarr;</a>
+        </li>
   {% endif %}
-                    <a class="btn btn-primary float-right" href="{{"/allposts" | relative_url }}">Entradas</a>
-</div>
+<li class="list-inline-item">
+                    <a href="{{"/allposts" | relative_url }}">Indice</a>
+    </li>
 {% endif %}
+    </ul>
                 </div>
             </div>
-        </div>
+                </div>
     </div>

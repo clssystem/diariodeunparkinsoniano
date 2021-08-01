@@ -52,25 +52,35 @@ layout: default
 
                 <hr>
 
-                <div class="clearfix">
-
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+                <ul class="list-inline text-center">
                     {% if page.previous.url %}
-                    <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">
+                    <li class="list-inline-item">
+                    <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">
                         &larr; Anterior<span class="d-none d-md-inline">
                         </span>
                     </a>
+                        </li>
                     {% endif %}
 
                     {% if page.next.url %}
-                    <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">
+                    <li class="list-inline-item">
+                    <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">
                         Siguiente<span class="d-none d-md-inline">
                         </span> &rarr;
                     </a>
+                        </li>
                     {% endif %}
-                    <span>&nbsp;</span>
-                    <a class="btn btn-primary float-right" href="{{"/allposts" | relative_url }}">Todas&rarr;</a>
+                    <li class="list-inline-item">
+                    <a href="{{"/allposts" | relative_url }}">Indice</a>
+                        </li>
+
 
                 </div>
+                </div>
+            </div>
                 <!-- Comments -->
                 {% if page.comments != false %}
                 {% include comments.html %}
@@ -78,6 +88,7 @@ layout: default
 
 
             </div>
+
 
             <!-- Share -->
             <div class="col-lg-2 pr-4 mb-4 col-md-12">
