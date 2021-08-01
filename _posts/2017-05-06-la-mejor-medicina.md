@@ -5,6 +5,7 @@ date: 2017-05-06 20:29
 author: diariodeunparkinsoniano
 comments: true
 tags: 'Relatos-I'
+keywords: [neurólogo,ansiedad,amistad]
 ---
 <p style="text-align:justify;">Hace tiempo que no escribo nada.</p>
 <p style="text-align:justify;">Durante este tiempo he visitado dos veces al médico. La primera vez me prescribieron un medicamento para que mis neuronas sanas generen más dopamina. Me lo tomé y me dio esperanza. La segunda vez de nuevo otro medicamento, esta vez para que los receptores nerviosos capten más de la misma. Lo digerí con escepticismo.</p>

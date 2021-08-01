@@ -7,6 +7,7 @@ author: diariodeunparkinsoniano
 tags: 'Relatos-I'
 image: 'assets/images/2016/12/img-20161224-wa0018.jpg'
 background: '/img/bg-header.jpg'
+keywords: [motivación,superación,neurologia,juventud]
 ---
 
 La verdad, no sé ni cómo empezar. Soy un hombre de 44 años al que hace un par de meses le diagnosticaron Parkinson. Aunque en realidad los síntomas empezaron a manifestarse claramente hace un año, y “encubiertamente” hace más tiempo, que no puedo concretar. Suena raro eso de “hombre”. Creo que es la primera vez que lo utilizo.

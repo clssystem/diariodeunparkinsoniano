@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\ebooks",
+    "\\assets\\images",
+    "\\bin",
     "\\_includes",
-    "\\_layouts",
-    "\\_posts"
+    "\\_layouts"
   ],
-  "SelectedNode": "\\Gemfile",
+  "SelectedNode": "\\carta.md",
   "PreviewInSolutionExplorer": false
 }

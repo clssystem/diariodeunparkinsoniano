@@ -6,6 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
 tags: 'Relatos-I'
+keywords: [libertad,amistad,amigos,juventud]
 ---
 <p style="text-align:justify;">No sabía muy bien como titular este post. Ni tampoco si debía escribirlo.</p>
 <p style="text-align:justify;">Bueno, eso sí. Hace poco que decidí expresarme con libertad en este blog. Un gran paso ha sido mostrárselo a mis amigos. Al principio dudaba. Puede haber dolor, pero también hay esperanza. No quería hacerles daño, y si hacerles sentir bien. Así que estas líneas están dedicadas a todos los que me sufren.</p>

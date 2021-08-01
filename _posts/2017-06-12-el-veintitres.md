@@ -6,6 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
 tags: 'Relatos-I'
+keywords: [portal,veintitres,23,muerte,esperanza,trabajar duro,aceitunas,sobrino,tiop]
 ---
 <p style="text-align:justify;">El veintitrés es el número de un portal de la calle donde me crié.</p>
 <p style="text-align:justify;">No tendría nada de especial, podría pasar por un portal normal de gente obrera, salvo porque en ese bloque de viviendas han vivido mis tíos, y crecido mis primos.</p>

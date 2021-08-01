@@ -6,6 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
 tags: 'Relatos-I'
+keywords: [prematuro,cariño,mellizos,sobrinos,nahia,ibai]
 ---
 <p style="text-align:justify;">Nacieron un sábado 29 de septiembre, día de San Miguel, hace ya casi 10 años.</p>
 <p style="text-align:justify;">Aquel día fue el inicio de sus vidas, y un cambio enorme para el resto de nosotros.</p>
