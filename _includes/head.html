@@ -10,7 +10,9 @@
 
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 {%if page.keywords %}
-<meta name="keywords" content="blog,discapacidad,movilidad,parkinson,diario,{{ page.keywords | join: ',' | escape }}"/>
+<meta name="keywords" content="blog,discapacidad,movilidad,parkinson,diario,antonio liberal,superacion,esperanza,mousehelper,mouse helper,{{ page.keywords | join: ',' | escape }}"/>
+{% else %}
+    <meta name="keywords" content="blog,discapacidad,movilidad,parkinson,diario,antonio liberal,superacion,esperanza,mousehelper,mouse helper"/>
 {%endif %}
 
     <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
