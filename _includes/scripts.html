@@ -10,8 +10,10 @@
 {% endif %} 
 <script type="application/ld+json"> 
     { "@context": "http://schema.org", "@type": "BlogPosting", 
-            {% if site.title %}"name": "{{ site.title }}",{% endif %} 
-            {% if site.title%} "headline": "{{ site.title }}",{% endif %} 
+            {% if site.title %}"name": "{{ site.title }} {% if paginator.page %} (Página {{paginator.page}}){% endif %}",{% endif %} 
+            
+
+            {% if site.title%} "headline": "{{ site.title }} {% if paginator.page %} (Página {{paginator.page}}){% endif %}",{% endif %} 
             {% if site.description %}"description": "{{ site.description }}",{% endif %} 
             {% if site.url %}"url": "{{ site.url }}{{ site.baseurl }}",{% endif %}
                         {% if site.author %}"author": { "@type": "Person", "name": "{{ site.authors[site.author].name }}" },{% endif %}

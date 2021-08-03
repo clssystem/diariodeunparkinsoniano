@@ -30,7 +30,7 @@ google_analytics:   UA-175471186-2 # out your google-analytics code
 # Build settings
 markdown:           kramdown
 paginate:           5
-paginate_path:      "/posts/page:num/"
+paginate_path:      "/post/page:num/"
 excerpt_separator: <!–break–>
 permalink: /post/:year/:month/:day/:title
 page:
