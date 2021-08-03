@@ -5,6 +5,8 @@ date: 2021-07-16 06:51
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos IX]
+image: '/assets/images/2021/07/elma.jpeg'
+keywords: [elma,cuento,infantil,ternura]
 ---
 
 Erase una vez, una vez que se era, una niñita llamada Elma.
@@ -59,5 +61,5 @@ Y todos rieron, fueron felices y comieron perdices.
 
 
 
-
 <img class="img-fluid"  src="/assets/images/2021/07/elma.jpeg" alt="que vida mas achucha" />
+

@@ -1,0 +1,7 @@
+Configuration file: F:/Codigo/jekyll/diariodeunparkinsoniano/_config.yml
+            Source: F:/Codigo/jekyll/diariodeunparkinsoniano
+       Destination: F:/Codigo/jekyll/diariodeunparkinsoniano/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+¨Desea terminar el trabajo por lotes (S/N)? ¨Desea terminar el trabajo por lotes (S/N)? 

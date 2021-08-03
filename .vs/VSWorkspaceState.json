@@ -6,8 +6,9 @@
     "\\assets\\images",
     "\\bin",
     "\\_includes",
-    "\\_layouts"
+    "\\_layouts",
+    "\\_site\\post"
   ],
-  "SelectedNode": "\\carta.md",
+  "SelectedNode": "\\_layouts\\post.html",
   "PreviewInSolutionExplorer": false
 }

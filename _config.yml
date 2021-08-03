@@ -1,16 +1,16 @@
 title:              Diario de un parkinsoniano
 email:              diariodeunparkinsoniano@outlook.es
 description:        Blog personal de una persona que convive con el Parkinson
-author:             Antonio Liberal
-
+author:             diariodeunparkinsoniano
+date:               2016-11-27
 authors:
     diariodeunparkinsoniano:
-      name:           diariodeunparkinsoniano
+      name:           Antonio Liberal
       site:           https://diariodeunparkinsoniano.cls-system.es/
       avatar:         assets/images/diariodeunparkinsoniano.gif
       bio:            "Hola, soy Antonio, el autor de este blog. ¡Espero que lo disfrutes!"
       email:          diariodeunparkinsoniano@outlook.es
-      twitter:        https://twitter.com/antoniolibe
+      twitter:        antoniolibe
 
 
 baseurl:            ""

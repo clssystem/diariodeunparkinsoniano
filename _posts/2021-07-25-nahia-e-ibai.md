@@ -5,6 +5,8 @@ date: 2021-07-25 06:51
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos IX]
+--image: '/assets/images/2016/12/img-20161224-wa0018.jpg'
+keywords: [sobrinos,familia,mellizos,cariño]
 ---
 
 Hoy empiezo mi entrada en el blog por su final.

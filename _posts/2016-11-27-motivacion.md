@@ -5,8 +5,8 @@ date:   2016-12-28
 categories: motivacion
 author: diariodeunparkinsoniano
 tags: 'Relatos-I'
-image: 'assets/images/2016/12/img-20161224-wa0018.jpg'
 background: '/img/bg-header.jpg'
+image: '/assets/images/2016/12/img-20161224-wa0018.jpg'
 keywords: [motivación,superación,neurologia,juventud]
 ---
 
