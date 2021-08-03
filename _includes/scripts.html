@@ -32,7 +32,7 @@
     {% endif %} 
 
     {% if page.title %}"name": "{{ page.title }}",{% endif %} 
-    "description": "{{ page.excerpt | truncatewords: 50 | replace: '<p>', '' | replace: '</p>', ' '}}",
+    "description": "{{ page.excerpt | truncatewords: 50 | strip_html}}",
     {% if page.title %}"headline": "{{ page.title }}",{% endif %} 
     {% if page.author or site.author %}"author": { "@type": "Person", 
             "name": "{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}" },
