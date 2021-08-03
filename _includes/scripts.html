@@ -9,11 +9,12 @@
     {% endfor %} 
 {% endif %} 
 <script type="application/ld+json"> 
-    { "@context": "http://schema.org", "@type": "WebSite", 
-            {% if site.name %}"name": "{{ site.name }}",{% endif %} 
+    { "@context": "http://schema.org", "@type": "Blog", 
+            {% if site.title %}"name": "{{ site.title }}",{% endif %} 
+            {% if site.title%} "headline": "{{ site.title }}",{% endif %} 
             {% if site.description %}"description": "{{ site.description }}",{% endif %} 
-            {% if 
-    site.url %}"url": "{{ site.url }}{{ site.baseurl }}",{% endif %}
+            {% if site.url %}"url": "{{ site.url }}{{ site.baseurl }}",{% endif %}
+            {% if site.url %}"@id": "{{ site.url }}{{ site.baseurl }}",{% endif %}
             {% if site.author %}"author": { "@type": "Person", "name": "{{ site.authors[site.author].name }}" },{% endif %}
             {% if site.date %}"dateCreated": "{{ site.date | date: "%Y-%m-%d" }}",{% endif %}
             "image": "{{ site.url }}{{ site.baseurl }}/assets/images/diariodeunparkinsoniano.gif",
@@ -30,7 +31,8 @@
     {% endif %} 
 
     {% if page.title %}"name": "{{ page.title }}",{% endif %} 
-    {% if page.description %}"description": "{{ page.description }}",{% endif %} 
+    "description": "{{ page.excerpt | truncatewords: 50 | replace: '<p>', '' | replace: '</p>', ' '}}",
+    {% if page.description %}"headline": "{{ page.description }}",{% endif %} 
     {% if page.author or site.author %}"author": { "@type": "Person", 
             "name": "{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}" },
     {% endif %} 
