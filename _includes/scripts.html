@@ -21,9 +21,7 @@
             "mainEntityOfPage":{"@type":"WebPage","@id":"{{ site.url }}{{ site.baseurl }}"}
     } 
 </script>
-{% endif %} 
-
-{% if page.layout == 'post' %}
+{%else %}
 <script type="application/ld+json"> 
     { "@context": "http://schema.org", 
     "@type": "BlogPosting", 
