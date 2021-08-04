@@ -2,13 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\ebooks",
     "\\assets\\images",
+    "\\assets\\images\\2018",
     "\\bin",
-    "\\_includes",
-    "\\_layouts",
-    "\\_site\\post"
+    "\\_posts",
+    "\\_sass",
+    "\\_site\\post\\page10"
   ],
-  "SelectedNode": "\\_layouts\\post.html",
+  "SelectedNode": "\\assets\\images",
   "PreviewInSolutionExplorer": false
 }
