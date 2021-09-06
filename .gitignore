@@ -10,3 +10,8 @@ node_modules
 .jekyll-cache/Jekyll/Cache
 Gemfile.lock
 *.gem
+.vs/slnx.sqlite
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/diariodeunparkinsoniano/v16/.suo
+.vscode/settings.json
