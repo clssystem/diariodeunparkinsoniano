@@ -50,7 +50,9 @@ type:            default
 
 
                 {{ content }}
-
+{%if page.footerimage %}
+<img class="img-fluid"  src="{{page.footerimage}}" alt="{{page.title}}" />
+{%endif %}
                 <hr>
 
     <div class="container">
