@@ -32,7 +32,7 @@ Hoy, aunque ya no tengo olfato, sigo recordando también el aroma a café recié
 
 O el crujir de mis pisadas del suelo de la librería, última etapa antes de "coger la villavesa", de vuelta ya para casa, correteando por entre sus estanterías, buscando el último libro de "los gemelos de Lakeport" o de "los Hollister", o, incluso, atreviéndome a asomarme, no sin cierto canguelo, al abismo de color verdi-blanco que representaban los de la colección de misterio de Alfred Hitchcock.
 
-También me hace recordar mi época de estudiante, primero en la EGB, cuando el profe se afanaba por pasar lista, y nosotros levantábamos la mano diciendo ¡presente! Aún hoy recuerdo parte de aquella letanía: Desde "Araiz Insausti, Jorge", hasta "Ramirez Martinez, Oscar", pasando por el resto, Arantxa, Manu, Macuso, Alberto, Glori, Txus, Dani, Eugenio, Merino, Visi..., una lista interminable de nombres, muchos de los cuales se han ido convertido en verdaderos amigos.
+También me hace recordar mi época de estudiante, primero en la EGB, cuando el profe se afanaba por pasar lista, y nosotros levantábamos la mano diciendo ¡presente! Aún hoy recuerdo parte de aquella letanía: Desde "Araiz Insausti, Jorge", hasta "Ramirez Martinez, Oscar", pasando por el resto, Arantxa, Luisa, Manu, Macuso, Alberto, Glori, Txus, Dani, Eugenio, Merino, Visi..., una lista interminable de nombres, muchos de los cuales se han ido convertido en verdaderos amigos.
 
 Más adelante, ya en el instituto, y, sobre todo, en la universidad, las cosas fueron cada vez más rápido, quizás porque en parte pierdes la inocencia, conforme te vas haciendo mayor, a la vez que se fueron poniendo más dificiles.
 
