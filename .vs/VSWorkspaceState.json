@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\images",
+    "\\assets\\images\\2021",
+    "\\assets\\images\\2021\\09",
+    "\\bin",
+    "\\_posts"
   ],
-  "SelectedNode": "\\_posts\\2020-05-03-orgulloso-de-ti.md",
+  "SelectedNode": "\\_posts\\2021-09-12-un-nuevo-curso.md",
   "PreviewInSolutionExplorer": false
 }

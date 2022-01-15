@@ -4,7 +4,7 @@ title: Atrapa recuerdos
 date: 2022-01-09 07:06
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos IX]
+tags: [Relatos X]
 footerimage: '/assets/images/2022/01/atrapaRecuerdos.jpg'
 keywords: [atrapa sueños,atrapa recuerdos,fotografia,recuerdos,vida]
 ---
