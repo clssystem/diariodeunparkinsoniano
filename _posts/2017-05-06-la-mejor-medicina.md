@@ -5,6 +5,7 @@ date: 2017-05-06 20:29
 author: diariodeunparkinsoniano
 comments: true
 tags: 'Relatos-I'
+footerimage: '/assets/images/2017/05/img_20170412_235311-01.jpeg'
 keywords: [neurólogo,ansiedad,amistad]
 ---
 <p style="text-align:justify;">Hace tiempo que no escribo nada.</p>
@@ -16,4 +17,4 @@ keywords: [neurólogo,ansiedad,amistad]
 <p style="text-align:justify;">La rabia física la combato con ejercicio. Y la rabia mental con la mejor medicina: La amistad, dispensada en varias presentaciones. En cápsulas pequeñitas suministradas por mis sobrinos cuando me besan y quieren estar conmigo “porque si”, sin ningún motivo aparente. O en sobres solubles individuales cuando todos los días a las siete de la mañana tu hermana te manda un WhatsApp preocupándose por ti. O en grandes dosis cuando me voy de casa rural y descubro que hay una “vessina” nueva en el vecindario, que está llena de energía, o en abrazos de mis amig@s de siempre que cruzan conmigo miradas cómplices diciéndome “sabes qué estamos ahí”.</p>
 <p style="text-align:justify;">Eso hace que no esté solo. Y nunca lo estaré. Tengo esa amistad. La AMISTAD. Con mayúsculas. De mis padres. De mi hermana. De mi cuñado. De mis sobrinos. De mis primos. De mis amigos. De… ¿sigo? Creo que tengo munición para rato. Así que no me rendiré. Continuaré con esta guerra hasta quedarme sin aliento.</p>
 <p style="text-align:justify;">Nuevamente os dejo otra foto, esta vez de la casa rural. Es el fuego de la chimenea… y de mi corazón.</p>
-<img class="img-fluid"  src="/assets/images/2017/05/img_20170412_235311-01.jpeg" / alt="La mejor medicina">
+
