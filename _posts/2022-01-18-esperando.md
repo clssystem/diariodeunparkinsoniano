@@ -5,7 +5,7 @@ date: 2022-01-18 05:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos X]
-footerimage: '/assets/images/2022/01/procesando.jpg'
+footerimage: '/assets/images/2022/01/esperando.jpg'
 keywords: [llamada de teléfono,esperanza,parkinson,neuroestimulador,gran día,esperando]
 ---
 
