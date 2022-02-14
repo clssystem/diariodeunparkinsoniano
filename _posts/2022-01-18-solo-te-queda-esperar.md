@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Esperando...
+title: Sólo te queda esperar
 date: 2022-01-18 05:00
 author: diariodeunparkinsoniano
 comments: true
@@ -18,13 +18,13 @@ Ahora toca esperar, a que lleguen las instrucciones para dar el siguiente paso, 
 
 Ayer fue un día agotador.
 
-Acabé, o mejor dicho, acabamos, todos agotados.
+Acabé, o, mejor dicho, acabamos, todos agotados.
 
 Fue también un día muy intenso, mucho más de lo que hubiera imaginado.
 
 Ese viaje en autobús, intentando contener los nervios para que el Hulk interno, Parki, no despertara, a la vez que tragas saliva, sintiendo en tu boca el amargor de un mal trago del pasado.
 
-El animarse mentalmente, repitiendo una y o otra vez la letanía de "Tu puedes, que has llegado muy lejos", al atravesar media ciudad, parada a parada.
+El animarse mentalmente, repitiendo una y otra vez la letanía de “Tú puedes, que has llegado muy lejos”, al atravesar media ciudad, parada a parada.
 
 El cruzar, decidido, la puerta de entrada.
 
@@ -34,9 +34,9 @@ El acomodarte en el sillón de la sala de espera.
 
 El sentir en el pecho la respiración, e intentar sosegarla, haciéndola honda y pausada.
 
-El contenerse, el no saltar como un resorte, al ver parpadear las inciales ALI98 en el panel informativo, anunciando que el momento de la verdad llegaba.
+El contenerse, el no saltar como un resorte, al ver parpadear las iniciales ALI98 en el panel informativo, anunciando que el momento de la verdad llegaba.
 
-El ligero chirriar de la puerta de la consulta, al cerrarse tras de tí.
+El ligero chirriar de la puerta de la consulta, al cerrarse tras de ti.
 
 El asomarse por primera vez al abismo de otra mirada extraña, desconocida.
 
@@ -44,7 +44,7 @@ El ir verbalizando, convirtiendo en palabras hasta el mínimo de tus recuerdos, 
 
 El ligero roce de una vieja pluma, manchando con su tinta de garabatos un folio en blanco, en los que quedan anotados todos los detalles, en un idioma extraño.
 
-El movimiento, unas veces lento, otras acelerado, de los pies y de las manos, invocando a Parki, invitándole a ser despertado.
+El movimiento, unas veces lento, otro acelerado, de los pies y de las manos, invocando a Parki, invitándole a ser despertado.
 
 El restar desde cien una cifra elegida al azar, en voz alta, procurando no equivocarse.
 
@@ -60,15 +60,15 @@ El abrazo reconfortante.
 
 El frescor en tu garganta al sentir el sorbo de una botella de agua.
 
-La sensación de final, al ingerir la medicación, tantas horas atrasada.
+La sensación de final, al ingerir la medicación, tantas horas atrasadas.
 
-El no "te vayas todavía" de una voz apresurada, persiguiéndote, abriendo las puertas del ascensor mientras pulsas el botón de bajada.
+El no “te vayas todavía” de una voz apresurada, persiguiéndote, abriendo las puertas del ascensor mientras pulsas el botón de bajada.
 
 Otro chirrido de puerta, otro cruce de miradas extrañas.
 
 Otro folio en blanco, manchado de rayas.
 
-El objetivo indiscreto de una cámara, inmortalizando para siempre tus gestos  y tus palabras.
+El objetivo indiscreto de una cámara, inmortalizando para siempre tus gestos y tus palabras.
 
 El llegar a casa con el tiempo justo.
 
@@ -88,20 +88,18 @@ Otra mirada desconocida.
 
 Más folios en blanco.
 
-Las mismas preguntas y las mismas respuestas.
+Las mismas preguntas y respuestas.
 
 El sabor de un café acompañado.
 
 La medicación a deshoras.
 
-El exabrupto final, cuando ya crees que todo ha terminado y estás relajado, al empezar a andar y Parki, por fin, aparece, burlándose de tí.
+El exabrupto final, cuando ya crees que todo ha terminado y estás relajado, al empezar a andar y Parki, por fin, aparece, burlándose de ti.
 
-El recorrer la ciudad resignado, sentándote en cada banco, hasta que Parki se va.
+El recorrer la ciudad, resignado, sentándote en cada banco, hasta que Parki se va.
 
-Y vuelves a sonreir, cuando te sientes por fin, liberado.
+Y vuelves a sonreír, cuando te sientes por fin, liberado.
 
 Y solo te queda dejar pasar el tiempo.
 
-Esperando...
-
-
+Y solo te queda esperar.
