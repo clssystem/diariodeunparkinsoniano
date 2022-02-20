@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Om Namah Shivaya
-date: 2022-02-20 10:00
+date: 2022-02-20 08:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos X]
@@ -54,4 +54,3 @@ Y entonces, he sabido que aunque no tenga la protección medicamentosa, llevo al
 Y entonces, me he sentido profundamente agradecido.
 
 Om namah shivaya.
-
