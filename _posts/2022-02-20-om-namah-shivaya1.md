@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos X]
 footerimage: '/assets/images/2022/02/shivaya.jpg'
-keywords: [om namah shivaya,yoga,omkar,irotz]
+keywords: [om,namah,shivaya,yoga,omkar,irotz]
 ---
 
 
@@ -54,3 +54,4 @@ Y entonces, he sabido que aunque no tenga la protección medicamentosa, llevo al
 Y entonces, me he sentido profundamente agradecido.
 
 Om namah shivaya.
+
