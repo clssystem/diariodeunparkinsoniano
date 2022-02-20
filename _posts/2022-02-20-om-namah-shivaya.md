@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Om Namah Shivaya
-date: 2022-02-20 05:00
+date: 2022-02-20 04:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos X]
