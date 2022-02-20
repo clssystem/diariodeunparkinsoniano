@@ -25,6 +25,7 @@ Por ciertos motivos, el principal, por ser precavido ante la enésima ola del CO
 He preparado mi esterilla, descolorida y avejentada por el paso del tiempo y de mis pies.
 
 Unos centrímetros pegada a ella, he colocado mi altar personalizado formado por una pirámide de madera, regalo de mis sobrinos, y los dos elefantitos, uno más grande que el otro, que, en su primera visita, Olga y Eugenio, me regalaron.
+
 Y, justo a su lado, he colocado el soporte de madera que un día me regaló Esme, y en él, una de mis barritas de incienso, que, finalmente, he encendido.
 
 Mientras hacía mis movimientos y por mis auriculares inalámbricos iban sonando aleatoriamente las canciones que tantas veces he escuchado durante las clases, mi mente, inevitablemente, viajaba al pasado.
@@ -39,6 +40,7 @@ Son un poco como es él, si me lo permite, anárquico, aunque mantienen su orden
 Canción tras canción, he recordado esos bailes al principio de la clase, a modo de calentamiento, y que tanto me desestresaban, mientras mi cuerpo, casi de manera autómata, los iba imitando.
 
 Después, he hecho unos cuantos saludos al sol.
+
 Más y más movimientos, al ritmo de la música, acompasando mi respiración, y sin importarme un carajo los temblores, casi compulsivos, de todo mi lado derecho.
 
 Para finalizar, ya sudoroso, me he sentado en la esterilla, y cuando me he terminado de acomodar, por los auriculares han empezado a sonar las primeras notas de ese saludo en forma de mantra, "Om namah shivaya".
