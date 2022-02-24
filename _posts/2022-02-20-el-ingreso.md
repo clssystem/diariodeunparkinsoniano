@@ -26,7 +26,7 @@ La incertidumbre me corroía por dentro, a pesar de tener una ligera y vaga idea
 - 5, 4, 3, 2, 1, Bajo... El zumbido de las puertas del ascensor al abrirse, invitándome a salir de él, me terminó de sacar de mis pensamientos.
 
 
-Después de pagar el taxi que me llevó a mi destino - la clínica -, cargué de nuevo con el equipaje y atravesé la puerta de acceso a la zona de urgencias. Como un zombi, seguí las indicaciones que iban apareciendo sobre el piso del pasillo, hasta llegar a la zona de extracción de la muestras para la P.C.R. 
+Después de pagar el taxi que me llevó a mi destino - la clínica -, cargué de nuevo con el equipaje y atravesé la puerta de acceso a la zona de urgencias. Como un zombi, seguí las indicaciones que iban apareciendo sobre el piso del pasillo, hasta llegar a la zona de extracción de muestras para la P.C.R. 
 
 Tras comprobar mi personalidad, -el DNI, nombre y fecha de nacimiento fueron suficientes-, una enfermera, vestida con un traje de protección anti COVID, me indicó que me quitara la mascarilla, y, casi sin darme tiempo, me introdujo, primero, un bastoncillo en la garganta para obtener una muestra, y, a continuación, otro más para frotar en lo más profundo de mi nariz, que posteriormente  colocó en tubos de ensayo, y que se apresuró en cerrar herméticamente, etiquetándolos con la fecha y hora actual, junto con las iniciales ALI98.
 

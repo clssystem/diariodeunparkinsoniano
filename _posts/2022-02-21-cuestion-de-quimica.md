@@ -101,7 +101,7 @@ Los treinta minutos de la resonancia se me hicieron interminables, por no decir 
 
 - ¿Podéis ponerme peso en la pierna, y dejarme algo para sujetar con la mano?. Es que de esa manera, puedo controlarlo un poco más, les supliqué.
 
-- Clac, clac, clac. Rimmmm, rimmmm, rimmm, yiiii, yiiii, yiii, el escáner no dejaba de emitir multitud de infernales ruiditos, de manera repetitiva, que mi temblor los replicaba, al mismo ritmo, mientras yo intentaba abstraerme, respirando con dificultad, con la dichosa mascarilla para el COVID de por medio.
+- Clac, clac, clac. Rimmmm, rimmmm, rimmm, yiiii, yiiii, yiii, el escáner no dejaba de emitir multitud de infernales ruiditos, de manera repetitiva, que mi temblor replicaba, al mismo ritmo, mientras yo intentaba abstraerme, respirando con dificultad, con la dichosa mascarilla para el COVID de por medio.
 
 - ¡Aguanta, aguanta un poco más!, intentaba animarme yo mismo.
 
