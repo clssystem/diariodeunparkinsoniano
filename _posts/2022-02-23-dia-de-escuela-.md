@@ -28,7 +28,7 @@ Mariam intentó tranquilizarme, diciéndome que no me pusiera nervioso, que era 
 
 Al poco de entregar la cita en la consulta, vino a buscarme otra doctora, acompañada de otro ayudante-estudiante, que me saludó efusivamente, como si me conociese de toda la vida.
 
-- ¡Antonio, bienvenido! Primero te haremos unas preguntas bastante sencillas, así que no te preocupes, - me animó, al adivinar mis pensamientos al verme.
+- ¡Antonio, bienvenido! Primero te haremos unas preguntas bastante sencillas, así que no te preocupes, - me animó, al adivinar mis pensamientos.
 
 El despacho era muy pequeño, y apenas cabíamos los tres. Al mando del ordenador estaba la doctora, y junto a ella, el joven estudiante que, como contagiado por la vitalidad de la doctora, no paraba de sonreir, algo que realmente agradecí.
 
