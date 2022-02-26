@@ -4,6 +4,7 @@ title: De vacunas y confesiones
 date: 2021-04-18 06:51
 author: diariodeunparkinsoniano
 comments: true
+footerimage: /assets/images/2021/04/vacunasconfesiones.jpg
 tags: [Relatos IX]
 ---
 
@@ -15,7 +16,7 @@ Todavía resuenan en mis oídos aquellas huecas palabras del presidente del gobi
 
 Al principio la cosa molaba, he de confesarlo.
 
-Conseguía organizarme y empezaba a teletrabajar muy pronto por la mañana. 
+Conseguía organizarme y empezaba a teletrabajar muy pronto por la mañana.
 
 Y, en lo que en antaño era mi hora forzada del café en el trabajo, bajaba a por el pan.
 
@@ -90,17 +91,3 @@ Al sentir, al abrazar y besar a mis padres, al estar ya vacunados.
 Y por eso la entrada de hoy del blog tiene ese título tan raro.
 
 De vacunas y confesiones.
-
-
-
-
-
-
-
-
-<img class="img-fluid"  src="/assets/images/2021/04/vacunasconfesiones.jpg" alt="De vacunas y confesiones" />
-
-
-
-
-

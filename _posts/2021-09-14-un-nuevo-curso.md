@@ -5,7 +5,7 @@ date: 2021-09-14 22:32
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos IX]
-image: '/assets/images/2021/09/nuevo_curso.jpg'
+footerimage: '/assets/images/2021/09/nuevo_curso.jpg'
 keywords: [curso,escolar,papeleria,esperanza,cuaderno,verde]
 ---
 Hoy ha comenzado oficialmente el curso escolar.
@@ -74,9 +74,3 @@ Esa vez, el color de sus tapas ha sido verde, el color de la esperanza.
 Con todas sus hojas blancas, esperando a ser rellenadas por mí.
 
 Cómo cada vez que comienza un nuevo curso.
-
-
-
-
-
-<img class="img-fluid"  src="{{page.image}}" alt="{page.title}" />

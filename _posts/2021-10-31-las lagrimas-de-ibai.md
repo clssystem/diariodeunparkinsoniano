@@ -33,7 +33,7 @@ Al ver a Ibai no he podido dejar de verme reflejado en él, cuando recibí la no
 
 Al oir a mi madre contestar al telefonillo, y decir "¿ya?", algo en mi interior, un instinto, me dijo que había llegado su final, y me hizo esconder la cabeza debajo de la almohada mientras mis ojos se llenaban de lágrimas, que todavía hoy salen a borbotones al recordar aquel momento, mientras de mi garganta se escapaba ¡no, abuelita!
 
-No he podido resistirme. 
+No he podido resistirme.
 
 Le he dado un achuchón, de esos reconfortantes, que casi están prohibidos por esta maldita pandemia del COVID que nos ha tocado vivir, al tiempo que le he dicho que ha sido y es muy afortunado, porque ha tenido bisabuela, y porque aún puede disfrutar de todos sus abuelos.
 

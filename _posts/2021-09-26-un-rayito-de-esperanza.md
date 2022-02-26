@@ -51,7 +51,3 @@ Pero, francamente, ahora mismo, me importa un pimiento.
 Porque hoy he vuelto a trotar por el monte.
 
 Y porque hoy me ha iluminado ese rayito, lleno de luz, y sobre todo, de esperanza.
-
-
-
-

@@ -52,5 +52,3 @@ Ellos si que, en realidad, son los verdaderos ingenieros.
 Para todos vosotros...
 
 ¡Gracias!
-
-
