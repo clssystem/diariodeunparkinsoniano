@@ -14,7 +14,7 @@ Aprovechando que mi antiguo móvil ha tenido un desafortunado accidente, no sé 
 
 Si, lo confieso.
 
-Es algo que siendo constante y haciéndolo diariamente, o, si me apuras, mensualmente, no supone demasiado tiempo. 
+Es algo que siendo constante y haciéndolo diariamente, o, si me apuras, mensualmente, no supone demasiado tiempo.
 
 Antes, en una época no tan lejana, cuando los móviles eran algo de ciencia ficción e inalcanzables para el común de los mortales, el término digital era desconocido, y la Polaroid era lo más cercano a conseguir hacer una foto de manera instantánea, era distinto.
 
@@ -64,7 +64,7 @@ La dichosa pandemia, con sus fechas huérfanas de fotos en el calendario...
 
 Mis logros, como ingeniero del año...
 
-Inevitablemente, se me llenan los ojos de lágrimas. No de tristeza, pero si de emoción y de alegría. 
+Inevitablemente, se me llenan los ojos de lágrimas. No de tristeza, pero si de emoción y de alegría.
 Por los momentos vividos, y  por los que, estoy seguro, seguirán llegando y que iré inmortalizando en forma de foto.
 
 Atrapado sueños.

@@ -5,7 +5,7 @@ date: 2021-07-25 06:51
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos IX]
---image: '/assets/images/2016/12/img-20161224-wa0018.jpg'
+footerimage: '/assets/images/2017/09/1509837_3737283086640_1030958775_n.jpg'
 keywords: [sobrinos,familia,mellizos,cariño]
 ---
 
@@ -56,4 +56,3 @@ El título estaba claro: “Relatos para nuestra amatxi”
 Y, los autores…
 
  Nahia e Ibai. Ibai y Nahia
-

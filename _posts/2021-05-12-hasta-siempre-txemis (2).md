@@ -60,8 +60,3 @@ Sin cobrarte la deuda de un almuerzo.
 Y haciéndonos pensar, a veces…
 
 Que joputa es esta vida.
- 
-
- 
-
-

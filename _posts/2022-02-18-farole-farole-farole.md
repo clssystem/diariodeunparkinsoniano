@@ -21,12 +21,13 @@ Hace unos días, volví a recibir una nueva llamada telefónica.
 Y, continuando con esta especie de juego de roll en el que se ha convertido la implantación de los neuro estimuladores en el cerebro, la misma voz, dulce y misteriosa, volvió a darme, de nuevo, más instrucciones:
 
 - "El paso siguiente es el ingreso en la clínica, durante unos cuantos días, para estudiar el comportamiento de su cuerpo, sin ningún tipo de medicación"
- 
+
 Y, a continuación, prosiguió:
 
 - "En unos días, le llamaremos nuevamente, para que empiece a dejar de tomarla, de manera progresiva"
 
 Pasaron los días, y, de nuevo, la misma voz, dándome las instrucciones:
+
 - "En primer lugar, deberá dejar de tomar Xadago, su primera pastilla mañanera"
 
 Después de una breve pausa, como dándome tiempo para procesar la orden, prosiguió:
@@ -45,7 +46,6 @@ Sin apenas darme tiempo a replica, finalizó:
 
 Es como decirle a un caballero medieval, todo forrado y cargado de armas, que vaya quitándose todo, poco a poco, hasta quedarse desnudo.
 
-
 - "Ese casco protector, !fuera!"
 
 - "Tu armadura reluciente, ¡quÍtatela de un plumazo!"
@@ -53,7 +53,6 @@ Es como decirle a un caballero medieval, todo forrado y cargado de armas, que va
 - "Tu espada, ¡al infierno con ella!"
 
 - "¡Quítate todo, hasta la cota de malla!"
-
 
 Pero además, para agravar más la situación, hacía tan sólo unos días, me encontraba montado en el vertiginoso tren que supone el estrés del trabajo, cuando me apeé, saltando de repente, casi sin previo aviso, gracias a una baja médica, la primera en cinco años de parkinsoniano.
 
@@ -68,7 +67,6 @@ Nada más empezar a caminar, cuando llevaba recorridos apenas una decena de paso
 - "Pero, ¡Si todavía me falta una hora para la siguiente toma!"
 
 ... pensé, mísero de mí.
-
 
 Sin querer resignarme, he metido la mano en el bolsillo, y, como no quiere la cosa... ¡zas, media pastilla de sinemet a la boca!
 
@@ -105,17 +103,3 @@ Esperando, impaciente, la llegada del domingo, ya por la tarde, y ver el alcance
 Tan sólo cantando:
 
 - "Farole, farole, farole"
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -4,6 +4,7 @@ title: Preparados, listos... ¿ya?
 date: 2021-04-24 06:51
 author: diariodeunparkinsoniano
 comments: true
+footerimage: '/assets/images/2021/04/preparadoslistosya.jpg'
 tags: [Relatos IX]
 ---
 
@@ -73,7 +74,7 @@ Hace apenas una semana ANAPAR organizó las Jornadas del Parkinson 2021 en Navar
 
 Mientras esperaba mí intervención, nervioso e impaciente, escuché con atención la ponencia que la Dra. Luquin daba sobre los avances en la investigación sobre la enfermedad de Parkinson.
 
-La Dra. Luquin habló de una próxima vacuna y de todas las líneas de investigación. 
+La Dra. Luquin habló de una próxima vacuna y de todas las líneas de investigación.
 
 Del HIFU, pero también de cómo estaban consiguiendo con ondas de baja frecuencia abrir la barrera que hace infranqueable al cerebro, para poder introducir virus que modificasen genéticamente algunas neuronas y así de esa manera producir dopamina, y conseguir la ansiada curación.
 
@@ -96,18 +97,3 @@ Y, sin dudarlo, he dicho que sí.
 Así que a partir de ahora empieza una nueva carrera.
 
 Hoy, como hace casi cinco años, escucho de nuevo el “Preparados, listos…¡YA!”
-
-
-
-
-
-
-
-
-
-<img class="img-fluid"  src="/assets/images/2021/04/preparadoslistosya.jpg" alt="preparados listos ya" />
-
-
-
-
-

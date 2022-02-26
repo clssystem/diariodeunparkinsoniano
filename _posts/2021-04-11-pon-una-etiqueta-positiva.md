@@ -4,6 +4,7 @@ title: #PonUnaEtiquetaPositiva
 date: 2021-04-11 06:51
 author: diariodeunparkinsoniano
 comments: true
+footerimage: '/assets/images/2021/04/PonUnaEtiquetaPositiva.jpg'
 tags: [Relatos IX]
 ---
 
@@ -53,21 +54,8 @@ Tampoco hubiera conocido a la gente de ANAPAR, de la asociación de Parkinson de
 
 Ni a esas personas, ciudadanos de medio mundo, que, de manera tan agradecida, me escriben sus e-mails interesándose por Mouse Helper.
 
-Y, seguramente, si me apuras, ni tu ni yo nos hubiéramos cruzado en el camino de nuestro destino. 
+Y, seguramente, si me apuras, ni tu ni yo nos hubiéramos cruzado en el camino de nuestro destino.
 
 Ni te hubiera tenido que decir: #PonUnaEtiquetaPositiva
 
-Feliz día del Parkinsoniano. 
-
-
-
-
-
-
-
-<img class="img-fluid"  src="/assets/images/2021/04/PonUnaEtiquetaPositiva.jpg" alt="pon una etiqueta positiva en tu vida" />
-
-
-
-
-
+Feliz día del Parkinsoniano.

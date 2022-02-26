@@ -28,7 +28,7 @@ Pero llegó la enésima ola, y, como un tsunami, ha arrasado, nuevamente, con to
 
 Sobre todo, la de reunirnos con nuestros seres más queridos, en especial con los más pequeños y mayores, los unos por esa sensación de "me lo he perdido y ya no volverá a pasar", y los otros porque sienten en sus espaldas el peso de esta insoportable lacra, mezcla de temor y responsabilidad.
 
-Con esa sensación de vacío, de mal sabor de boca, de haber sido timado y privado de la magia de la Navidad, transcurrió el viaje en coche de algo más de 500 kilómetros. 
+Con esa sensación de vacío, de mal sabor de boca, de haber sido timado y privado de la magia de la Navidad, transcurrió el viaje en coche de algo más de 500 kilómetros.
 
 Como bienvenida, una fina lluvia, empapando con sus minúsculas gotitas el parabrisas del coche, me hizo recordar, por unos instantes, el sirimiri de épocas pasadas de mi infancia, cuando, montados en el Renault 4L de mis padres, zigzagueábamos por las curvas de la carretera del puerto de Velate, en medio de una densa capa de niebla, recorriendo los entonces interminables 60 kilómetros hasta llegar al caserío de Sumbilla, donde nació mi madre.
 
@@ -88,7 +88,7 @@ Mientras Marian pagaba, apuré, de un solo sorbo, aquel brebaje que sabía a ray
 
 El calor del licor, abrasando mi garganta, y la conversación de Marian intentando tranquilizarme hicieron que recorrieramos un kilómetro sin parar, hasta que, en mitad de la carretera, otro bloqueo me frenó de golpe.
 
-Recordé que al comienzo, cuando los bloqueos eran menos intensos, podía caminar marcha atrás, así que me puse a ello, viendo como nos alejábamos del pueblo. 
+Recordé que al comienzo, cuando los bloqueos eran menos intensos, podía caminar marcha atrás, así que me puse a ello, viendo como nos alejábamos del pueblo.
 Diez pasos, veinte.. Giro, sensación de alivio y de desbloqueo en la pierna. Otra decena de pasos recorridos sin problemas, intento de bloqueo, vuelta a girar...
 
 Sin sensaciones en el gemelo de la pierna, que se había convertido en una especie de tronco de madera inerte, empecé a dar zapatazos en el suelo, como cuando vas a marcha ligera en la mili, y empecé, no se muy bien porqué, a tararear una melodía, la del puente sobre el rio kwai, o, si lo prefieres, la canción que entonaba milikito al recorrer los caminos, siguiendo su famosa raya blanca:

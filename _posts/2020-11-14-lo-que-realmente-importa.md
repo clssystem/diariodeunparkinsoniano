@@ -4,6 +4,7 @@ title: Lo que realmente importa
 date: 2020-11-14 07:51
 author: diariodeunparkinsoniano
 comments: true
+footerimage: '/assets/images/2020/11/MouseHelperLogo.png'
 tags: [Relatos IX]
 ---
 
@@ -18,7 +19,6 @@ Y en segundo lugar, ya te habrás enterado, he presentado en sociedad a Mouse He
 Por aquel entonces lo que principalmente buscaba al crearlo era seguir agarrándome (o más bien, aferrándome) a lo que más me ha gustado siempre, y que era aporrear el teclado de un ordenador para construir programas, byte a byte, rutina a rutina, que resolvieran problemas reales.
 
 Nunca imaginé, ni en el más profundo de mis sueños, que pudiera llegar a tener la repercusión que está teniendo.
-
 
 Soy muy consciente que, de cara al público, sólo sean los quince minutos de gloria que toda persona debe tener en su vida para sentirse importante.
 
@@ -67,14 +67,3 @@ Gente que me escribe, agradecida y que también me pide ayuda.
 Gente que sin que ella lo sepa, me da paz y que me anima, a su vez, a seguir adelante.
 
 Eso, eso es lo que realmente importa.
-
-
-
-
-<img class="img-fluid"  src="/assets/images/2020/11/MouseHelperLogo.png" alt="" />
-
-
-
-
-
-

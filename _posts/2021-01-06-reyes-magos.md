@@ -4,6 +4,7 @@ title: Reyes Magos
 date: 2021-01-06 07:51
 author: diariodeunparkinsoniano
 comments: true
+footerimage: '/assets/images/2021/01/reyes.jpg'
 tags: [Relatos IX]
 ---
 
@@ -56,15 +57,3 @@ Para mí el 6 de Enero será siempre una fecha especial.
 Con el tiempo aquellos Reyes se fueron convirtiendo en otros que me hicieron valorar más las cosas inmateriales, como el agradecimiento de la gente cuando das sin esperar recibir nada a cambio, o el amor, o la amistad, o la paciencia, o la esperanza, o la fuerza por seguir luchando.
 
 Y por eso, sólo por eso, soy y seré “de los Reyes Magos”
-
-
-
-
-
-
-<img class="img-fluid"  src="/assets/images/2021/01/reyes.jpg" alt="Reyes Magos" />
-
-
-
-
-
