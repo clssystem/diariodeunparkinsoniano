@@ -6,6 +6,9 @@ author: diariodeunparkinsoniano
 comments: false
 sitemap: false
 #tags: [Relatos VII]
+seo:
+ robots: [noindex,nofollow]
+
 ---
 
 Este post va dedicado a vosotros, Ibai y Nahia, o Nahia e Ibai

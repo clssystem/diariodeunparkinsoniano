@@ -5,6 +5,10 @@ date: 2021-07-25 06:51
 author: diariodeunparkinsoniano
 comments: false
 #tags: [Relatos VII]
+sitemap: false
+seo:
+ robots: [noindex,nofollow]
+
 ---
 
 Hola.

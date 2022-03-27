@@ -5,7 +5,9 @@ date: 2021-07-19 06:51
 author: diariodeunparkinsoniano
 comments: false
 sitemap: false
-#tags: [Relatos VII]
+seo:
+ robots: [noindex,nofollow]
+
 ---
 
 Hola Mariam.
