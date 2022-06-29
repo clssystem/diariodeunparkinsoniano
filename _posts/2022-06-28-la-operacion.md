@@ -59,4 +59,4 @@ Para el lado izquierdo apenas hicieron un par de tracks, asegurándose, eso sí,
 
 Los últimos sonidos que recuerdo son los emitidos por la voz del neurocirujano: Aspi(rador), No se qué fix (probablemente, porque al utilizarlo, se oía un fissss mientras un olor a quemado se propagaba por todo el quirófano), tapa (para poner una especie de tapa sobre el agujero en el hueso del cerebro), y el repiqueteo de la grapadora al distribuir las grapas por todo el cuero cabelludo, y, finalmente, la voz del anestesista diciéndome que enseguida terminaban, mientras el efecto del sedante me hacía flotar por la habitación.
 
-Después... un viajes psicotrópico, que acabó en la tercera planta de la CUN, en la UCI de adultos, con un buen dolor de cabeza, y con el neuro estimulador implantado en mi cuerpo, aunque sin conectar.
+Después... un viaje psicotrópico, que acabó en la tercera planta de la CUN, en la UCI de adultos, con un buen dolor de cabeza, y con el neuro estimulador implantado en mi cuerpo, aunque sin conectar.
