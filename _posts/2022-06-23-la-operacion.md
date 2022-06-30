@@ -18,9 +18,9 @@ Casi sin tiempo para desperezarme y por supuesto, sin poder desayunar, me bajaro
 - ¡Tranquilo chaval! -me dijo el anestesista, que, curiosamente también se llamaba Antonio. ¿Te puedo decir una cosa, sin que te ofendas, tocayo? ¡Eres la primera persona que casi llena este casco con la cabeza!
 - No me ofendes, le respondí con una mirada asesina, al tiempo que le decía que era la segunda persona que me llama cabezón en poco tiempo, recordando las palabras del Dr. Guridi, en la primera de las consultas.
   
-Mientras el anestesista se afanaba por pincharme aquí y allí, el resto de personas se encargaba, llave en mano, de ajustarme lo mejor posible la corona, mientras yo intentaba cerrar los ojos, sintiendo exactamente lo que que sentía Lord Byder al colocar, por primera vez, su casco.
+Mientras el anestesista se afanaba por pincharme aquí y allí, y el resto de personas se encargaba, llave en mano, de ajustarme lo mejor posible la corona, yo intentaba cerrar los ojos, sintiendo exactamente lo que sentía Lord Byder al colocar, por primera vez, su casco.
 
-Por fin tuve el valor suficiente para abrir los ojos, y al hacerlo, lo primero que vi es una especie de velo negro tapando mi cara.
+Por fin tuve el valor suficiente para abrir los ojos, y al hacerlo, lo primero que vi fue una especie de velo negro tapando mi cara.
 
 - Venga, ¡arriba con él! -tiraron de mí hasta que colocaron la corona encima de otra estructura metálica, que iba a servir de referencia durante el resto de la operación.
 
@@ -59,4 +59,4 @@ Para el lado izquierdo apenas hicieron un par de tracks, asegurándose, eso sí,
 
 Los últimos sonidos que recuerdo son los emitidos por la voz del neurocirujano: Aspi(rador), No se qué fix (probablemente, porque al utilizarlo, se oía un fissss mientras un olor a quemado se propagaba por todo el quirófano), tapa (para poner una especie de tapa sobre el agujero en el hueso del cerebro), y el repiqueteo de la grapadora al distribuir las grapas por todo el cuero cabelludo, y, finalmente, la voz del anestesista diciéndome que enseguida terminaban, mientras el efecto del sedante me hacía flotar por la habitación.
 
-Después... un viajes psicotrópico, que acabó en la tercera planta de la CUN, en la UCI de adultos, con un buen dolor de cabeza, y con el neuro estimulador implantado en mi cuerpo, aunque sin conectar.
+Después... un viaje psicotrópico, que acabó en la tercera planta de la CUN, en la UCI de adultos, con un buen dolor de cabeza, y con el neuro estimulador implantado en mi cuerpo, aunque sin conectar.
