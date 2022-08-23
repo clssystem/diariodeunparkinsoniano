@@ -33,7 +33,7 @@ Una vez engullida la comida (no tengo otra forma de describir lo rápido que com
 Una vez descifrado el cómo encender el aparato, y de volverme medio loco con eso de los arpegios, los tempos y los compases, ya no pude esperar más, y me puse a aporrear, impaciente, las teclas del dichoso instrumento, intentado emular a mis admirados ídolos.
 
 
-Qué decir del resultado: Entre lo que me temblaba la mano derecha, lo alto que puse el volumen, y el batiburillo que tenía en la cabeza, el sonido (por decirlo de alguna manera) que salió por el altavoz fue lo más parecido a los maullidos de una manada de gatos recién atropellados, estridentes y atroces, capaces de hacer levantar de su tumba al más muerto de los muertos.
+Qué decir del resultado: Entre lo que me temblaba la mano derecha, lo alto que puse el volumen, y el batiburrillo que tenía en la cabeza, el sonido (por decirlo de alguna manera) que salió por el altavoz fue lo más parecido a los maullidos de una manada de gatos recién atropellados, estridentes y atroces, capaces de hacer levantar de su tumba al más muerto de los muertos.
 
 
 Con el paso de los días, y conforme mi lado derecho ha ido volviendo a su estado de agitación natural, la cosa no ha mejorado, por más que lo he intentado: Tutoriales en YouTube, reproducidos a la mínima velocidad, haciendo que la voz en off suene lo suficientemente lenta como para no perderme; el conseguir descifrar acordes y partituras, pegando en la parte superior de cada tecla del aparato su letra correspondiente, a modo de chuleta, con la dificultad que el escribir me conlleva; el reducir mis expectativas musicales, hasta volver "a primero de piano", e intentar memorizar el "vals de las mariposas"...
