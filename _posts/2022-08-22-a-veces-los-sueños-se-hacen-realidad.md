@@ -25,7 +25,7 @@ Al mismo tiempo, en una especie de universo paralelo, y mientras los médicos y 
 
 <img class="img-fluid"  src="/assets/images/2022/08/instancia.jpeg" alt="Instancia Ayuntamiento Ansoáin" />
 
-Como decía al principio, han pasado ya dos meses desde la operación, en los que he conseguido caminar sin bloqueos y recuperar mi sueño reparador.
+Como decía al principio, han pasado ya dos meses desde la operación, en los que he conseguido caminar sin bloqueos y recuperar mi sueño, profundo y reparador, libre de pesadillas.
 
 Y, lo mismo que mi post de Twitter, - el del teclado musical-, ha sido contestado por [Jose Luís Moro (voz y artífice del grupo)](https://twitter.com/unpinguino) de esta manera tan amable:
 
