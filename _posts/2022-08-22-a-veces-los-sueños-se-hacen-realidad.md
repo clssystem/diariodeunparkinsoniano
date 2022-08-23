@@ -27,7 +27,7 @@ Al mismo tiempo, en una especie de universo paralelo, y mientras los médicos y 
 
 Como decía al principio, han pasado ya dos meses desde la operación, en los que he conseguido caminar sin bloqueos y recuperar mi sueño, profundo y reparador, libre de pesadillas.
 
-Y, lo mismo que mi post de Twitter, - el del teclado musical-, ha sido contestado por [Jose Luís Moro (voz y artífice del grupo)](https://twitter.com/unpinguino) de esta manera tan amable:
+Y, lo mismo que mi post de Twitter, - el del teclado musical-, ha sido contestado por [José Luís Moro (voz y artífice del grupo)](https://twitter.com/unpinguino) de esta manera tan amable:
 
 "Querido Antonio, a Mario y a mí nos ha emocionado tu historia. Sólo puedo decirte que has elegido muy bien el teclado. Sin ir más lejos, es el mismo que me traigo cada verano a mis vacaciones gallegas por si se me ocurre alguna tontería que componer. Un abrazo y no dejes de luchar".
 
