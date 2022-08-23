@@ -38,7 +38,7 @@ Y, lo mismo que mi post de Twitter, - el del teclado musical-, ha sido contestad
 
 Y la instancia de mi vecino ha sido admitida a trámite, convirtiéndome oficialmente en uno de los cinco candidatos para lanzar el cohete....
 
-... estoy seguro, segurísimo, que los médicos acertarán, y que mis temblores cesarán, cumpliéndose que, a veces, los sueños se hacen realidad.
+... estoy seguro, segurísimo, que los médicos acertarán, y que mis temblores cesarán, cumpliéndose ese dicho que dice que, a veces, los sueños se hacen realidad.
 
 ¡Gracias!
 
