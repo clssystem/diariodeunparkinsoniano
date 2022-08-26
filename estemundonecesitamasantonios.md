@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Este mundo necesita más Antonios
+title: ¡Porque este mundo necesita más Antonios!
 date: 2022-08-24 05:29
 author: diariodeunparkinsoniano
 comments: false
