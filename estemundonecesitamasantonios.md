@@ -5,7 +5,7 @@ date: 2022-08-24 05:29
 author: diariodeunparkinsoniano
 comments: false
 sitemap: true
-footerimage: '/assets/images/2022/08/antonio.jpeg'
+footerimagess: '/assets/images/2022/08/antonio.jpeg'
 keywords: [fiestas Ansoáin 2022, cohete, txupinazo]
 
 ---
@@ -30,8 +30,15 @@ Es una persona muy querida y admirada por la gente de Ansoáin, aunque él no qu
 
 Por esto y por muchas otras cosas, creo que Antonio es merecedor de lanzar el cohete anunciador de las próximas fiestas de Ansoáin.
 
-En breve se abrirán las votaciones, así que, ¡vota por Antonio!
+Si estás empadronado en Ansoáin y tienes más de 16 años, ya puedes votar por él, del 29 de agosto al 4 de septiembre, en la web [www.ansoain.es](https://www.ansoain.es) o llamando al teléfono en el 012 (de lunes a viernes).
 
-**ESTE MUNDO NECESITA MÁS ANTONIOS**
- 
+**PORQUE ESTE MUNDO NECESITA MÁS ANTONIOS**
+
+<a href="https://www.ansoain.es"><img class="img-fluid"  src="/assets/images/2022/08/votaporantonio.jpg" alt="¡Vota por Antonio!" /></a>
+
+
+> Imagen basada en el cartel ganador de fiestas, titulado "Jaiak Badatoz", cuyos autores son Argia y Oskar Orella, vecinos de Ansoáin. 
+
+
+
 
