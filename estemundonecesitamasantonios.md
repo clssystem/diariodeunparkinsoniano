@@ -30,11 +30,11 @@ Es una persona muy querida y admirada por la gente de Ansoáin, aunque él no qu
 
 Por esto y por muchas otras cosas, creo que Antonio es merecedor de lanzar el cohete anunciador de las próximas fiestas de Ansoáin.
 
-Si estás empadronado en Ansoáin y tienes más de 16 años, ya puedes votar por él, del 29 de agosto al 4 de septiembre, en la web [www.ansoain.es](https://www.ansoain.es) o llamando al teléfono en el 012 (de lunes a viernes).
+Si estás empadronado en Ansoáin y tienes más de 16 años, ya puedes votar por él, del 29 de agosto al 4 de septiembre, en la web [www.ansoain.es](https://www.ansoain.es/noticias/candidaturas-para-lanzar-el-txupinazo-de-fiestas-de-ansoain-2022/) o llamando al teléfono en el 012 (de lunes a viernes).
 
 **¡PORQUE ESTE MUNDO NECESITA MÁS ANTONIOS!**
 
-<a href="https://www.ansoain.es"><img class="img-fluid"  src="/assets/images/2022/08/votaporantonio.jpg" alt="¡Vota por Antonio!" /></a>
+<a href="https://www.ansoain.es/noticias/candidaturas-para-lanzar-el-txupinazo-de-fiestas-de-ansoain-2022/"><img class="img-fluid"  src="/assets/images/2022/08/votaporantonio.jpg" alt="¡Vota por Antonio!" /></a>
 
 
 > Imagen basada en el cartel ganador de fiestas, titulado "Jaiak Badatoz", cuyos autores son Argia y Oskar Orella, vecinos de Ansoáin. 
