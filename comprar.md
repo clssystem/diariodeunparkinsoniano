@@ -14,11 +14,15 @@ footerimage: '/assets/images/libro.jpg'
 
 ¡Gracias a la Editorial Libros Indie, ya es posible!
 
+La presentación en YouTube aquí:
+
 En este [enlace](https://indie.quares.es/apex/quares/r/landingweb/detalle-producto?p2_id=33766&session=15415064343352) puedes realizar la compra online.
 
 También puedes encargarlo en tu librería de confianza (distribuido por la Casa Del Libro), con el título "Diario de un parkinsoniano", ISBN 9788419671004.
 
-¡Y no olvides dejar tu opinión [aquí](https://books.quares.es/catalogo/diario-de-un-parkinsoniano/#tab-reviews)!
+Si vives en Pamplona, te puedes acercar a la [Papelería Ezkaba](https://goo.gl/maps/XdCYyDgke24D3Kc67) y reservar tu ejemplar.
+
+¡Y no olvides dejar tu opinión [aquí](https://books.quares.es/catalogo/diario-de-un-parkinsoniano)!
 
 Todos, quien más, quien menos, conocemos en nuestro entorno a alguna persona afectada por la Enfermedad de Parkinson, ese trastorno degenerativo neuronal que se produce por la pérdida de dopamina, y que se manifiesta a través de diferentes síntomas, como el temblor, la rigidez muscular, o incluso, la depresión o la ansiedad.
 
