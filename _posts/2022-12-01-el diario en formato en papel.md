@@ -15,7 +15,7 @@ image: '/assets/images/libro.jpg'
 
 ¡Gracias a la Editorial Libros Indie, ya es posible!
 
-La presentación en YouTube aquí:
+La presentación en el canal de la editorial la puedes ver [aquí](https://youtu.be/3zu1g4SRBlM)
 
 En este [enlace](https://indie.quares.es/apex/quares/r/landingweb/detalle-producto?p2_id=33766&session=15415064343352) puedes realizar la compra online.
 
