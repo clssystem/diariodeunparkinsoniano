@@ -17,13 +17,13 @@ image: '/assets/images/libro.jpg'
 
 La presentación en el canal de la editorial la puedes ver [aquí](https://youtu.be/3zu1g4SRBlM)
 
-En este [enlace](https://indie.quares.es/apex/quares/r/landingweb/detalle-producto?p2_id=33766&session=15415064343352) puedes realizar la compra online.
+Está disponible online en [La Casa Del Libro](https://www.casadellibro.com/libro-diariodeunparkinsoniano-plantale-cara-a-tu-enfermedad/9788419671004/13429952).
 
 También puedes encargarlo en tu librería de confianza (distribuido por la Casa Del Libro), con el título "Diario de un parkinsoniano", ISBN 9788419671004.
 
 Si vives en Pamplona, te puedes acercar a la [Papelería Ezkaba](https://goo.gl/maps/XdCYyDgke24D3Kc67) y reservar tu ejemplar.
 
-¡Y no olvides dejar tu opinión [aquí](https://books.quares.es/catalogo/diario-de-un-parkinsoniano)!
+¡Y no olvides dejar tu opinión [aquí](https://www.casadellibro.com/libro-diariodeunparkinsoniano-plantale-cara-a-tu-enfermedad/9788419671004/13429952)!
 
 Todos, quien más, quien menos, conocemos en nuestro entorno a alguna persona afectada por la Enfermedad de Parkinson, ese trastorno degenerativo neuronal que se produce por la pérdida de dopamina, y que se manifiesta a través de diferentes síntomas, como el temblor, la rigidez muscular, o incluso, la depresión o la ansiedad.
 
