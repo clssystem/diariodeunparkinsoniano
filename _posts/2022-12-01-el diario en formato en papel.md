@@ -34,7 +34,28 @@ Es una recopilación de entradas (ordenadas cronológicamente y enriquecidas con
 Enfráscate en su lectura, y conocerás todas mis recetas para convivir con el Parkinson y plantarle cara a la enfermedad, a veces con una pizca de humor, y, muy probablemente, podrás sacar tus propias conclusiones, que acabarás extrapolando a tus problemas diarios.
 
 <div align="center">
-<a href="https://indie.quares.es/apex/quares/r/landingweb/detalle-producto?p2_id=33766&session=15415064343352">
+<a href="https://www.casadellibro.com/libro-diariodeunparkinsoniano-plantale-cara-a-tu-enfermedad/9788419671004/13429952">
 <img class="img-fluid"   src="{{page.image}}" alt="{{page.title}}"  />
 </a>
+</div>
+
+Aquí van unas imágenes de amigos que ya han adquirido su ejemplar, a modo de agradecimiento.
+Como diría Lina Morgan, "Agradecido, y emocionado..."
+
+<div class="slider-frame">
+        <ul>
+            <li><img src="/assets/libro/ilde.jpg" alt=""></li>
+            <li><img  src="/assets/libro/visi.jpg" alt=""></li>
+            <li><img align="center" src="/assets/libro/compisteleco.jpg" alt=""></li>
+            <li><img align="center" src="/assets/libro/koldo.jpg" alt=""></li>
+             <li><img align="center" src="/assets/libro/miguel.jpg" alt=""></li>
+        </ul>
+    </div>
+
+<div align="center">
+<video width="auto" height="460"  controls >
+  <source src="/assets/libro/libro.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 </div>
