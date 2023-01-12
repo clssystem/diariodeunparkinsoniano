@@ -12,7 +12,7 @@ Hace ya muchos meses que había dejado de escribir en este diario, a la espera d
 
 Durante todo este tiempo, han pasado unas cuantas cosas.
 
-Jesús, al que dejamos en una entrada anterior a las puertas del quirófano, consiguió salir al fin de él, con muchos menos problemas que en su primera intervención, aunque ha seguido mi estela, en este juego del gato del ratón en el que nos encontramos atrapados, intentando encontrar el punto adecuado de estimulación neuronal, el equilibrio tan al borde del abismo, que consiga hacernos dejar de temblar y no caer al vacío del resto de nuestros otros problemas, llámense rigideces, bloqueos musculares o disquinesias varias, esos movimientos anormales de nuestras extremidades que tanto nos incomodan a los parkinsonianos.
+Jesús, al que dejamos en una entrada anterior a las puertas del quirófano, consiguió salir al fin de él, con muchos menos problemas que en su primera intervención, aunque ha seguido mi estela, en este juego del gato y del ratón en el que nos encontramos atrapados, intentando encontrar el punto adecuado de estimulación neuronal, el equilibrio tan al borde del abismo, que consiga hacernos dejar de temblar y no caer al vacío del resto de nuestros otros problemas, llámense rigideces, bloqueos musculares o disquinesias varias, esos movimientos anormales de nuestras extremidades que tanto nos incomodan a los parkinsonianos.
 
 Visita tras visita al neurólogo, hemos ido siguiendo los dos el mismo ritual:
   En primer lugar, el examen previo, con la dosis de levodopa reducida a la mínima expresión, y la maldita cuenta atrás de siete en siete, para ver como se compartan nuestros cuerpos.
