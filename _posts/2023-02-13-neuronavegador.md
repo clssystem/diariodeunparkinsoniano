@@ -21,7 +21,7 @@ A la prueba me acompañaba mi hermana por precaución, aunque yo iba bastante tr
 
 Después de recorrer el laberinto de pasillos del sótano de la clínica hasta encontrar dónde tenían que hacerme la prueba, tocamos el timbre de la pared y una enfermera salió a nuestro encuentro, excusándose porque iban con retraso, al haber tenido los anestesistas un imprevisto, y entregándome un boli y unos papeles, que no eran otra cosa que el consentimiento informado, y un cuestionario a rellenar.
 
-Aunque siempre que tengo que pasar por algún tipo de escaner enseño el carnet que me dió el doctor Guridi después de mi primera operación, y que para mí es una especie de pase VIP que me sirve para saltármelos, tanto las preguntas del cuestionario, como las señales de peligro que aparecían en las paredes me hicieron tocar otra vez el timbre, reclamando, de nuevo, la atención de la enfermera.
+Aunque siempre que tengo que pasar por algún tipo de escaner enseño el carnet que me dió el doctor Guridi después de mi primera operación, y que para mí es una especie de pase VIP que me sirve para saltármelos, tanto las preguntas del cuestionario, como las señales de peligro colocadas en las paredes me hicieron tocar otra vez el timbre, reclamando, de nuevo, la atención de la enfermera.
 
 - Perdone, pero llevo un neuroestimulador activo en mi pecho. Lo digo porque seguramente lo tengan que apagar antes de hacerme la prueba, -recalqué.
 - Menos mal que nos lo has dicho, - me replicó la enfermera -. Ahora mismo llamamos a neurología.
@@ -30,12 +30,12 @@ Al rato, un doctor apareció por la puerta, llevando en sus manos la tablet y el
 
 - Ya sabes lo que es esto, primero anotamos tus parámetros actuales, y después te desconectamos, -me comentó, al tiempo que manipulaba la tablet, y yo comenzaba a temblar.
 
-A partir de entonces, todo se me hizo eterno.
+A partir de entonces, el reloj se paralizó, y todo se me hizo eterno.
 Para más inri, los anestesistas tardaron más de dos horas en aparecer, mientras yo intentaba, inútilmente, dejar de temblar, activando los músculos de mi pierna y mano derechas.
 
 Lo último que recuerdo es despertarme medio adormilado, y sin apenas temblor. A mi lado, en la sala de despertar, estaba Marian cogiéndome la mano, que le había dado el relevo a mi hermana, y la doctora Avilés, mi neuróloga.
 
-- Te tenemos que pedir un último esfuerzo, -me imploró la doctora. 
-- Tienes que permanecer desconectado hasta mañana, para ver como está tu cuerpo realmente.
+- Tenemos que pedirte un último esfuerzo, -me imploró la doctora. 
+- Tienes que permanecer desconectado hasta mañana. Necesitamos ver el estado real de tu cuerpo, sin medicación y sin estimulación.
 
-Y yo asentí afirmativamente, resignado.
+Y yo asentí afirmativamente, resignado y tragando saliva.
