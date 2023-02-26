@@ -41,7 +41,7 @@ Y así, hasta poco más de las 9 de la noche, hora límite de las visitas, y en 
 La noche fue interminable, intentando mantener mis orejas atrapadas en el apretado casco, hasta que ya no pude más, y dieron las cuatro de la mañana en el dichoso reloj, y llamé suplicando a la enfermera de guardia para que las liberara, y ya pude, por fin, descansar... hasta las siete de la mañana, que un vampiro disfrazado de enfermera empezó a extraerme tubos y más tubos de sangre.
 
 Había conseguido sobrevivir a la noche en la UCI, y, aunque temblando, ya estaba más cerca de mi objetivo: la conexión de mi nuevo y flamante neuroestimulador. 
-Pero será ya, otra historia.
+Pero esa será ya, otra historia.
 
 
 
