@@ -20,7 +20,7 @@ Bajo la atenta mirada de mi hermana, y con precaución, fui incorporándome, al 
 
 Cuando al fin lo conseguí, dí unos pasos torpemente, y me dirigí renqueante hacia el baño, donde pude, por fin, comprobar que la dichosa sonda urinaria apenas me había provocado daños importantes, y sintiendo la misma sensación de alegría y alivio que la del primer primate que consiguió erguirse sobre sus patas traseras, desafiando a la ley de la gravedad.
 
-Tras todo ello, hice lo que sólo podía hacer en ese momento: tumbarme en la cama, y escuchar los rugidos de mi estómago, alertándome que estaba cerca la hora de la comida, sobre las dos de la tarde: De primero, una sabrosa fideuá, que engullí con fruición, y de segundo, un filete empanado de gallo, y que deboré igualmente, con cuidado de no atragantarme con alguna de sus fastidiosas espinas. De postre, un arroz con leche, que también desapareció en un santiamén, y que terminó de saciar  mi atrasada hambruna.
+Tras todo ello, hice lo que sólo podía hacer en ese momento: tumbarme en la cama, y escuchar los rugidos procedentes de mi vacío estómago, alertándome que estaba cerca la hora de la comida, sobre las dos de la tarde: De primero, una sabrosa fideuá, que engullí con fruición, y de segundo, un filete empanado de gallo, y que deboré igualmente, con cuidado de no atragantarme con alguna de sus fastidiosas espinas. De postre, un arroz con leche, que también desapareció en un santiamén, y que terminó de saciar  mi atrasada hambruna.
 
 Volví a tumbarme en la cama, y ya, con el estómago lleno, el sopor y el cansancio acabaron llevándome a los brazos de morfeo, rendido por los acontecimientos.
 
@@ -35,7 +35,7 @@ Y, tras manipular la tablet, enseñándosela a sus ayudantes, un leve cosquilleo
 
 Empecé a recitar el menú de la comida en voz alta, al mismo tiempo que intentaba manejar un ratón imaginario con mi mano derecha, sentado frente a la mesita de la comida. Nada, ni rastro del temblor... y en esas estaba, disfrutando como cuando era un adolescente imberbe y tuve por primera vez un ordenador en mis manos, hasta que de repente, la cosa dejó de funcionar.
 
-Me volví hacia la doctora, indignado y jurando en arameo, enfadado conmigo mismo, creyendo que yo era el culpable de aquellos repentinos temblores. Y entonces, la doctora se excusó, diciéndome que lo había desconectado ella para ver mi reacción, y comprobar in situ que el sistema funcionaba, de manera objetiva y sin tener en cuenta mi opinión.
+Me volví hacia la doctora, indignado y jurando en arameo, enfadado conmigo mismo, creyendo que yo era el culpable de aquellos repentinos temblores. Y entonces, la doctora se excusó, diciéndome que lo había desconectado ella para ver mi reacción, y comprobar in situ que el sistema funcionaba, de manera objetiva y sin tener en cuenta mi mísera opinión.
 
 Después de esa primera prueba, me volvieron a conectar de nuevo, y salimos al pasillo para probar como caminaba, ante la atenta mirada de asombro de mi hermana, que no se lo creía.
 
