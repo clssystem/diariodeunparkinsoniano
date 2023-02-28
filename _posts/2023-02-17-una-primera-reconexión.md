@@ -8,7 +8,7 @@ tags: [Relatos XI]
 keywords: [Estimulador neuronal,DBS,Deep Brain Stimulation,CUN,Clínica Universitaria de Navarra,conexión]
 footerimage: '/assets/images/2023/02/primeraconexion.png'
 ---
-El auxiliar que me iba a trasladar hasta la habitación 610 recibió el ok de nuestra partida sobre la una de la tarde.
+El auxiliar que me iba a trasladar hasta la habitación 610 recibió el ok de nuestra partida, sobre la una de la tarde.
 Para entonces, y sobre las doce del mediodía, ya había tomado una nueva dosis de levodopa, en forma de pastilla amarilla de Sinemet, que apenas calmó mis temblores por unos minutos: la medicación a estas alturas, todavía desconectado, era claramente insuficiente.
 
 El traslado fue relativamente rápido, una vez desposado de  todos mis accesorios. Tan sólo conservaba la vía medicamentosa de mi mano izquierda, por si necesitaba algún chute de medicación adicional, y las dichosas botas infladoras. Acostado como estaba en la camilla, fui viendo pasar delante de mis ojos los  carteles con los números de las habitaciones: 650, 649...
