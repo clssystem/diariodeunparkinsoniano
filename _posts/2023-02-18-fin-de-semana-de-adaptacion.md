@@ -12,7 +12,7 @@ Después de la primera reconexión, el día fue bastante tranquilo, anodino y ha
 Antes de irse, la doctora me dió unas últimas instrucciones:
 
 - Intenta descansar lo máximo posible, y si quieres ir al baño o asearte, procura estar siempre acompañado, para evitar caídas fatales e innecesarias -me dijo.
-- Ya sé que tienes ganas de salir de estas cuatro paredes, pero hoy tienes terminantemente prohibido el hacerlo. -continuó -  
+- Ya sé que tienes ganas de salir de estas cuatro paredes, pero hoy tienes terminantemente prohibido el hacerlo. -continuó. 
 - Mañana será otro día -prosiguió -, entonces podrás caminar por los pasillos de la planta. Como recompensa por portarte bien, dí adiós a las botas neumáticas, que tanto te agobian, y a la vía medicamentosa, que ya no hace nada colocada en tu mano izquierda.
 - Hoy seguirás tomando tu dosis habitual de medicación, tus cuatro pastillas de Sinemet, una cada cuatro horas, junto con el paracetamol soluble cada ocho horas, que te ayudará a mitigar el dolor; durante el fin de semana subiremos la dosis de levodopa, para ver si se producen efectos secundarios en forma de discinesias, y el lunes, poco antes de que te conectemos definitivamente, estarás otra vez castigado y sin medicación, y te haremos un último TAC, para ver si está todo correcto.
 
