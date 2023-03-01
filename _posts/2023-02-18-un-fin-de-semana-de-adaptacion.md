@@ -22,7 +22,7 @@ La tarde continuó tranquila, ya sin temblores, hasta que llegó la hora del fin
 
 Y, después de dormir prácticamente de un tirón y de descansar como un bebé, sobre las ocho de la mañana, apareció un auxiliar por la puerta, provisto de una esponja, con la intención de asearme, y que me cazó in fraganti saliendo del baño, y al que también despaché sutil pero amablemente, diciéndole que agradecía sus servicios, pero que no me hacían falta, y que me valía por mi mismo.
 
-Si... ya sé que no debía haberlo hecho, pero me sentía tan bien que cogí la esponja que me había dejado el auxiliar, me dirigí al baño y con mucho cuidado me metí en la ducha, limpiando lo mejor que pude todas las zonas de mi cuerpo, procurando no mojar las vendas que cubrían mi cabeza, ni las del bolsillo situado en mi pecho, donde se alojaba mi flamante y nuevo estimulador, ya conectado.
+Si... ya sé que no debería haberlo hecho, pero me sentía tan bien que cogí la esponja que me había dejado el auxiliar, me dirigí al baño y con mucho cuidado me metí en la ducha, limpiando lo mejor que pude todas las zonas de mi cuerpo, procurando no mojar las vendas que cubrían mi cabeza, ni las del bolsillo situado en mi pecho, donde se alojaba mi flamante y nuevo estimulador, ya conectado.
 
 Poco después apareció la enfermera, para tomarme las constantes vitales, y poder comprobar que mi temperatura corporal, mi saturación de oxígeno y mi tensión arterial ya estaban dentro de los márgenes normales.
 
