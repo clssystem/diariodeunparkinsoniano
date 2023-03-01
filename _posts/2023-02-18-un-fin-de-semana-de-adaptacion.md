@@ -8,7 +8,7 @@ tags: [Relatos XI]
 keywords: [Estimulador neuronal,DBS,Deep Brain Stimulation,CUN,Clínica Universitaria de Navarra,conexión,Sinemet,adaptación,resignación]
 footerimage: '/assets/images/2023/02/tebeos.jpeg'
 ---
-Después de la primera reconexión, el día fue bastante tranquilo, anodino y hasta aburrido.
+Después de la primera reconexión, el día transcurrió bastante tranquilo, anodino y hasta aburrido.
 Antes de irse, la doctora me dió unas últimas instrucciones:
 
 - Intenta descansar lo máximo posible, y si quieres ir al baño o asearte, procura estar siempre acompañado, para evitar caídas fatales e innecesarias -me dijo.
