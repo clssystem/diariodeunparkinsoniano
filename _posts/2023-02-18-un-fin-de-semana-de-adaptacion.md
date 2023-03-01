@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fin de semana de adaptación"
+title: "Un fin de semana de adaptación"
 date: 2023-02-18 06:00
 author: diariodeunparkinsoniano
 comments: true
