@@ -50,4 +50,4 @@ Mención aparte tuvo la visita, el domingo por la mañana, de dos de las persona
 
 Y por cierto, cuando llegó la toma adicional de Sinemet de media mañana, esa que me hizo tanto daño el día anterior... la superé sin problemas, a base de caminar y caminar, lento, pero decidido, por mi desierto particular, el conformado por los pasillos de la clínica.
 
-Estaba preparado para la fase final de mi operación: La conexión definitiva del estimulador neuronal, y la posterior alta clínica.
+Estaba preparado para la fase final de mi operación: La conexión definitiva del estimulador neuronal, y mi posterior y tan deseada alta clínica.
