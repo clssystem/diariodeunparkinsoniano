@@ -24,7 +24,7 @@ Después de recorrer el laberinto de pasillos del sótano de la clínica hasta e
 Aunque siempre que tengo que pasar por algún tipo de escaner enseño el carnet que me dió el doctor Guridi después de mi primera operación, y que para mí es una especie de pase VIP que me sirve para saltármelos, tanto las preguntas del cuestionario, como las señales de peligro colocadas en las paredes me hicieron tocar otra vez el timbre, reclamando, de nuevo, la atención de la enfermera.
 
 - Perdone, pero llevo un neuroestimulador activo en mi pecho. Lo digo porque seguramente lo tengan que apagar antes de hacerme la prueba, -recalqué.
-- Menos mal que nos lo has dicho, - me replicó la enfermera -. Ahora mismo llamamos a neurología.
+- Menos mal que nos lo has dicho —me replicó la enfermera—. Ahora mismo llamamos a neurología.
   
 Al rato, un doctor apareció por la puerta, llevando en sus manos la tablet y el aparatejo que servía para comunicarse con mi estimulador, y me pasaron a un box para desconectarme.
 
@@ -35,7 +35,7 @@ Para más inri, los anestesistas tardaron más de dos horas en aparecer, mientra
 
 Lo último que recuerdo es despertarme medio adormilado, y sin apenas temblor. A mi lado, en la sala de despertar, estaba Marian cogiéndome la mano, que le había dado el relevo a mi hermana, y la doctora Avilés, mi neuróloga.
 
-- Tenemos que pedirte un último esfuerzo, -me imploró la doctora. 
+- Tenemos que pedirte un último esfuerzo —me imploró la doctora. 
 - Tienes que permanecer desconectado hasta mañana. Necesitamos ver el estado real de tu cuerpo, sin medicación y sin estimulación.
 
 Y yo asentí afirmativamente, resignado y tragando saliva.

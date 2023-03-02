@@ -20,21 +20,21 @@ Después del consiguiente ajuste del estimulador -lo más parecido a un potro de
 
 Al cabo de unos días, al volver de mi sesión de fisioterapia de ANAPAR, en donde Arantxa, mi fisio, se encarga cada semana de poner a punto los músculos de mi pierna derecha, intentando explicarme lo más detalladamente cómo se comportan, a base de ejercicios que yo procuro asimilar en mi vuelta a casa, y poner en práctica en mi día a día, mi teléfono móvil me devolvió a la realidad, sacándome de mis pensamientos.
 
-- Hola buenos días -una voz que me resultaba familiar, se oyó al otro lado del teléfono.
+- Hola buenos días —una voz que me resultaba familiar, se oyó al otro lado del teléfono.
 - Soy Nora, la enfermera de neurocirugía de la CUN, ¿qué tal se encuentra?
 
 Después del protocolario saludo, me anunció la ansiada y esperada noticia: El Dr. Gonzalez, el neurocirujano que realmente me había operado, a las órdenes del Dr. Guridi, me citaba para una nueva consulta, que ya se habían encargado de tramitar con la seguridad social ellos mismos, evitándome los trámites burocráticos de las últimas consultas.
 
 Después de varios días, Marian y yo nos plantamos delante del neurocirujano, que, después de excusarse por los más de dos meses sin noticias, me expuso las opciones que tenía, vistos los resultados (a su juicio, poco satisfactorios, pero que a mí me han dado la vida), todas ellas haciéndome pasar de nuevo por el quirófano, repitiendo, una vez más, todo lo vivido en la operación, y haciéndome retrotraerme a hace casi ocho meses, cuando me tuve que hacer todas las pruebas previas a la misma.
 
-- De todas las opciones posibles, la mejor es añadir un electrodo nuevo en paralelo al que ya le está funcionando bien, en su lado izquierdo, para controlar el temblor de su lado derecho, -comentó, con voz pausada, denotando tranquilidad.
+- De todas las opciones posibles, la mejor es añadir un electrodo nuevo en paralelo al que ya le está funcionando bien, en su lado izquierdo, para controlar el temblor de su lado derecho, —comentó, con voz pausada, denotando tranquilidad.
 - Ya de paso, y si todo va bien, quitaremos el electrodo que controla su lado izquierdo, porque ahora mismo está apagado y no le está produciendo ningún efecto, -indicó, con la misma voz pausada.
-- Aprovecharemos y cambiaremos tanto el neuroestimulador -que el llamó "la pila" -, y pondremos unos electrodos mejorados, que son capaces de concentrar la energía de una manera más direccional, atacando más directamente a esas neuronas rebeldes que le están provocando el temblor.
-- En todo este tiempo, hemos estado estudiando detenidamente su caso, -continuó -, y creemos que esta es una de las mejores opciones, intentando no poner en riesgo lo que ya ha conseguido.
+- Aprovecharemos y cambiaremos tanto el neuroestimulador —que el llamó "la pila"—, y pondremos unos electrodos mejorados, que son capaces de concentrar la energía de una manera más direccional, atacando más directamente a esas neuronas rebeldes que le están provocando el temblor.
+- En todo este tiempo, hemos estado estudiando detenidamente su caso —continuó—, y creemos que esta es una de las mejores opciones, intentando no poner en riesgo lo que ya ha conseguido.
 
 Antes de poder replicar, y, adivinando lo que se me estaba pasando por mi maltrecho cerebro, continuó:
 
-- Como creemos que es lo mejor para usted, y que es mejor hacerlo cuanto antes, le hemos reservado dos huecos en el quirófano, uno el día 16 de febrero, y otro el 24, por si acaso -apostilló, disparando casi a bocajarro.
+- Como creemos que es lo mejor para usted, y que es mejor hacerlo cuanto antes, le hemos reservado dos huecos en el quirófano, uno el día 16 de febrero, y otro el 24, por si acaso —apostilló, disparando casi a bocajarro.
 
 Miré a Marian interrogándole con los ojos, y ella me dijo, emocionada, que era mi decisión, y que me apoyaría en lo que hiciera falta.
 

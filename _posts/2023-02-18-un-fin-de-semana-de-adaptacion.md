@@ -12,7 +12,7 @@ Después de la primera reconexión, el día transcurrió bastante tranquilo, ano
 Antes de irse, la doctora me dió unas últimas instrucciones:
 
 - Intenta descansar lo máximo posible, y si quieres ir al baño o asearte, procura estar siempre acompañado, para evitar caídas fatales e innecesarias -me dijo.
-- Ya sé que tienes ganas de salir de estas cuatro paredes, pero hoy tienes terminantemente prohibido el hacerlo. -continuó. 
+- Ya sé que tienes ganas de salir de estas cuatro paredes, pero hoy tienes terminantemente prohibido el hacerlo —continuó. 
 - Mañana será otro día -prosiguió -, entonces podrás caminar por los pasillos de la planta. Como recompensa por portarte bien, dí adiós a las botas neumáticas, que tanto te agobian, y a la vía medicamentosa, que ya no hace nada colocada en tu mano izquierda.
 - Hoy seguirás tomando tu dosis habitual de medicación, tus cuatro pastillas de Sinemet, una cada cuatro horas, junto con el paracetamol soluble cada ocho horas, que te ayudará a mitigar el dolor; durante el fin de semana subiremos la dosis de levodopa, para ver si se producen efectos secundarios en forma de discinesias, y el lunes, poco antes de que te conectemos definitivamente, estarás otra vez castigado y sin medicación, y te haremos un último TAC, para ver si está todo correcto.
 
@@ -28,7 +28,7 @@ Poco después apareció la enfermera, para tomarme las constantes vitales, y pod
 
 Y, mientras tanto, una sensación rara empezó a recorrer mi cuerpo: mi pie derecho, y después mi mano, habían empezado a temblar, haciéndome sentir lo que sintió el maestro Sabina al escribir su canción, al pensar que la buena sensación había durado lo mismo que duran dos peces de hielo en un whisky on the rock.
 
-- Tranquilo, tu cerebro está desinflamándose, es normal, ya tienes experiencia de la otra operación -me dije, resignado.
+- Tranquilo, tu cerebro está desinflamándose, es normal, ya tienes experiencia de la otra operación —me dije, resignado.
 
 Antes de que llegase Marian, y después de realizar la rutinaria llamada telefónica de tranquilidad a mis padres, y de meterme entre pecho y espalda el frugal desayuno que me habían dejado en la habitación, y que mi estómago ya toleraba con normalidad, atendí los numerosos mensajes de ánimo, y respondí a las llamadas de mis amigos.
 

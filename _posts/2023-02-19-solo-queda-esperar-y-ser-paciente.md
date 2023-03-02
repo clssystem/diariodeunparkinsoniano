@@ -75,9 +75,9 @@ Poco después de la comida, volví a recibir la visita de la doctora Avilés, mi
 - Ni se te ocurra irte solo a caminar, y permanece sentado cuando no tengas a nadie junto a tí, para evitar caídas. Por lo menos, hasta que vuelvas a visitar al doctor González, el neurocirujano. Y, por supuesto, ni se te ocurra ir al monte —comentó, adivinando mis intenciones.
 - En aproximadamente un mes nos volvemos a ver, ya sabes que el sistema se irá degradando hasta entonces, pero no desesperes y ten muchísima paciencia. Nos vemos entonces —se despidió con una sonrisa la doctora.
 
-Sobre las seis de la tarde, y ya con el alta médica en mi poder, mi particular salvoconducto de libertad, crucé las puertas de la clínica para volver a casa, acompañado de Marian, mi hermana y mi cuñado, y que es donde desde entonces me encuentro, `prácticamente recluido, y escribiendo estas líneas, en frente de mi portátil, intentando poner a prueba mi memoria, recordando todo el proceso.
+Sobre las seis de la tarde, y ya con el alta médica en mi poder, mi particular salvoconducto de libertad, crucé las puertas de la clínica para volver a casa, acompañado de Marian, mi hermana y mi cuñado, y que es donde desde entonces me encuentro, prácticamente recluido, y escribiendo estas líneas en frente de mi portátil, intentando poner a prueba mi memoria, recordando todo el proceso.
 
-Y... como colofón de todo este serial quirurgil, que espero que no haya sido muy aburrido... han pasado ya dos semanas de mi operación.
+Y, como colofón de todo este serial quirurgil, que espero que no haya sido muy aburrido... han pasado ya dos semanas de mi operación.
 
 Poco a poco, mis dolores han ido remitiendo, me voy recuperando lentamente y mis heridas van cicatrizando adecuadamente.
 
@@ -88,4 +88,4 @@ Y, aunque mis temblores han vuelto a los niveles de antes de la operación, como
 
 En fin... sólo queda esperar y ser paciente.
 
-Esperar pacientemente, a que dentro de más o menos un mes, llegue la fecha de la consulta con la doctora Avilés, mi neuróloga, y reconfigure de nuevo, y esperando que definitivamente, mi estimulador neuronal.
+Esperar pacientemente, a que dentro de más o menos un mes, llegue la fecha de la consulta con la doctora Avilés, mi neuróloga, y reconfigure de nuevo, y esperando que durante un largo periodo de tiempo, mi estimulador neuronal.

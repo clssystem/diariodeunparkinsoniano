@@ -29,7 +29,7 @@ Su séquito de estudiantes, revoloteando a su alrededor, y la tablet que llevaba
 
 Mientras yo miraba la escena extrañado, la doctora desalojó a mi hermana, diciéndole que por favor nos dejara solos.
 
-- Ya sé que es algo inusual, pero vamos a conectarte el estimulador al mínimo, para ver si puedes descansar el fin de semana. Además subiremos la dosis de Sinemet, aumentando el número de tomas, y utilizaremos una de las características de tu nuevo estimulador, y que no tenía el que te hemos retirado: Lo vamos a poner en "modo escucha", para que registre la actividad de tus neuronas. No esperes milagros -continuó diciéndome - Ya sabes como es esto, y que te tienes que armar de paciencia.
+- Ya sé que es algo inusual, pero vamos a conectarte el estimulador al mínimo, para ver si puedes descansar el fin de semana. Además subiremos la dosis de Sinemet, aumentando el número de tomas, y utilizaremos una de las características de tu nuevo estimulador, y que no tenía el que te hemos retirado: Lo vamos a poner en "modo escucha", para que registre la actividad de tus neuronas. No esperes milagros -continuó diciéndome—. Ya sabes como es esto, y que te tienes que armar de paciencia.
 
 Y, tras manipular la tablet, enseñándosela a sus ayudantes, un leve cosquilleo eléctrico recorrió mis extremidades, provocando que mi temblor cesara casi instantáneamente, como por arte de magia.
 

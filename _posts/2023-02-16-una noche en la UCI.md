@@ -22,17 +22,17 @@ Mientras comprobaba mi estado físico, en el que cabía destacar el enorme dolor
 
 Lentamente empecé a mover mis pies, que respondían claramente a mis impulsos cerebrales. Hice lo mismo con la mano derecha, hasta palparme la enorme venda que cubría mi dolorido y abierto cráneo, lo que en jerga médica se llama capelina, y que es como un enorme casco que te cubre toda la cabeza y la comprime enormemente, y que te atrapa las orejas hasta dejártelas amoratadas y doloridas.
 
-- Hola... -intenté farfullar, aunque sólo un hilillo de voz salió de mi garganta.
-- Hola cariño, -dijo Marian. No hables todavía. Los médicos dicen que todo ha ido bien; ya he avisado a tu hermana y ella a tus padres; y he dejado un mensaje también en todos tus grupos de amigos de WhatsApp. Ahora descansa, si te portas bien y te dejan las enfermeras te dejaré usar el móvil, y que veas esas freekadas que tanto te gustan en la tele.
-- Vale -asentí con mi pulgar derecho, al tiempo que intentaba encontrar en la cama mi pelotita amarilla.
+- Hola... —intenté farfullar, aunque sólo un hilillo de voz salió de mi garganta.
+- Hola cariño —dijo Marian—. No hables todavía. Los médicos dicen que todo ha ido bien; ya he avisado a tu hermana y ella a tus padres; y he dejado un mensaje también en todos tus grupos de amigos de WhatsApp. Ahora descansa, si te portas bien y te dejan las enfermeras te dejaré usar el móvil, y que veas esas freekadas que tanto te gustan en la tele.
+- Vale —asentí con mi pulgar derecho, al tiempo que intentaba encontrar en la cama mi pelotita amarilla.
 
 Cada poco tiempo, una enfermera entraba y me tomaba la temperatura, que era un poco más alta de la habitual, pero que en ningún momento subió de 37,4: Mi sistema inmunológico estaba haciendo su trabajo.
 
 Al rato Marian recibió el visto bueno, y pude coger, por fín, mi móvil: ¡25 mensajes preguntando por mí!
 Le pedí que me hiciera la foto de rigor, con la señal de victoria, para mandarla por WhatsApp, pero primero llamé a mis padres por teléfono, para tranquilizarlos.
 
-- Papá, estoy bien... pero no puedo hablar, así que estad tranquilos, os quiero mucho. -dije, con la voz entrecortada.
-- ¡Hijo! no te preocupes, descansa. -me dijo mi padre, aliviado.
+- Papá, estoy bien... pero no puedo hablar, así que estad tranquilos, os quiero mucho —dije, con la voz entrecortada.
+- ¡Hijo! no te preocupes, descansa —me dijo mi padre, aliviado.
 
 Después, mandé la foto a modo de respuesta, y me dispuse "a descansar"... es un decir, porque  el dichoso reloj, en lugar de mover su minutero hacia la derecha, parecía funcionar al revés, y las enfermeras cada poco entraban para tomarme la temperatura, o para comprobar que mi dolorosa sonda urinaria estaba haciendo su trabajo.
 

@@ -23,8 +23,8 @@ Tras asearme, y sin apenas poder desayunar, debido a mis problemas intestinales,
 
 Después de un viaje relámpago en el coche de mi cuñado, y al cruzar el umbral de la zona de admisión acompañado de mi hermana, un simple gesto de dolor hacia Nora, la enfermera de neurocirugía, hizo que nos recibiera de manera urgente el doctor González, mi neurocirujano.
 
-- No se preocupe -me indicó. Tras estudiar la imagen de ayer, he encontrado dos trayectorias posibles. Y sin casi darme tiempo a reaccionar, me palpó la cabeza como si fuese un melón, indicándome con su dedo índice el lugar de la perforación.
-- Es un sitio un poco peligroso, porque puede afectar a la movilidad si nos pasamos con el taladro -continuó diciendo tranquilamente, mientras anotaba algo en unos papeles, que después tuve que firmar, sin apenas tiempo para leerlos.
+- No se preocupe —me indicó—. Tras estudiar la imagen de ayer, he encontrado dos trayectorias posibles. Y sin casi darme tiempo a reaccionar, me palpó la cabeza como si fuese un melón, indicándome con su dedo índice el lugar de la perforación.
+- Es un sitio un poco peligroso, porque puede afectar a la movilidad si nos pasamos con el taladro —continuó diciendo tranquilamente, mientras anotaba algo en unos papeles, que después tuve que firmar, sin apenas tiempo para leerlos.
 - Haremos lo que habíamos comentado anteriormente. Dejaremos, por precaución, el electrodo izquierdo que controla su lado derecho. Extraeremos el electrodo derecho, que controla su lado izquierdo, y que actualmente no está conectado, y el canal libre del neuroestimulador lo utilizaremos para conectar el nuevo electrodo direccional, paralelo al que dejamos.
 
 Tras la breve visita, habló telefónicamente con neurología, para indicar que ya habíamos terminado, y que íbamos para allí, para volver a conectarme el estimulador.

@@ -18,17 +18,17 @@ Me despedí de Marian con un pequeño apretón en su mano derecha, intentando tr
 
 En apenas unos pocos minutos, llegamos a la sala del TAC prequirúrjico.
 
-- Ha llegado antes que el cirujano, tendrá que esperar unos minutos -me dijo una de las enfermeras, mientras el auxiliar maniobraba la silla y me aparcaba adecuadamente, y yo intentaba respirar lenta y pausadamente, para controlar mis nervios.
+- Ha llegado antes que el cirujano, tendrá que esperar unos minutos —me dijo una de las enfermeras, mientras el auxiliar maniobraba la silla y me aparcaba adecuadamente, y yo intentaba respirar lenta y pausadamente, para controlar mis nervios.
 
 Al poco rato llegó el doctor, excusándose por la tardanza, acompañado de su ayudante y de la doctora Avilés, mi neuróloga, que sería la encargada de desconectar el neuroestimulador, que había tenido conectado toda la noche.
 
-- Ya sabe cómo funciona esto. Primero, le colocaremos el casco. Después le haremos el TAC para tomar referencias, y finalmente le llevaremos al quirófano, -me  comentó -, mientras yo asentía con la cabeza, resignado.
+- Ya sabe cómo funciona esto. Primero, le colocaremos el casco. Después le haremos el TAC para tomar referencias, y finalmente le llevaremos al quirófano —me  comentó, mientras yo asentía con la cabeza, resignado.
 
 Tras posicionar el casco, colocándomelo en la cabeza con una especie de topes en los orificios de los oídos a modo de guía, con un rotulador, fue marcando las partes de mi cráneo, en las que más tarde lo fijaría.
 
 Al mismo tiempo, la otra doctora iba inyectando anestesia local en las marcas, para posteriormente afanarse en colocar los tornillos de fijación, con una llave allen del número 7, haciendo que el casco quedara sujeto firmemente a mi cabeza.
 
-- Gracias al tamaño considerable de su cabeza, no hay demasiado peligro de que el casco se suelte, -me comentó el cirujano, mientras yo asentía afirmativamente, colocando hacia arriba el pulgar de mi mano derecha.
+- Gracias al tamaño considerable de su cabeza, no hay demasiado peligro de que el casco se suelte —me comentó el cirujano, mientras yo asentía afirmativamente, colocando hacia arriba el pulgar de mi mano derecha.
 
 Por último, entró en acción la neuróloga, desactivando el neuroestimulador, con su tablet.
 
@@ -40,7 +40,7 @@ Volvimos a recorrer de nuevo la clínica, zigzagueando por los pasillos, regatea
 
 En pocos minutos, estaba ya "cómodamente" posicionado en la mesa de operaciones, izado por unas cuantos auxiliares, y saludando al resto de médicos mientras lo hacían, entre los que se encontraba el anestesista, mi camello particular: mi tocayo, Antonio.
 
-- Ya te conoces esto, -me comentó -. A la mínima, te quejas para que no tengamos que llegar al límite de tu resistencia.
+- Ya te conoces esto -me comentó—. A la mínima, te quejas para que no tengamos que llegar al límite de tu resistencia.
 - Ok, respondí con mi pulgar derecho, dejando de estrujar, por unos segundos, mi pelotita amarilla con su sonrisa desgastada, y que ya había empezado a utilizar, al volver de nuevo los temblores.
 
 Después de esto, los pasos que ya conocía: la ingesta de anestesia, justa y necesaria, para mantenerme relajado; el taladrar del cráneo para introducir el electrodo, haciendo que vibre la dentadura y el notar como baja por el interior del cerebro, mientras el ojo izquierdo me dolía horriblemente, al atravesar la punta las meninges, por cierto, según dijeron, bastante grandes.
