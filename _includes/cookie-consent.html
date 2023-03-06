@@ -6,10 +6,9 @@
         #cookie-notice a {position: relative; bottom: 4px;}
     }
 </style>
-<div id="cookie-notice"><span>Nos gustaría usar cookies de terceros para mejorar la funcionalidad de este sitio web.</span>
+<div id="cookie-notice"><span>Utilizamos cookies de terceros sólo con fines estadísticos</span>
     <a id="cookie-notice-accept" class="btn btn-primary btn-sm">Aprobar</a>
     <a id="cookie-notice-deny" class="btn btn-primary btn-sm">Denegar</a>
-    <a href="/privacy" class="btn btn-primary btn-sm">Mas información</a></div>
 <script>
     function createCookie(name,value,days) {
         var expires = "";
@@ -34,22 +33,22 @@
         createCookie(name,"",-1);
     }
 
-    if(readCookie('cookie-notice-option')=='true') {
+    if(readCookie('Acookie-notice-option')=='true') {
         {% if jekyll.environment == "production" and site.google_analytics %}
            {% include ga.js %}
         {% endif %}
-    } else if (readCookie('cookie-notice-option')!='false'){
+    } else if (readCookie('Acookie-notice-option')!='false'){
         document.getElementById('cookie-notice').style.display = 'block';
     }
 
     document.getElementById('cookie-notice-accept').addEventListener("click",function() {
-        createCookie('cookie-notice-option','true',31);
+        createCookie('Acookie-notice-option','true',31);
         document.getElementById('cookie-notice').style.display = 'none';
         location.reload();
     });
 
     document.getElementById('cookie-notice-deny').addEventListener("click",function() {
-        createCookie('cookie-notice-option','false',31);
+        createCookie('Acookie-notice-option','false',31);
         document.getElementById('cookie-notice').style.display = 'none';
         location.reload();
     });
