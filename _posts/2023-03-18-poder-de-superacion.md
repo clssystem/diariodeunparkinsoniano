@@ -16,7 +16,7 @@ El insistente y molesto dolor en mi ojo izquierdo ha ido desapareciendo, al mism
 
 Con el paso del tiempo, mis paseos se han ido alargando, manteniéndome más y más tiempo en pie, haciendo que mi vértigo, con esa sensación tan molesta de estar estático y el resto del mundo flotando y dando vueltas a mi alrededor, y mi fotofobia, que me hace comportarme como un vampiro temeroso de los rayos del sol, vayan también desvaneciéndose día a día, paulatínamente.
 
-Después de todo, como me dijo el cirujano hace una semana, el día que me quitaron, al fin, todos los puntos, "¿qué esperabas? Te hemos abierto dos veces tu cabezota gorda"
+Después de todo, como me dijo el cirujano hace una semana, el día que me quitaron, al fin, todos los puntos, "¿qué esperabas? Te hemos abierto dos veces esa cabezota gorda"
 
 Aún me siento cansado, como si alguien se interpusiera en mi caminar, y me hiciera ir a menos velocidad, pero eso no me impedirá el hacerlo. Incluso después de haberme regulado el estimulador la Dra. Avilés, mi neuróloga, hace apenas dos días.
 
