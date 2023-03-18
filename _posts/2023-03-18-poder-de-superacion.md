@@ -5,8 +5,8 @@ date: 2023-03-18 06:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XI] 
-keywords: [Estimulador neuronal,DBS,Deep Brain Stimulation,espera,paciencia,actualización de firmware]
-footerimage: '/assets/images/2023/02/neuroestimulador.jpg'
+keywords: [Poder de superación,Arrigaztelu]
+footerimage: '/assets/images/2023/03/dividir.jpeg'
 ---
 Ha pasado ya un mes desde mi segunda operación.
 
