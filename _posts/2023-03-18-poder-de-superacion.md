@@ -18,44 +18,47 @@ Con el paso del tiempo, mis paseos se han ido alargando, manteniéndome más y m
 
 Después de todo, como me dijo el cirujano hace una semana, el día que me quitaron, al fin, todos los puntos, "¿qué esperabas? Te hemos abierto dos veces esa cabezota gorda"
 
-Aún me siento cansado, como si alguien se interpusiera en mi caminar, y me hiciera ir a menos velocidad, pero eso no me impedirá el hacerlo. Incluso después de haberme regulado el estimulador la Dra. Avilés, mi neuróloga, hace apenas dos días.
+Aún me siento cansado, como si alguien se interpusiera en mi caminar, plantándome una losa en el pecho y me hiciera aminorar la velocidad, pero eso no me impedirá el hacerlo. Incluso, después de haberme regulado el estimulador la Dra. Avilés, mi neuróloga, hace apenas dos días.
 
 Mucha gente me pregunta de donde saco fuerzas de flaqueza, y yo, a veces, no sé qué responder.
 Sólo sé que debo seguir adelante.
 
-Quizás sea la fuerza que obtengo de los demás, con sus ánimos, con sus cuidados, con sus mimos.
+Quizás sea la fuerza que obtengo de los demás, con sus palabras de ánimo, con sus cuidados, con sus mimos, con su cariño.
 
-Estos días de silencio he estado pensando en todo esto, y no he encontrado una respuesta exacta.
+Estos días de silencio he estado pensando en todo esto, y no he encontrado una respuesta clara.
 
-Hasta hoy, que he ido a visitar a mis padres.
+Hasta el día de hoy, al ir a visitar a mis padres.
 
 Mi madre, que tiene ya 81 años recién cumplidos, me ha dado la respuesta, sin yo saberlo.
 
-Ella no pudo ir a la escuela cuando era pequeña. Eso, que ahora se nos da por supesto, y que antes, cuando joven, era casi un privilegio.
+Ella no pudo ir a la escuela cuando era pequeña. Eso, que ahora se nos da por supuesto, y que antes, cuando joven, era casi un privilegio.
+
 Ella nació en Arrigaztelu, en Sumbilla, en el norte de navarra, en el caserío familiar, del que alguna vez he hablado en este blog.
+
 Sin apenas poder disfrutar de su madre, la perdió una noche fría de invierno, y, desde entonces, tuvo que dedicarse a cuidar de su padre y de sus hermanos.
 
 Para mí, mi madre siempre ha sido un ejemplo.
 
 Salió de allí, del caserío, sin apenas saber hablar una palabra de castellano, y se vino a Ansoain cuando se casó con mi padre, hace ya más de cincuenta años.
-Desde entonces, siempre la han conocido en mi pueblo como "la vasca", porque cuando habla se deja la mitad de los artículos en cada frase.
+
+
+Desde entonces, siempre le han conocido en mi pueblo como "la vasca", porque cuando habla se deja la mitad de los artículos en cada frase.
 Nosotros, en mi familia, estamos acostumbrados, pero para alguien que no la conozca, es algo chocante.
 Entonces, yo pienso en las veces y veces que he intentado hablar en inglés, y no lo he conseguido.
 
-Hace unos años, cuando mi hermana y yo eramos ya tan mayores como para no querer ir al caserío, estaban embotando tomates y se le cayo un cubo de agua hirviendo en el pie. Cualquiera se hubiera desmayado de dolor, pero ella, en lugar de eso, aguantaba, estóicamente, las interminables curas en el centro de salud, como si nada.
+Hace unos años, cuando mi hermana y yo eramos ya tan mayores como para no querer ir al caserío, estaban embotando tomates y se le cayó un cubo de agua hirviendo en el pie. Cualquiera se hubiera desmayado de dolor, pero ella, en lugar de eso, aguantó, estoicamente, las interminables curas en el centro de salud, como si nada.
 
-Más adelante, decía "que le picaba un ojo"...la llevamos a urgencias, y resultó que había tenido un infarto ocular, que debía ser muy doloroso, pero ella nunca se quejó. Para colmo, le operaron de cataratas en el ojo sano, y la dejaron mal, con lo que practicamente se ha quedado ciega. Su respuesta: Empezó a leer, a devorar con ansia renglones y renglones, a consumir libros como nunca lo había hecho. Es cierto que apenas ve la letra, pero eso tiene solución: Le regalé un ebook, y desde entonces puede poner la letra lo suficientemente grande como para verla.
+Más adelante, decía "que le picaba un ojo"...la llevamos a urgencias, y resultó que había tenido un infarto ocular, que debía ser muy doloroso, pero ella nunca se quejó. Para colmo, le operaron de cataratas en el ojo sano, y la dejaron mal, con lo que prácticamente se ha quedado ciega. Su respuesta: Empezar a leer, a devorar con ansia renglones y renglones, a consumir libros como nunca lo había hecho. Es cierto que apenas ve la letra, pero eso tiene solución: Le regalé un ebook, y desde entonces puede ponerla lo suficientemente grande como para verla.
 
-Como decía, el otro día, mi madre me dió la respuesta: Se acercó a mí al abrir la puerta de casa, en una de mis rutinarias visitas. LLevaba en sus manos un cuadernillo de aquellos que usabamos en el cole, a modo de refuerzo, para hacer ejercicios de matemáticas.
-Con voz emocionada me dijo algo que ya intuía, por el brillo de sus ojos y su sonrisa de complicidad:
+Como decía, mi madre me ha dado la respuesta: Se ha acercado a mí al abrir la puerta de casa. LLevaba en sus manos un cuadernillo de aquellos que usábamos en el cole, a modo de refuerzo, para hacer ejercicios de matemáticas.
+Con voz emocionada me ha dicho algo que ya intuía por el brillo de sus ojos y su sonrisa de complicidad:
 
-- Quiero aprender a dividir, que nunca he sabido -me dijo, de sopetón.
+- Quiero aprender a dividir, que nunca he sabido -me ha soltado, de sopetón.
 
-Desde entonces le he estado enseñando a hacerlo, con paciencia, y con calma.
+Y yo no me he podido negar: He estado enseñándole a hacerlo, con paciencia, con calma.
 
 La misma que he de tener yo, siguiendo y admirando su enorme poder de superación.
 
 Gracias mamá.
 
-
-
+Por tu cariño, y por tu respuesta.
