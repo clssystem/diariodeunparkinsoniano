@@ -18,28 +18,26 @@ Con el paso del tiempo, mis paseos se han ido alargando, manteniéndome más y m
 
 Después de todo, como me dijo el cirujano hace una semana, el día que me quitaron, al fin, todos los puntos, "¿qué esperabas? Te hemos abierto dos veces tu cabezota gorda"
 
-Aún me siento cansado, como si alguien se interpusiera en mi caminar, y me hiciera ir a menos velocidad, pero eso no me impedirá el hacerlo. 
-
-Incluso después de haberme regulado el estimulador la Dra. Avilés, mi neuróloga, hace apenas dos días.
+Aún me siento cansado, como si alguien se interpusiera en mi caminar, y me hiciera ir a menos velocidad, pero eso no me impedirá el hacerlo. Incluso después de haberme regulado el estimulador la Dra. Avilés, mi neuróloga, hace apenas dos días.
 
 Mucha gente me pregunta de donde saco fuerzas de flaqueza, y yo, a veces, no sé qué responder.
-Sólo se que debo seguir adelante.
+Sólo sé que debo seguir adelante.
 
 Quizás sea la fuerza que obtengo de los demás, con sus ánimos, con sus cuidados, con sus mimos.
 
-Estos días de silencio he estado pensando en todo esto, y no encontraba una respuesta exacta.
+Estos días de silencio he estado pensando en todo esto, y no he encontrado una respuesta exacta.
 
-Hasta hoy, que he estado con mis padres.
+Hasta hoy, que he ido a visitar a mis padres.
 
-Mi madre, que tiene 81 años recién cumplidos, me ha dado la respuesta, sin yo saberlo.
+Mi madre, que tiene ya 81 años recién cumplidos, me ha dado la respuesta, sin yo saberlo.
 
-Resulta que mi madre no pudo ir a la escuela cuando era pequeña. Eso, que ahora se nos da por supesto, y que antes, cuando ella era joven, era casi un privilegio.
-Ella nació en Arrigaztelu, en Sumbilla, en el norte de navarra, en el caserío de su familia, y del que alguna vez he hablado en este blog.
+Ella no pudo ir a la escuela cuando era pequeña. Eso, que ahora se nos da por supesto, y que antes, cuando joven, era casi un privilegio.
+Ella nació en Arrigaztelu, en Sumbilla, en el norte de navarra, en el caserío familiar, del que alguna vez he hablado en este blog.
 Sin apenas poder disfrutar de su madre, la perdió una noche fría de invierno, y, desde entonces, tuvo que dedicarse a cuidar de su padre y de sus hermanos.
 
 Para mí, mi madre siempre ha sido un ejemplo.
 
-Salió de allí, del caserío, sin apenas saber hablar castellano, y se vino a Ansoain cuando se casó con mi padre, hace ya más de cincuenta años.
+Salió de allí, del caserío, sin apenas saber hablar una palabra de castellano, y se vino a Ansoain cuando se casó con mi padre, hace ya más de cincuenta años.
 Desde entonces, siempre la han conocido en mi pueblo como "la vasca", porque cuando habla se deja la mitad de los artículos en cada frase.
 Nosotros, en mi familia, estamos acostumbrados, pero para alguien que no la conozca, es algo chocante.
 Entonces, yo pienso en las veces y veces que he intentado hablar en inglés, y no lo he conseguido.
