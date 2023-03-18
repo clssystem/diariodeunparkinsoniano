@@ -50,8 +50,8 @@ Hace unos años, cuando mi hermana y yo eramos ya tan mayores como para no quere
 
 Más adelante, decía "que le picaba un ojo"...la llevamos a urgencias, y resultó que había tenido un infarto ocular, que debía ser muy doloroso, pero ella nunca se quejó. Para colmo, le operaron de cataratas en el ojo sano, y la dejaron mal, con lo que prácticamente se ha quedado ciega. Su respuesta: Empezar a leer, a devorar con ansia renglones y renglones, a consumir libros como nunca lo había hecho. Es cierto que apenas ve la letra, pero eso tiene solución: Le regalé un ebook, y desde entonces puede ponerla lo suficientemente grande como para verla.
 
-Como decía, mi madre me ha dado la respuesta: Se ha acercado a mí al abrir la puerta de casa. LLevaba en sus manos un cuadernillo de aquellos que usábamos en el cole, a modo de refuerzo, para hacer ejercicios de matemáticas.
-Con voz emocionada me ha dicho algo que ya intuía por el brillo de sus ojos y su sonrisa de complicidad:
+Como decía, mi madre me ha dado hoy la respuesta: Se ha acercado a mí al abrir la puerta de casa. Llevaba en sus manos un cuadernillo de aquellos que usábamos en el cole, a modo de refuerzo, para hacer ejercicios de matemáticas.
+Con voz emocionada me ha dicho algo que ya intuía, por el brillo de sus ojos y su sonrisa de complicidad:
 
 - Quiero aprender a dividir, que nunca he sabido -me ha soltado, de sopetón.
 
