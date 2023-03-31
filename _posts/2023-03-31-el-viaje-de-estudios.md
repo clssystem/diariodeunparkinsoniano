@@ -5,8 +5,8 @@ date: 2023-03-31 06:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XI] 
-keywords: [Poder de superación,Arrigaztelu]
-footerimage: '/assets/images/2023/03/autobus.jpeg'
+keywords: [Viaje de estudios,Calella]
+footerimage: '/assets/images/2023/03/autobus.jpg'
 ---
 Mi sobrino Ibai, del que he hablado varias veces en este blog, viaja en estos momentos en un autobús, empezando a disfrutar de su viaje de estudios, mientras que Nahia, mi sobrina, espera impaciente a que le toque su turno.
 
