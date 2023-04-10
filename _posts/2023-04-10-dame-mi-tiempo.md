@@ -8,7 +8,7 @@ tags: [Relatos XII]
 keywords: [Dia mundial del Parkinson,11 de abril]
 footerimage: '/assets/images/2023/04/tiempo.png'
 ---
-Cómo cada año, desde 1997, el 11 de abril es el día mundial del Parkinson, en honor a la fecha de nacimiento del doctor James Parkinson, en 1755.
+Como cada año, desde 1997, el 11 de abril es el día mundial del Parkinson, en honor a la fecha de nacimiento del doctor James Parkinson, en 1755.
 
 Por si no lo sabes, el Parkinson es una enfermedad neurodegenerativa que afecta al sistema nervioso y al control de movimiento, y que en la actualidad es la segunda más frecuente después del Alzhéimer.
 
