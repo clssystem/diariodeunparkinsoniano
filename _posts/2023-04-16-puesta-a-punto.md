@@ -8,7 +8,7 @@ tags: [Relatos XII]
 keywords: [Dia mundial del Parkinson,11 de abril]
 footerimage: '/assets/images/2023/04/dbs.jpg'
 ---
-Han pasado dos meses desde mi segunda operación, y poco más de mes desde que recibí el alta "cirujenil", después de comprobar que la cicatriz de la nueva apertura de mi cuero cabelludo en menos de ocho meses progresaba adecuadamente.
+Han pasado dos meses desde mi segunda operación, y poco más de uno desde que recibí el alta "cirujenil", después de comprobar que la cicatriz de la nueva apertura de mi cuero cabelludo en menos de ocho meses progresaba adecuadamente.
 
 Tras la incertidumbre provocada por el inesperado susto de palpar en mi cuello un bulto muy cercano al cableado que une los electrodos colocados en mi cráneo al estimulador de mi pecho, y que resultó ser una falsa alarma en forma de ganglio inflamado, llegó el momento de los primeros ajustes eléctricos, intentando afinar lo máximo posible la puesta a punto del aparatejo.
 
