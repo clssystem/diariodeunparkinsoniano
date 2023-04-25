@@ -32,7 +32,7 @@ Nos confesó también, que en aquella época casi consigue su amargo propósito 
 
 Intentaba ser él mismo, la persona que era antes de su enfermedad, a pesar de estar ahogándose en un mar de dudas. Y lo hacía solo, "a pleno pulmón", como el título de su segunda canción, cuyo autor es Miguel Rios. De cara a la galería intentaba ser fuerte, pero por dentro seguía roto, perdido en su particular zozobra.
 
-Con su tercera canción, "Maneras de vivir" del maestro Rosendo, nos mostró su particular receta para sobrellevar la enfermedad, para encontrar la luz al final de su túnel: El método de "ensayo y error", que consistía en probar a hacer algo físico que hacía antes de la enfermedad, y si lo podía hacer, adelante; que le costaba un poco más: pues las hacía, pero a su ritmo, sin las prisas a las que nos tiene acostumbrado este dichoso mundo, sin gastar la energía que tanto le hacía falta; que no podía, pues lo aparcaba definitivamente en el baúl de los "no puedo" y no se martirizaba más con ello. Fue "aprendiendo el oficio", como dice Rosendo en la canción, y extrapolándolo a sus ideas, desechando las negativas y dando más importancia y más valor a las positivas.
+Con su tercera canción, "Maneras de vivir" del maestro Rosendo, nos mostró su particular receta para sobrellevar la enfermedad, para encontrar la luz al final de su túnel: El método de "ensayo y error", que consistía en probar a hacer algo físico que hacía antes de la enfermedad, y si lo podía hacer, adelante; que le costaba un poco más: pues lo hacía, pero a su ritmo, sin las prisas a las que nos tiene acostumbrado este dichoso mundo, sin gastar la energía que tanto le hacía falta; que no podía, pues lo aparcaba definitivamente en el baúl de los "no puedo" y no se martirizaba más con ello. Fue "aprendiendo el oficio", como dice Rosendo en la canción, y extrapolándolo a sus ideas, desechando las negativas y dando más importancia y más valor a las positivas.
 
 Con la cuarta canción, "Preparado para el rock and roll" de los Suaves, nos hizo ver que por fin había perdido el miedo a la enfermedad, y que la trataba de tú a tú. Nuevamente me recordó a mí y a mi particular pelea con Parki, mi Parkinson particular.
 
@@ -40,9 +40,11 @@ Por último, la quinta canción sonó en los altavoces: "Prometo estarte agradec
 
 Después de la charla me quedé con ganas de acercarme a él, de darle las gracias y de plantarle un abrazo, por varios motivos.
 
-El primero de todos ellos, por recordarme lo importante que es la música para mí.
+El primero de todos ellos, por sentirme totalmente identificado con él.
 
-El segundo, por hacerme sentirme como un tonto, al no tener sentido el preocuparse de que las regulaciones del estimulador vayan "un pasito pa'lante, un pasito pa'trás", ni que tampoco lo tengo que hacer al notar esas sensaciones tan raras en "mi lado sano", que a veces siento de manera tan incómoda.
+El segundo, por recordarme lo importante que es la música para mí.
+
+El tercero, por hacerme sentir como un tonto, al no tener sentido el preocuparse de que las regulaciones del estimulador vayan "un pasito pa'lante, un pasito pa'trás", ni que tampoco lo tengo que hacer al notar esas sensaciones tan raras en "mi lado sano", que a veces siento de manera tan incómoda.
 
 Y por último, que no me tengo que rendir, que esto es una carrera de fondo, aunque con algunos obstáculos, y que hay que llegar al final en las mejores condiciones.
 
