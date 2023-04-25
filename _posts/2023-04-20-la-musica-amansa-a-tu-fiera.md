@@ -5,7 +5,7 @@ date: 2023-04-20 06:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XII] 
-keywords: [Dia mundial del Parkinson,11 de abril, ANAPAR,Jorge Garcia Rendo,Esclerósis Múltiple,superación, fases del duelo]
+keywords: [Dia mundial del Parkinson,11 de abril,ANAPAR,Ana Urricelqui,Jorge Garcia Rendo,Esclerósis Múltiple,superación,fases del duelo,Escuela de Pacientes,Navarra Televisión, Está pasando,Vivir con Parkinson,Antonio Liberal Irigoyen,Pepe Uruñuela Nájera]
 footerimage: '/assets/images/2023/04/musica.jpg'
 ---
 La semana pasada se presentaron, como cada año, las jornadas sobre el Parkinson organizadas por ANAPAR, la Asociación Navarra de Parkinson a la que pertenezco.
