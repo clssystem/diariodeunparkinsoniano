@@ -33,6 +33,7 @@ Es una recopilación de entradas (ordenadas cronológicamente y enriquecidas con
 
 Enfráscate en su lectura, y conocerás todas mis recetas para convivir con el Parkinson y plantarle cara a la enfermedad, a veces con una pizca de humor, y, muy probablemente, podrás sacar tus propias conclusiones, que acabarás extrapolando a tus problemas diarios.
 
+(Haz clic en la imagen inferior para saltar a la página de compra de La Casa Del Libro)
 <div align="center">
 <a href="https://www.casadellibro.com/libro-diariodeunparkinsoniano-plantale-cara-a-tu-enfermedad/9788419671004/13429952">
 <img class="img-fluid"   src="{{page.footerimage}}" alt="{{page.title}}"  />
