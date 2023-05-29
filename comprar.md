@@ -7,6 +7,7 @@ keywords: [edición impresa,en papel, libros indie,parkinson,autoayuda]
 author: diariodeunparkinsoniano
 footerimage: '/assets/images/libro.jpg'
 ---
+**¡YA A LA VENTA!**
 
 ¿Te gustaría tener el diario en formato impreso?
 
@@ -14,15 +15,15 @@ footerimage: '/assets/images/libro.jpg'
 
 ¡Gracias a la Editorial Libros Indie, ya es posible!
 
-La presentación en el canal de la editorial la puedes ver [aquí](https://youtu.be/3zu1g4SRBlM)
-
-Está disponible online en [La Casa Del Libro](https://www.casadellibro.com/libro-diariodeunparkinsoniano-plantale-cara-a-tu-enfermedad/9788419671004/13429952).
+El libro está disponible online en [La Casa Del Libro](https://www.casadellibro.com/libro-diariodeunparkinsoniano-plantale-cara-a-tu-enfermedad/9788419671004/13429952).
 
 También puedes encargarlo en tu librería de confianza (distribuido por la Casa Del Libro), con el título "Diario de un parkinsoniano", ISBN 9788419671004.
 
-Si vives en Pamplona, te puedes acercar a la [Papelería Ezkaba](https://goo.gl/maps/XdCYyDgke24D3Kc67) y reservar tu ejemplar.
+Y si vives en Pamplona, te puedes acercar a la [Papelería Ezkaba](https://goo.gl/maps/XdCYyDgke24D3Kc67) y reservar tu ejemplar.
 
-¡Y no olvides dejar tu opinión [aquí](https://www.casadellibro.com/libro-diariodeunparkinsoniano-plantale-cara-a-tu-enfermedad/9788419671004/13429952)!
+¡No olvides dejar tu opinión [aquí](https://www.casadellibro.com/libro-diariodeunparkinsoniano-plantale-cara-a-tu-enfermedad/9788419671004/13429952)!
+
+**SINOPSIS**
 
 Todos, quien más, quien menos, conocemos en nuestro entorno a alguna persona afectada por la Enfermedad de Parkinson, ese trastorno degenerativo neuronal que se produce por la pérdida de dopamina, y que se manifiesta a través de diferentes síntomas, como el temblor, la rigidez muscular, o incluso, la depresión o la ansiedad.
 
@@ -38,6 +39,15 @@ Enfráscate en su lectura, y conocerás todas mis recetas para convivir con el P
 </a>
 </div>
 
+**PRESENTACIONES Y REFERENCIAS EN MEDIOS DE COMUNICACION**
+
+La presentación del libro en el canal de YouTube de Libros Indie S.L. la puedes ver [aquí](https://youtu.be/3zu1g4SRBlM).
+
+La presentación oficial del libro en ANAPAR (Asociación Navarra de Parkinson) la puedes ver [aquí](https://youtu.be/DSrY-DeXWRo), el reportaje en RTVE Navarra [aquí](https://youtu.be/_RtlwnljjgU) y mi intervención en radio en [COPE Navarra](https://youtu.be/xLF3Qn289WQ).
+
+También puedes encontrar dos notas de prensa en [Diario de Navarra](https://www.diariodenavarra.es/noticias/navarra/2023/05/19/antonio-liberal-afectado-parkinson-recoge-libro-recetas-plantarle-cara-enfermedad-569131-300.html) y [Diario de Noticias](https://www.noticiasdenavarra.com/sociedad/2023/05/19/libro-diariodeunparkinsoniano-recoge-recetas-plantarle-6823313.html)
+
+**AGRADECIMIENTOS**
 Aquí van unas imágenes de amigos que ya han adquirido su ejemplar, a modo de agradecimiento.
 Como diría Lina Morgan, "Agradecido, y emocionado..."
 
@@ -58,5 +68,3 @@ Como diría Lina Morgan, "Agradecido, y emocionado..."
 </video>
 
 </div>
-
-    
