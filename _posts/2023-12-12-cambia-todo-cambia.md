@@ -16,7 +16,7 @@ En un principio, se me cayó el alma al suelo. Al no haber pasado todavía el tr
 
 Después de casi media hora intentando hacerme el selfie, que quedó como quedó, y de terminar de completar todos los pasos para entregar la documentación que me pedía el INSS, me enfrenté a mis miedos, y me planté, después de casi otra media hora mas de viaje en coche, en la entrada de las oficinas de mi empresa.
 
-Tras no sé cuantos intentos, conseguí *mal-aparcar* mi coche en el único hueco que quedaba libre, una serie de sensaciones recorrieron todo mi cuerpo, sabiendo que este era el principio de mi inevitable fin laboral: Muchos, muchísimos momentos malos (de nervios, de estrés), pero también buenos, sobre todo al lado de mi compañero de departamento Diego, o del resto del personal, por los que me desviví todo el tiempo, intentando solucionar sus problemas, y diseñando programas que les hicieran el trabajo un poquitito más fácil, incluso fuera de mi horario laboral.
+Tras no sé cuantos intentos, conseguí *mal-aparcar* mi coche en el único hueco que quedaba libre, una serie de sensaciones recorrieron todo mi cuerpo, sabiendo que este era el principio de mi inevitable fin laboral: Muchos, muchísimos momentos malos (de nervios, de estrés), pero también buenos, sobre todo al lado de mi compañero de departamento Diego, o del resto del personal, por los que me desviví todo el tiempo, intentando solucionar sus problemas, y diseñando programas que les hicieran el trabajo un poquito más fácil, incluso fuera de mi horario laboral.
 
 He sido muy afortunado, porque he podido trabajar en lo que fue, desde siempre, mi sueño.
 
