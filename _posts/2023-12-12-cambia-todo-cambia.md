@@ -42,7 +42,7 @@ Después de un café, llegó el momento de la verdad: Recorrí lentamente los po
 
 La cosa fue bastante rápida: Firmar el finiquito (que consistía, básicamente, en firmar el recibido de la parte proporcional de la paga extra de diciembre), y quedar a la espera (cómo no, nuevamente) de si me concedían o no la incapacidad permanente, para hacer lo mismo con la parte de los dos años de vacaciones.
 
-Firme sin titubear, recordando lo que me dijo en la última visita mi neuróloga de la CUN: Que para mí era lo mejor; que dejara de pensar en los demás, y que por una vez pensara en mí, para frenar, en la medida de lo posible, toda la oxidación que el maldito estrés provocaba en mis neuronas, y que aceleraba a mi amigo parki.
+Firmé sin titubear, recordando lo que me dijo en la última visita mi neuróloga de la CUN: Que para mí era lo mejor; que dejara de pensar en los demás, y que por una vez pensara en mí, para frenar, en la medida de lo posible, toda la oxidación que el maldito estrés provocaba en mis neuronas, y que aceleraba a mi amigo parki.
 
 Pero cuando Eneko, el jefe de Recursos Humanos, apareció con una carpeta para que guardase mi copia del documento, no pude dejar de emocionarme: Aquella carpeta, de color azul, me recordó al dosier de bienvenida que me entregaron hacía casi 12 años, un 20 de marzo, en mi primer día de trabajo, y que, gracias a mi síndrome de Diógenes, todavía conservo.
 
