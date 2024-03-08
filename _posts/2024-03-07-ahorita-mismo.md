@@ -65,6 +65,4 @@ Sin fechas marcadas en el calendario.
 
 Y si algo me empieza a agobiar, sólo me tengo que repetir mentalmente que lo tengo que hacer "ahorita mismo", como dirían en algunos países de Sudamérica.
 
-Y como ya llevo bastante tiempo escribiendo esta entrada, "ahorita mismo" la termino.
-
-:laughing:
+Y como ya llevo bastante tiempo escribiendo esta entrada, la termino... "ahorita mismo".
