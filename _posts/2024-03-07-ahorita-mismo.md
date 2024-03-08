@@ -29,14 +29,13 @@ Y piensas: "Leñe, hoy no, que no me puedo poner nervioso, que tengo cita con el
 Intentas trazar mentalmente un guión de lo que tienes que hacer ese día, teniendo en mente que el objetivo principal es llegar lo más tranquilo posible a la consulta con el neurólogo:
 
 - A primera hora, tomar la dosis medicamentosa, y hacer un poco de meditación, para calmarte.
-- Como es martes (y también trece, fíjate tú), ir a la sesión de fisioterapia que tengo programada en ANAPAR.
-- Durante todo este tiempo, fuera pensamientos negativos, y ni se te ocurra llamar a la mutua ni al departamento de Recursos Humanos de la empresa, porque no hará más que ponerte aún más nervioso de lo que estás.
+- Como es martes (y también trece, fíjate tú), ir a la sesión de fisioterapia, previamente programada en ANAPAR.
+- Durante todo este tiempo, fuera pensamientos negativos, y ni se te ocurra llamar a la mutua ni al departamento de Recursos Humanos de la empresa, porque sólo conseguirás ponerte aún más nervioso de lo que ya estás.
 - Sobre las once —una hora antes de la cita, hay que ser precavido— coger el autobús que te llevará al centro de consultas.
-- A las doce: Consulta con el neurólogo, donde te ajustan el estimulador, y la calma vuelve a tu cuerpo, como por arte de magia.
-- Y después, ya sí...por fin: Llamar a la mutua a ver qué demonios pasa.
+- A las doce, consulta con el neurólogo, donde te ajustan el estimulador, y la calma vuelve a tu cuerpo, como por arte de magia.
+- Y después, ya sí...por fin: Llamar a la mutua y ver qué demonios pasa.
 
-Como suele pasar en estos casos, la llamada a la mutua no hizo más que añadir más incertidumbre a ese caldero inútil que a veces tengo por cabeza, así que conseguí una cita "urgente" en el INSS vía web, gracias a la inestimable ayuda de Felix, un compañero que vive en Las Palmas, y que, por haber ya sufrido en sus propias carnes el trámite, me proporcionó el enlace exacto para poder hacerlo.
-Mis dudas se acabarían resolviendo no antes del día 29 de febrero, primera fecha disponible, más de 15 días después de haberlo solicitado.
+Como suele pasar en estos casos, la llamada no hizo más que añadir más incertidumbre a ese caldero inútil que a veces tengo por cabeza, así que conseguí una cita "urgente" en el INSS vía web, gracias a la inestimable ayuda de Felix, un compañero que vive en Las Palmas, y que, por haber ya sufrido en sus propias carnes el trámite, me proporcionó el enlace exacto para poder hacerlo: Mis dudas se acabarían resolviendo no antes del día 29 de febrero, primera fecha disponible, más de 15 días después de haberlo solicitado.
 Resoplé aliviado; había hecho todo lo que estaba en mi mano.
 
 A partir de aquí, como si hubiera entrado en un agujero de gusano inter-galáctico, los acontecimientos se sucedieron a la velocidad de la luz.
@@ -52,11 +51,11 @@ A las pocas semanas recibes la llamada de Recursos Humanos, citándote en una ca
 Y de repente, tras la alegría inicial, todo se frena. Y por la inercia del frenado, sales expulsado del frenético agujero de gusano, sin saber en qué momento ni en qué lugar te encuentras.
 
 A partir de aquí, ya eres oficialmente un "jubileta", como suelen decir, y toda la gente te da la enhorabuena.
-Agradecido, respondes con una sonrisa, enseñando mucho los dientes, aunque tus dolores musculares te recuerdan la causa de esa jubilación, y que darías todo lo que tienes por estar sano, y que todo esto hubiera sido una pesadilla.
+Agradecido, respondes con una sonrisa, enseñando mucho los dientes, aunque tus dolores musculares te recuerdan la causa de esa jubilación, y que darías todo lo que tienes por estar sano, y que todo hubiera sido una pesadilla.
 
 La gente me pregunta qué voy a hacer ahora que voy a tener tanto tiempo, que qué planes tengo.
 
-Lo primero que se me viene a la cabeza es VIVIR, porque me han incapacitado para trabajar, pero no para VIVIR, y que es algo que mucha gente olvida con frecuencia.
+Lo primero que se me viene a la cabeza es VIVIR, porque me han incapacitado para trabajar, pero no para VIVIR, y que, con frecuencia, es algo que mucha gente olvida.
 
 Además sin prisa, que son malas para mi amigo Parki.
 
@@ -64,4 +63,4 @@ Sin pausa, pero sin prisa.
 
 Sin fechas marcadas en el calendario.
 
-Y si algo me empieza a agobiar, sólo me tengo que repetir mentalmente que lo tengo que hacer "ahorita mismo", como dirían en algunos paises de sudamérica.
+Y si algo me empieza a agobiar, sólo me tengo que repetir mentalmente que lo tengo que hacer "ahorita mismo", como dirían en algunos países de Sudamérica.
