@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "D.B.S. para dummies"
-date: 2023-06-16 06:00
+date: 2024-04-25 06:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XII] 

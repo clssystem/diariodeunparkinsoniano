@@ -11,14 +11,14 @@ authors:
       avatar:         assets/images/diariodeunparkinsoniano.gif
       bio:            "Hola, soy Antonio, el autor de este blog. ¡Espero que lo disfrutes!"
       email:          diariodeunparkinsoniano@outlook.es
-      twitter:        antoniolibe
+      twitter:        diariodeunparki
 
 
 baseurl:            ""
 url:                "https://diariodeunparkinsoniano.cls-system.es"
 disqus: 'diariodeunparkinsoniano'
 # Social Profiles
-twitter_username:   antoniolibe
+twitter_username:   diariodeunparki
 github_username:    
 facebook_username:  a.liberal.irigoyen 
 instagram_username:  
