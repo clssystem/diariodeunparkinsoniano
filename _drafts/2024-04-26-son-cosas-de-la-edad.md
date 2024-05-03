@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Son cosas de la edad"
-date: 2024-04-26 06:00
+title: "Son cosas de la edad2"
+date: 2024-04-25 06:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XII] 
