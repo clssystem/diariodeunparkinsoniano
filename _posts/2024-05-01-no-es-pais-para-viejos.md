@@ -19,3 +19,5 @@ Capítulo aparte merecen las prisas del conductor por iniciar la marcha, acelera
 Qué decir si tienes que hacer algún trámite con la administración, o con el banco de turno. Cada vez lo ponen más fácil para que lo hagas vía internet, abaratando ¿inconscientemente? costes humanos, sin darse cuenta de que hay gente que son verdaderos analfabetos tecnológicos, y que, por su edad, aunque sean más cultos que muchos, no tienen por qué saber manejarse con un ordenador o con un teléfono "inteligente", o pelearse con una locución telefónica, que en la mayor parte de los casos te hace colgar de mala leche y desesperado.
 
 Francamente, escribo esta entrada en el blog con la esperanza de que alguien que la lea empatice un poquito, que reflexione y que sea más inteligente... emocionalmente hablando.
+
+Este post se publicó en (diario de noticias de Navarra)[https://www.google.com/amp/s/www.noticiasdenavarra.com/opinion/cartas-al-director/2024/05/03/pais-viejos-8189375.amp.html] y en (diario de noticias de guipúzcoa)[https://www.google.com/amp/s/www.noticiasdegipuzkoa.eus/cartas-al-director/2024/05/04/pais-viejos-8193828.amp.html]
