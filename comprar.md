@@ -7,7 +7,7 @@ keywords: [edición impresa,en papel, libros indie,parkinson,autoayuda]
 author: diariodeunparkinsoniano
 footerimage: '/assets/images/libro.jpg'
 ---
-**¡YA A LA VENTA!**
+**¡YA A LA VENTA LA SEGUNDA EDICION DEL LIBRO!**
 
 ¿Te gustaría tener el diario en formato impreso?
 
