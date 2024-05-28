@@ -4,7 +4,7 @@ title: "Un fin de semana de adaptación"
 date: 2023-02-18 06:00
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos XI] 
+tags: [Relatos XII] 
 keywords: [Estimulador neuronal,DBS,Deep Brain Stimulation,CUN,Clínica Universitaria de Navarra,conexión,Sinemet,adaptación,resignación]
 footerimage: '/assets/images/2023/02/tebeos.jpeg'
 ---
