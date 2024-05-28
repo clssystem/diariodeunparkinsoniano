@@ -4,7 +4,7 @@ title: "El viaje de estudios"
 date: 2023-03-31 06:00
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos XI] 
+tags: [Relatos XII] 
 keywords: [Viaje de estudios,Calella]
 footerimage: '/assets/images/2023/03/autobus.jpg'
 ---
