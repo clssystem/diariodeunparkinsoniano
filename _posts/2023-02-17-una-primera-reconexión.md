@@ -4,7 +4,7 @@ title: "Una primera reconexión"
 date: 2023-02-17 06:00
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos XI] 
+tags: [Relatos XII] 
 keywords: [Estimulador neuronal,DBS,Deep Brain Stimulation,CUN,Clínica Universitaria de Navarra,conexión]
 footerimage: '/assets/images/2023/02/primeraconexion.png'
 ---
