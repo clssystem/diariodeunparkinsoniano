@@ -46,6 +46,8 @@ La presentación del libro en el canal de YouTube de Libros Indie S.L. la puedes
 
 La presentación oficial del libro en ANAPAR (Asociación Navarra de Parkinson) la puedes ver [aquí](https://youtu.be/DSrY-DeXWRo), el reportaje en RTVE Navarra [aquí](https://youtu.be/_RtlwnljjgU) y mi intervención en radio en [COPE Navarra](https://youtu.be/xLF3Qn289WQ).
 
+La presentación del libro en "Ansoain Comunidad que Cuida", la puedes ver [aquí](https://youtu.be/ZHW_HW1B5yY)
+
 También puedes encontrar dos notas de prensa en [Diario de Navarra](https://www.diariodenavarra.es/noticias/navarra/2023/05/19/antonio-liberal-afectado-parkinson-recoge-libro-recetas-plantarle-cara-enfermedad-569131-300.html) y [Diario de Noticias](https://www.noticiasdenavarra.com/sociedad/2023/05/19/libro-diariodeunparkinsoniano-recoge-recetas-plantarle-6823313.html).
 
 **AGRADECIMIENTOS**
