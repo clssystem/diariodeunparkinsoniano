@@ -4,7 +4,7 @@ title: "Ahorita mismo"
 date: 2024-03-07 06:00
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos XII] 
+tags: [Relatos XIII] 
 keywords: [Ahorita mismo,stress,jubilación,incapacidad permanente]
 footerimage: '/assets/images/2024/03/ahorita.jpg'
 ---
