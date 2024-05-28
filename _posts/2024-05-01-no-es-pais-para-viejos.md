@@ -4,7 +4,7 @@ title: "No es país para 'viejos'"
 date: 2024-05-02 06:00
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos XII] 
+tags: [Relatos XIII] 
 keywords: [Edadismo,Inteligencia Emocional]
 footerimage: '/assets/images/2024/05/inteligencia_emocional.jpg'
 ---
