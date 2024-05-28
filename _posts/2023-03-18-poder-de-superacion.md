@@ -4,7 +4,7 @@ title: "Poder de superación"
 date: 2023-03-18 06:00
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos XI] 
+tags: [Relatos XII] 
 keywords: [Poder de superación,Arrigaztelu]
 footerimage: '/assets/images/2023/03/dividir.jpeg'
 ---
