@@ -4,7 +4,7 @@ title: "Dame mi tiempo"
 date: 2023-04-10 06:00
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos XII] 
+tags: [Relatos XIII] 
 keywords: [Dia mundial del Parkinson,11 de abril]
 footerimage: '/assets/images/2023/04/tiempo.png'
 ---
