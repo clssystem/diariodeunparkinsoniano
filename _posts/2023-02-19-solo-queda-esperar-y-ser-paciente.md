@@ -4,7 +4,7 @@ title: "Sólo queda esperar y ser paciente"
 date: 2023-02-19 06:00
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos XI] 
+tags: [Relatos XII] 
 keywords: [Estimulador neuronal,DBS,Deep Brain Stimulation,espera,paciencia,actualización de firmware]
 footerimage: '/assets/images/2023/02/neuroestimulador.jpg'
 ---
