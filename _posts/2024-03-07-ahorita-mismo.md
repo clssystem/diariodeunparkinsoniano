@@ -43,7 +43,7 @@ A partir de aquí, como si hubiera entrado en un agujero de gusano inter-galáct
 Sobre el día 15 febrero a las 21:00 horas, en la página web del INSS apareció un escueto mensaje que decía: "Su expediente de incapacidad permanente se ha resuelto favorablemente".
 Y te acuerdas de la madre del que ha dejado el mensaje en la página web, porque falta el adjetivo calificativo, del que tanto depende tu pensión, *absoluta* o *total*, y que no encuentras por ninguna parte.
 
-El 16 de febrero al despertar, justo en el aniversario de la segunda operación, recibes un nuevo e-mail —esta vez el remitente era el mismísimo *bot* del INSS— indicando que tienes una nueva notificación.
+El 16 de febrero al despertar, justo en el aniversario de la segunda operación, recibes un nuevo e-mail —esta vez el remitente era el mismísimo *bot* del INSS —indicando que tienes una nueva notificación.
 Impaciente, la abres, y por fin descubres que es el certificado de incapacidad permanente, esta vez con el calificativo que tanto ansiabas, el de *ABSOLUTA*, con letras grandes y en cursiva.
 
 A las pocas semanas recibes la llamada de Recursos Humanos, citándote en una cafetería para firmar el finiquito final, sin necesidad de acercarte a las oficinas, pero también sin poder despedirte oficialmente de tus compañeros.
