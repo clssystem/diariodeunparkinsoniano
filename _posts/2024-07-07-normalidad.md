@@ -19,6 +19,7 @@ Hoy, después de tantos meses, parece que la inspiración, esa musa divina (y a 
 Ni siquiera el haber presentado mi libro *diariodeunparkinsoniano* en mi amado pueblo Ansoáin —en una especie de *reboot* a lo *Matrix Reloaded* —, en un local abarrotado de gente (familia, vecinos, amigos y compañeros de trabajo), invitado por "Ansoáin: Comunidad que cuida", consiguió sacarme de mi autoimpuesto letargo.
 
 Aunque bien es cierto que en este caso tenía excusa, porque después de más de dieciocho meses de incertidumbre en forma de baja médica, y dos operaciones a mis espaldas (o más bien, a mi cabeza), justo esa misma noche después de la presentación, cuando ya todo había acabado, mi cuerpo dijo basta, como cuando bajan tus defensas después de haber sufrido mucho estrés, y te pillas un catarrazo.
+
 Me atizó fuerte el jodido, pellizcando y pinzando sin piedad un nervio de mi cuello y provocándome un intensísimo latigazo de dolor, que bajaba por todo mi lado derecho, recorriendo mi omóplato y mi brazo, haciendo que se me entumecieran los dedos, a la vez que no podía parar ni de temblar ni de moverme por la incomodidad, empeorando mucho más mis síntomas parkinsonianos, y reduciendo a apenas unas horas de sueño mi anhelado descanso, necesario para recuperar mi maltrecho cuerpo.
 
 Afortunadamente, después de más de un mes, y como todas las cosas (tanto buenas como malas), el dolor acabó remitiendo, a base de medicamentos y fisioterapia, y gracias también a una clase de risotearía impartida en la asociación ANAPAR, en la que mediante ejercicios un poco absurdos (vistos desde fuera), el psicólogo que la impartía conseguía disociar nuestra mente de nuestro cuerpo, provocándonos una enorme alegría y placer, que todavía perduran en mi interior al recordar aquella sesión.
@@ -31,7 +32,12 @@ Conseguí cerrar la herida "auto provocada" por la salida de la empresa en la qu
 
 Conforme todos mis dolores (físicos y mentales) fueron remitiendo, mi cuerpo y mis temblores volvieron a su estado natural, soportables para una vida sin el estrés de mi ya antiguo trabajo, y haciendo que, por fin, mi neurólogo de cabecera, el doctor Clavero, dejase intactas la configuración de mi estimulador neuronal y mi dosis medicamentosa en la última cita, hace poco más de un mes.
 
-¡Si hasta he conseguido superar el reto anual que supone el renovar el carnet de conducir!. Esa especie de interrogatorio del Vietcong y de pelea física con los mandos del vetusto computador, con el chute de autoestima que eso me supone.
+¡Si hasta he conseguido superar el reto anual que supone el renovar el carnet de conducir!. Esa especie de interrogatorio del Vietcong y de pelea física y mental con los mandos del vetusto computador, con el chute de autoestima que eso me supone.
 
-En definitiva, he recobrado "mi normalidad", aceptando mis limitaciones y entendiendo que mi calidad de vida es la que es, y que puedo seguir disfrutando de un  concierto *heavy* rodeado de mis mejores amigos (aunque sea sentados en la fila más alejada del escenario), de un paseo por la naturaleza, de mi familia el día de mi cumpleaños, e incluso desenmarañando un ovillo formado por unos trozos de cuerda pacientemente (algo impensable hace apenas unos meses).
-Y, si me apuras, hasta disfrutando del sonido del silencio en medio de una noche estrellada, despreocupándome del paso del tiempo.
+En definitiva, he recobrado "mi normalidad", aceptando mis limitaciones y entendiendo que mi calidad de vida es la que es.
+
+Que puedo seguir disfrutando de un  concierto *heavy* rodeado de mis mejores amigos (aunque sea sentados en la fila más alejada del escenario), de un paseo por la naturaleza y de mi familia el día de mi cumpleaños.
+
+Que incluso puedo desenmarañar pacientemente un ovillo formado por unos trozos de cuerda, algo impensable hace apenas unos meses.
+
+Y que, si me apuras, puedo disfrutar del sonido del silencio en medio de una noche estrellada, despreocupándome del paso del tiempo.
