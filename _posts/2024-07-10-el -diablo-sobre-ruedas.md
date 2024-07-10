@@ -30,6 +30,6 @@ En los tramos "2+1", si respetas la velocidad, no hay día que algún coche no t
 
 Y en el resto de tramos, más de lo mismo: En las zonas de bajada pronunciada, a la salida de los túneles de Velate, no hay día que algún camión desbocado, aprovechando el desnivel negativo y queriendo recuperar el tiempo que ha perdido en la subida, no se te acerque hasta dejar la distancia de seguridad a poco más de un par de metros, y toque su claxon de manera desenfrenada, o te "eche las largas" de manera furibunda e incontrolada, mientras tu miras impotente y perplejo, con auténtico terror, el espejo retrovisor interior.
 
-Todo esto provoca una inseguridad increíble e incómoda, cuando en realidad debería ser lo contrario: Deberíamos ir tranquilos y relajados al conducir, sin llegar al límite de velocidad máxima marcada, que en algunos tramos es de 70 u 80 km/h, y que casi te obligan a superar, viendo las colas kilométricas que se forman detrás tuya, además del multazo que te pueden colocar.s
+Todo esto provoca una inseguridad increíble e incómoda, cuando en realidad debería ser lo contrario: Deberíamos ir tranquilos y relajados al conducir, sin llegar al límite de velocidad máxima marcada, que en algunos tramos es de 70 u 80 km/h, y que casi te obligan a superar, viendo las colas kilométricas que se forman detrás tuya, además del multazo que te pueden colocar.
 
 Estaría bien que alguno de estos energúmenos leyera esto, se pusiera en la piel del "viajante" de la película, y reflexionara sobre el tema.
