@@ -19,6 +19,7 @@ De camino a nuestro destino, fuimos pasando por Astorga y Ponferrada, haciendo u
 Recorrimos la zona, un poco desvirtuada por la cantidad de tiendas de recuerdo y de establecimientos hosteleros, y entramos en la iglesia, donde todo cambió.
 
 Todos lo que me conocen saben que no soy muy religioso, aunque cuando era más pequeño creía en Dios, pero seguramente más por educación que por otra cosa.
+
 Como casi toda la gente, en mis malos momentos me aferraba a él, suplicando su clemencia a la hora de pasar el mal trago de los exámenes, o cuando algún familiar estaba pocho, y después de superado el momento, me olvidaba sin más.
 
 Desde hace muchos años, tengo la teoría (y creo que la pongo en práctica) de que si todos fuésemos buenos y nos respetásemos mutuamente, sin hacer la puñeta a los demás, todo le iría mucho mejor a la humanidad. Y ya puestos, si aportas tu granito de arena ayudando a los demás, pues mejor que mejor.
@@ -35,7 +36,7 @@ A Marian le gusta adquirir siempre un pequeño detalle de los lugares que visita
 
 Estuvimos mirando los detalles, hasta que por fin se decidió por dos, entre los cientos y cientos de artículos que en la tienda se exponían.
 
-Salimos de la tienda, y al encaminarnos a una de las numerosas tabernas para tomar un café, me ofreció uno de los detalles, envuelto en papel de regalo.
+Salimos de la tienda, y al encaminarnos a una de las numerosas tabernas para tomar un café, me ofreció uno de los recuerdos, envuelto en papel de regalo.
 
 Lo abrí (o más bien destrocé, nervioso, el envoltorio), y ante mí apareció una versión en formato llavero de "el kit del peregrino", con su bastón, su concha y su cantimplora en forma de calabaza, mientras Marian, emocionada, me decía:
 
