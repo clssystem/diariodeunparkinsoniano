@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
  
-    {% assign is_page = page.url startswith 'page' %}
+    {% assign is_page = page.url contains 'page'  and paginator.page>1 %}
      
     {%if (is_page %}
         {% assign page.comments=false %}
@@ -18,16 +18,16 @@
 
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
     {%if page.keywords %}
-      <meta name="keywords" content="diariodeunparkinsoniano blog,diario de un parkinsoniano blog,Antonio Liberal,Parkinson,{{ page.keywords | join: ',' | escape }}"/>
+      <meta name="keywords" content="{{ page.keywords | join: ',' | escape }}"/>
     {% else %}
-        <meta name="keywords" content="diariodeunparkinsoniano blog,diario de un parkinsoniano blog,Antonio Liberal,Parkinson,{% if paginator.page %}Página {{paginator.page}}{% endif %}"/>
+        <meta name="keywords" content="diario de un parkinsoniano,Antonio Liberal,Parkinson,{% if paginator.page %}Página {{paginator.page}}{% endif %}"/>
     {%endif %}
     {% assign robots_is_not_empty = page.seo.robots | is_not_empty %}
     {% if robots_is_not_empty %}
       <meta name="robots" content="{{ page.seo.robots | join: ',' }}">
     {%else%}
         {%if is_page %}
-          <meta name="robots" content="noindex,nofollow">
+          <meta name="robotsZS" content="noindex,nofollow">
        {% endif %}
     {% endif %}
     {% for meta in page.seo.extra %}
