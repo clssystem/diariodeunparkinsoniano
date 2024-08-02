@@ -25,10 +25,6 @@
     {% assign robots_is_not_empty = page.seo.robots | is_not_empty %}
     {% if robots_is_not_empty %}
       <meta name="robots" content="{{ page.seo.robots | join: ',' }}">
-    {%else%}
-        {%if is_page %}
-          <meta name="robotsZS" content="noindex,nofollow">
-       {% endif %}
     {% endif %}
     {% for meta in page.seo.extra %}
       {% assign key_name = meta.keyName | default: 'name' %}
