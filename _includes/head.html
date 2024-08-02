@@ -3,17 +3,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
  
-    {% assign is_page = page.url contains 'page'  and paginator.page>1 %}
      
-    {%if (is_page %}
+
+    {%if (page.url contains 'page' %}
         {% assign page.comments=false %}
         {% assign page.sitemap=false %}
     {% endif %}
   
     <title>
-        {% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}
-        {% else %}{{ site.title | escape }}{% endif %}
-        {% if paginator.page and paginator.page>1%} (Página {{paginator.page}}){% endif %}
+        {% if page.title %}
+          {{ page.title | escape }} - {{ site.title | escape }}
+        {% else %}
+          {{ site.title | escape }}{% endif %}
+        {% if paginator.page and paginator.page>1%}
+         (Página {{paginator.page}})
+        {% endif %}
     </title>
 
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
@@ -25,7 +29,9 @@
     {% assign robots_is_not_empty = page.seo.robots | is_not_empty %}
     {% if robots_is_not_empty %}
       <meta name="robots" content="{{ page.seo.robots | join: ',' }}">
-    {% endif %}
+    {%elsif (page.url contains 'page') %}
+      <meta name="robots" content="noindex,nofollow">
+   {% endif %}
     {% for meta in page.seo.extra %}
       {% assign key_name = meta.keyName | default: 'name' %}
       {% assign relativeUrl_is_not_empty = meta.relativeUrl | is_not_empty %}
