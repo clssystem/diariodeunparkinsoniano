@@ -57,11 +57,11 @@ Como diría Lina Morgan, "Agradecido, y emocionado..."
 
 <div class="slider-frame">
         <ul>
-            <li><img src="/assets/libro/ilde.jpg" alt=""></li>
-            <li><img  src="/assets/libro/visi.jpg" alt=""></li>
-            <li><img align="center" src="/assets/libro/compisteleco.jpg" alt=""></li>
-            <li><img align="center" src="/assets/libro/koldo.jpg" alt=""></li>
-             <li><img align="center" src="/assets/libro/miguel.jpg" alt=""></li>
+            <li><img src="/assets/libro/ilde.jpg" alt="Ilde"></li>
+            <li><img  src="/assets/libro/visi.jpg" alt="Visi"></li>
+            <li><img align="center" src="/assets/libro/compisteleco.jpg" alt="Compañeros de universidad"></li>
+            <li><img align="center" src="/assets/libro/koldo.jpg" alt="Koldo"></li>
+             <li><img align="center" src="/assets/libro/miguel.jpg" alt="Miguel"></li>
         </ul>
     </div>
 
