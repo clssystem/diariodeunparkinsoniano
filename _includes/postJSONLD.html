@@ -19,8 +19,8 @@
             "@type": "WebPage",
             "@id": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
         },
-        "datePublished": "{{page.date | truncate:10}}",
-        "dateModified": "{% if page.modified %}{{page.modified  | truncate:10}}{% else %}{{page.date  | truncate:10}}{% endif %}",
+        "datePublished": "{{page.date | date_to_xmlschema}}",
+        "dateModified": "{% if page.modified %}{{page.modified | date_to_xmlschema}}{% else %}{{page.date | date_to_xmlschema }}{% endif %}",
         "isAccessibleForFree": "True",
         {% if page.isBasedOn %}"isBasedOn": "{{page.isBasedOn}}",{% endif %}
         "isPartOf": {
