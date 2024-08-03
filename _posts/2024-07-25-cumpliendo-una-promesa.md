@@ -7,6 +7,7 @@ comments: true
 tags: [Relatos XIII] 
 keywords: [Camino de Santiago,Promesa,Superacion]
 footerimage: '/assets/images/2024/07/kitperegrino.jpeg'
+excerpt: Experiencias de un enfermo de párkinson recorriendo parte de Galicia en vacaciones
 ---
 Hoy día 25 de Julio se celebra en España el día de Santiago, patrón de Galicia, que es el sitio que decidimos como destino de vacaciones este año.
 

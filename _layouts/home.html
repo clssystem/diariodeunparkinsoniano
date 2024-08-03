@@ -61,7 +61,7 @@ layout: default
                     <h3 class="post-subtitle">{{ post.subtitle }}</h3>
                     {% else %}
                     <p class="post-preview">
-                        {{ post.excerpt | truncatewords: 50 | strip_html}}
+                        {{ post.content | truncatewords: 50 | strip_html}}
                     </p>
                     <p class="post-meta">
                         <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">

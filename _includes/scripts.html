@@ -1,3 +1,4 @@
+<!-- 
 {% if page.name == 'index.html' %}
 {% assign site_modified = site.date %}
 {% if site.posts %}
@@ -8,7 +9,7 @@
         {% endif %} 
     {% endfor %} 
 {% endif %} 
-<script type="application/ld+json"> 
+<script type="XXapplication/ld+json"> 
     { "@context": "http://schema.org", "@type": "BlogPosting", 
             {% if site.title %}"name": "{{ site.title }} {% if paginator.page %} (Página {{paginator.page}}){% endif %}",{% endif %} 
             
@@ -43,7 +44,9 @@
                 "mainEntityOfPage":{"@type":"WebPage","@id":"{{ site.url }}{{ site.baseurl }}"}
     } 
 </script>
-{% endif %} 
+{% endif %}
+
+!--> 
 <script src="{{"/assets/vendor/jquery/jquery.min.js" | relative_url }}"></script>
 <script src="{{"/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" | relative_url }}"></script>
 <script src="{{"/assets/vendor/startbootstrap-clean-blog/js/clean-blog.min.js" | relative_url }}"></script>
