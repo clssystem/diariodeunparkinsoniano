@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No es país para 'viejos'"
-date: 2024-05-02 06:00
+date: 2024-05-01 06:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XIII] 
