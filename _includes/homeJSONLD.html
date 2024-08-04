@@ -5,13 +5,14 @@
         "url": "{{ prepend: site.baseurl | prepend: site.url }}",
         "headline": "{{ site.title }}",
         "about": "{{ site.description }}",
+        "keywords":"{{page.keywords | join: ', ' | xml_escape }}",
         "image": {
             "@type": "ImageObject",
             "url": "{{ site.baseurl | prepend: site.url }}/assets/images/diariodeunparkinsoniano.gif"
         },
         "isAccessibleForFree": "True",
         "isPartOf": {
-        "@type": ["CreativeWork", "Product", "Blog"],
+        "@type": ["CreativeWork", "Product"],
         "name": "Diario de un parkinsoniano",
         "productID": "diariodeunparkinsoniano.cls-system.es"
     },
