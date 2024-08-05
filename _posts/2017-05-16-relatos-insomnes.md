@@ -8,6 +8,7 @@ categories: [Sin categoría]
 tags: 'Relatos-I'
 keywords: [relatos,insomnio,sueño,pesadilla]
 excerpt: Primer relato escrito durante una de las noches de insomnio que provoca la Enfermedad de Parkinson
+footerimage: '/assets/images/2017/05/img_20170329_200904-011033.jpeg'
 ---
 <p style="text-align:justify;">Últimamente no duermo mucho, así que para matar el tiempo se me ocurren algunas reflexiones y relatos.</p>
 <p style="text-align:justify;">De momento aquí va uno:</p>
@@ -25,4 +26,3 @@ excerpt: Primer relato escrito durante una de las noches de insomnio que provoca
 <p style="text-align:justify;">Cuando me di cuenta ella había abierto los ojos y estaba mirándome. Su mirada era penetrante, como si quisiera ver en mi interior.</p>
 <p style="text-align:justify;">Sin saber muy bien porqué sostuve su mirada y sacando fuerzas de flaqueza me armé de valor y le pregunté su nombre.</p>
 <p style="text-align:justify;">Y sólo con su mirada penetrante, sin articular palabra, me respondió: “Soledad”</p>
-<img class="img-fluid"  clasXs="alignnone size-full wp-image-48" src="/assets/images/2017/05/img_20170329_200904-011033.jpeg" alt="IMG_20170329_200904-01[1033]" width="3120" height="4160" />
