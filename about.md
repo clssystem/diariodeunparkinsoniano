@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Acerca de
-excerpt: Esto es lo que soy
+excerpt: ¿Quién es Antonio Liberal?
 background: '/img/bg-about.jpg'
-keywords: [acerca de,Antonio Liberal]
+keywords: [acerca de Antonio Liberal]
 author: diariodeunparkinsoniano
 image: '/assets/images/about.jpg'
 ---
