@@ -7,6 +7,8 @@ comments: true
 categories: [Sin categoría]
 tags: 'Relatos-I'
 keywords: [prematuro,cariño,mellizos,sobrinos,nahia,ibai]
+excerpt: Primer post dedicado a mis sobrinos Nahia e Ibai
+footerimage: '/assets/images/2017/05/img_20170524_211151-011082.jpeg'
 ---
 <p style="text-align:justify;">Nacieron un sábado 29 de septiembre, día de San Miguel, hace ya casi 10 años.</p>
 <p style="text-align:justify;">Aquel día fue el inicio de sus vidas, y un cambio enorme para el resto de nosotros.</p>
@@ -31,4 +33,3 @@ keywords: [prematuro,cariño,mellizos,sobrinos,nahia,ibai]
 <p style="text-align:justify;">Ya no caben en mis brazos. Poco a poco son cada vez más independientes. Pronto entrarán en una edad que renegarán de todo creyéndose el centro del universo.</p>
 <p style="text-align:justify;">Pero algún día, cuando sean mayores, recordarán a su tío Lulú con una sonrisa en la cara pensando en las pequeñas cosas que nos fueron uniendo y en lo mucho que les quería.</p>
 <p style="text-align:justify;">Os quiero mucho, sinvergüenzas.</p>
-<img class="img-fluid"  src="/assets/images/2017/05/img_20170524_211151-011082.jpeg" alt="IMG_20170524_211151-01[1082].jpeg" />

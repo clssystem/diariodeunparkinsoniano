@@ -6,7 +6,9 @@ author: diariodeunparkinsoniano
 comments: true
 categories: [Sin categoría]
 tags: 'Relatos-I'
-keywords: [relatos,insomni,sueño,pesadilla,esperanza]
+keywords: [relatos,insomnio,sueño,pesadilla,esperanza]
+excerpt: Segundo relato escrito durante una de las noches de insomnio que provoca la Enfermedad de Parkinson
+footerimage: '/assets/images/2017/05/img_20170114_090933_1091040.jpg'
 ---
 <p style="text-align:justify;">De repente se oyeron unos ruidos en el vagón de al lado e instintivamente surgió en mí la necesidad de ir hacia aquel lugar. Quise despedirme de Soledad (de mi soledad), pero al volverme hacia ella había desaparecido. Sentí alivio y una cierta melancolía.</p>
 <p style="text-align:justify;">Caminé hacia aquel vagón hasta que pude distinguir la silueta de tres personas: Un niño regordete, una niña más pequeña, y, por último, una anciana que parecía ser su abuela.</p>
@@ -20,4 +22,4 @@ keywords: [relatos,insomni,sueño,pesadilla,esperanza]
 <p style="text-align:justify;">Para mi madre fue un golpe muy fuerte. Mi abuela siempre la quiso como a una hija, desde aquel día que apareció en sus vidas “robándoles” a su único hijo varón.</p>
 <p style="text-align:justify;">Abrumado me senté a lo lejos observando cómo reían y jugaban entre ellos. Poco a poco cerré mis ojos, mientras comprendía que significaban aquel tren, aquel viaje. Era el viaje de mi vida.</p>
 <p style="text-align:justify;"></p>
-<p style="text-align:justify;"><img class="img-fluid"  src="/assets/images/2017/05/img_20170114_090933_1091040.jpg" alt="IMG_20170114_090933_109[1040]" /></p>
+

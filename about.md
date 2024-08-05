@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de
-excerpt: ¿Quién es Antonio Liberal?
+excerpt: Quién es Antonio Liberal
 background: '/img/bg-about.jpg'
 keywords: [acerca de Antonio Liberal]
 author: diariodeunparkinsoniano
