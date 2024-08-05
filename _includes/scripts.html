@@ -7,46 +7,9 @@
             {% break %} 
         {% endif %} 
     {% endfor %} 
-{% endif %} 
-<!-- 
-<script type="XXapplication/ld+json"> 
-    { "@context": "http://schema.org", "@type": "BlogPosting", 
-            {% if site.title %}"name": "{{ site.title }} {% if paginator.page %} (Página {{paginator.page}}){% endif %}",{% endif %} 
-            
-
-            {% if site.title%} "headline": "{{ site.title }} {% if paginator.page %} (Página {{paginator.page}}){% endif %}",{% endif %} 
-            {% if site.description %}"description": "{{ site.description }}",{% endif %} 
-            {% if site.url %}"url": "{{ site.url }}{{ site.baseurl }}",{% endif %}
-                        {% if site.author %}"author": { "@type": "Person", "name": "{{ site.authors[site.author].name }}" },{% endif %}
-            {% if site.date %}"dateCreated": "{{ site.date | date: "%Y-%m-%d" }}",{% endif %}
-            "image": "{{ site.url }}{{ site.baseurl }}/assets/images/diariodeunparkinsoniano.gif",
-            "dateModified": "{{ site_modified | date: "%Y-%m-%d" }}",
-            "mainEntityOfPage":{"@type":"WebPage","@id":"{{ site.url }}{{ site.baseurl }}"}
-    } 
-</script>
-{%else %}
-<script type="application/ld+json"> 
-    { "@context": "http://schema.org", 
-    "@type": "BlogPosting", 
-    {%if page.keywords %}
-    "keywords": "blog,discapacidad,movilidad,parkinson,diario,{{ page.keywords | join: ',' | escape }}",
-    {% endif %} 
-
-    {% if page.title %}"name": "{{ page.title }}",{% endif %} 
-    "description": "{{ page.excerpt | truncatewords: 50 | strip_html}}",
-    {% if page.title %}"headline": "{{ page.title }}",{% endif %} 
-    {% if page.author or site.author %}"author": { "@type": "Person", 
-            "name": "{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}" },
-    {% endif %} 
-    {% if page.date %}"dateCreated": "{{ page.date }}",{% endif %} 
-    {% if page.image %}"image": "{{ site.url }}{{ site.baseurl }}{{ page.image }}",{% endif %}
-    "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}" ,
-                "mainEntityOfPage":{"@type":"WebPage","@id":"{{ site.url }}{{ site.baseurl }}"}
-    } 
-</script>
+{% endif %}
 {% endif %}
 
-!--> 
 <script src="{{"/assets/vendor/jquery/jquery.min.js" | relative_url }}"></script>
 <script src="{{"/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" | relative_url }}"></script>
 <script src="{{"/assets/vendor/startbootstrap-clean-blog/js/clean-blog.min.js" | relative_url }}"></script>
