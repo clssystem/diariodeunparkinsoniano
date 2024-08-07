@@ -33,6 +33,8 @@ paginate:           5
 paginate_path:      "/post/page:num/"
 excerpt_separator: <!–break–>
 permalink: /post/:year/:month/:day/:title
+feed:
+  posts_limit: 2000
 page:
     background: '/img/bg-contact.jpg'
 plugins:
