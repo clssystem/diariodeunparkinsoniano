@@ -3,7 +3,7 @@
         "@context": "https://schema.org",
         "@type": "BlogPosting",
         "headline": "{{ page.title | xml_escape }}",
-        "description": "{{ page.excerpt | strip_html | xml_escape | truncate: 160 }}",
+        "description": "{{ page.excerpt | strip_html | xml_escape | truncate: 160, "" }}",
         "articleBody": "{{ page.content | strip_html | xml_escape }}",
         "keywords":"{{page.keywords | join: ', ' | xml_escape }}",
         "image": [
