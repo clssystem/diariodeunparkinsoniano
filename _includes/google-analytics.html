@@ -1,4 +1,3 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
 <script>
   // Define dataLayer and the gtag function.
   window.dataLayer = window.dataLayer || [];
@@ -16,12 +15,19 @@
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}">
   </script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+  
+    gtag('js', new Date());
+    gtag('config', '{{site.google_analytics}}');
+  </script>
   
   <!-- Create one update function for each consent parameter -->
   <script>
     function consentGrantedAdStorage() {
       gtag('consent', 'update', {
-        'analytics_storage': 'granted'
+        'ad_storage': 'granted'
       });
     }
   </script>
