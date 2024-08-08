@@ -67,3 +67,4 @@ defaults:
       sitemap:         false      
       seo:
         robots:        [noindex,nofollow]
+  
