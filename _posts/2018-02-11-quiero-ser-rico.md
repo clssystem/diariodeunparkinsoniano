@@ -4,6 +4,7 @@ title: ¡Quiero ser rico!
 date: 2018-02-11 10:46
 author: diariodeunparkinsoniano
 comments: true
+footerimage: '/assets/images/2018/02/descarga-3.jpg'
 tags: [Relatos IV]
 ---
 <p style="text-align:justify;">Si.</p>
@@ -84,6 +85,5 @@ Tan sólo con operaciones básicas.
 <p style="text-align:justify;">¡Quiero ser rico!</p>
 &nbsp;
 
-<img class="img-fluid"  clasXs="  wp-image-594 aligncenter" src="/assets/images/2018/02/descarga-3.jpg" alt="descarga (3)" width="484" height="322" />
 
 &nbsp;
