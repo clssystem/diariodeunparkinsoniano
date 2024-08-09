@@ -38,7 +38,10 @@
     }
 
     if(readCookie('Acookie-notice-option')=='true') {
-         } 
+         
+        consentGrantedAdStorage();
+    
+    } 
          else if (readCookie('Acookie-notice-option')!='false'){
         document.getElementById('cookie-notice').style.display = 'block';
     }
