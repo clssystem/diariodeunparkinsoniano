@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://diariodeunparkinsoniano.cls-system.es/comprar.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://diariodeunparkinsoniano.cls-system.es/assets/images/libro.jpg</video:thumbnail_loc>
+      <video:title>Diario de un parkinsoniano</video:title>
+      <video:description>Presentación del libro diario de un parkinsoniano, para Libros Indie S.L.</video:description>
+      <video:content_loc>
+        https://diariodeunparkinsoniano.cls-system.es/libro.mp4
+      </video:content_loc>
+      <video:publication_date>2022-12-15 T00:06:00+20:00</video:publication_date>
+      <video:uploader
+        info="{{site.baseurl | replace: '//', '/' }}/about">Antonio Liberal Irigoyen
+      </video:uploader>
+      <video:tag>Libros sobre Enfermedad de Parkinson</video:tag>
+      <video:tag>Auto ayuda</video:tag>
+      <video:tag>diariodeunparkinsoniano</video:tag>
+
+    </video:video>
+  </url>
+</urlset>

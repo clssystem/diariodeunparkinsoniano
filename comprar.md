@@ -1,7 +1,8 @@
 ---
 layout: page
 title: ¡Ya a la venta!
-excerpt: 
+excerpt: Edición impresa de Diario de un parkinsoniano
+date: 2022-12-15 06:00
 background: '/img/bg-about.jpg'
 keywords: [edición impresa,en papel, libros indie,parkinson,autoayuda]
 author: diariodeunparkinsoniano
