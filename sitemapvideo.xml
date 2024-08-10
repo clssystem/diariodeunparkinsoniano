@@ -10,9 +10,9 @@
       <video:content_loc>
         https://diariodeunparkinsoniano.cls-system.es/libro.mp4
       </video:content_loc>
-      <video:publication_date>2022-12-15 T00:06:00+20:00</video:publication_date>
+      <video:publication_date>2022-12-15T06:00:00+02:00</video:publication_date>
       <video:uploader
-        info="{{site.baseurl | replace: '//', '/' }}/about">Antonio Liberal Irigoyen
+        info="https://diariodeunparkinsoniano.cls-system.es/about">Antonio Liberal Irigoyen
       </video:uploader>
       <video:tag>Libros sobre Enfermedad de Parkinson</video:tag>
       <video:tag>Auto ayuda</video:tag>
