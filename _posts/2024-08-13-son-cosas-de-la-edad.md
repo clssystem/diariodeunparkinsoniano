@@ -17,7 +17,7 @@ Después, casi sin darte cuenta, llegabas a ese *punto de no retorno* del últim
 
 Entonces, te ponías la siguiente meta, los "lejanos" dieciocho años, la mayoría legal de edad, en la que ya podías votar y conducir por mitad de la ciudad con un coche potente y molón, haciendo lo que te diera la real gana, sin normas impuestas por nadie, incluidos tus progenitores, ya destronados del reino de tu infancia.
 
-Impaciente porque llegase ese momento, y siendo de la generación de los O-O —termino que describe a mi generación, y que se me acaba de ocurrir (perdónenme los puristas) —, tenías dos alternativas: O estudiabas o te ponías a trabajar: Y como a mí se me daba bien estudiar, continué en el instituto para hacer B.U.P. y C.O.U., y más tarde ingeniería en la universidad.
+Impaciente porque llegase ese momento, y siendo de la generación de los O-O —término que describe a mi generación, y que se me acaba de ocurrir (perdónenme los puristas) —, tenías dos alternativas: O estudiabas o te ponías a trabajar: Y como a mí se me daba bien estudiar, continué en el instituto para hacer B.U.P. y C.O.U., y más tarde Ingeniería en la universidad.
 
 Y al llegar a los dieciocho... ¡oh sorpresa!, tampoco (aparentemente) pasaba nada espectacular, salvo el hecho de que los cambios en tu cuerpo más o menos se habían estabilizado, que ya no te hacían tanta gracia los pelajos del bigote, que, como una plaga de mala hierba, se habían extendido por toda la cara en forma de barba, y que volvían a salir y a salir cada vez más fuerte, por mucho que te empeñases en su afeitado, que cada vez debía ser más frecuente.
 
@@ -33,7 +33,7 @@ Te empiezas a "sentirte viejo" la primera vez que te "llaman de usted", y reacci
 
 O también, cuando te enteras por la tele que a partir de los cuarenta ya no te aceptan como donante de médula, o te llega una carta del médico al cumplir los cincuenta, para pedirte una muestra de heces y enrolarte así en el club de los exclusivos miembros del programa de prevención del cáncer de colon, y no eres capaz de leer las malditas y diminutas instrucciones que vienen junto al kit de "auto extracción", debido a tu acuciante presbicia, por mucho que alargues el brazo, alejándolas de tu cara inútilmente y achiques tus ojos para forzar la vista, mentando simultáneamente a los progenitores del jovencito que las ha redactado.
 
-A partir de este momento, o al sufrir una enfermedad, o cuando tu cuerpo no te da más que disgustos, puedes seguir la senda de dos caminos: El de tomártelo a mal, de manera negativa, con lo que sólo conseguirás que tu alma se marchite al mismo ritmo que tu cuerpo físico, o el de intentar poner al mal tiempo buena cara, ser positivo y mantener tu alma joven y lozana, el mayor tiempo que puedas.
+A partir de este momento, o al sufrir una enfermedad, o cuando tu cuerpo no te da más que disgustos, puedes seguir la senda de dos caminos: El de tomártelo a mal, de manera negativa, con lo que sólo conseguirás que tu alma (y de las que te rodean) se marchite al mismo ritmo que tu cuerpo físico, o el de intentar poner al mal tiempo buena cara, ser positivo y mantener tu alma joven y lozana, el mayor tiempo que puedas.
 
 En fín, que me he puesto filosófico...
 
