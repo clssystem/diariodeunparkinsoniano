@@ -21,7 +21,7 @@ Impaciente porque llegase ese momento, y siendo de la generación de los O-O —
 
 Y al llegar a los dieciocho... ¡oh sorpresa!, tampoco (aparentemente) pasaba nada espectacular, salvo el hecho de que los cambios en tu cuerpo más o menos se habían estabilizado, que ya no te hacían tanta gracia los pelajos del bigote, que, como una plaga de mala hierba, se habían extendido por toda la cara en forma de barba, y que volvían a salir y a salir cada vez más fuerte, por mucho que te empeñases en su afeitado, que cada vez debía ser más frecuente.
 
-En cuanto a lo de la legalidad y el derecho a votar, descubres que además tienes deberes, como la obligación de presidir una mesa electoral, y que lo de conducir no se te da tan bien como habías soñado, y menos "heredando" el renault 4 de tu padre, el entrañable y destartalado "cuatro latas".
+En cuanto a lo de la legalidad y el derecho a votar, descubres que además tienes deberes, como la obligación de presidir una mesa electoral, y que lo de conducir no se te da tan bien como habías soñado, y menos "heredando" el Renault 4 de tu padre, el entrañable y destartalado "cuatro latas".
 
 A partir de aquí, entras como en un agujero de gusano, y el tiempo se acelera de tal forma, que los años pasan como si fueran segundos: Terminas los estudios y empiezas a trabajar, y descubres que lo que creías que era "hacerte mayor" es en realidad "madurar", y que lo de "hacerse mayor" es en realidad "hacerse viejo", y tiene que ver más con la vejez y con el deterioro, tanto físico como mental, que provoca el desgaste de la vida en tu cuerpo.
 
