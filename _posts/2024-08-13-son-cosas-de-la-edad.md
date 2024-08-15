@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XIII] 
 keywords: [Edad,paso del tiempo,madurar,afrontar la enfermedad,superacion,Modestia aparte]
-footerimage: '/assets/images/2024/08/edad.jpg'
+image: '/assets/images/2024/08/edad.jpg'
 excerpt: Filosofando sobre la edad, la vejez, la madurez y el paso del tiempo desde el punto de vista de un enfermo prematuro de párkinson
 ---
 Desde muy pequeñito me he estado preguntado cuándo uno "se hace mayor"; el hito exacto en el tiempo en el que ocurre este hecho.

@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XI] 
 keywords: [Estimulador neuronal,DBS,Deep Brain Stimulation,CUN,Clínica Universitaria de Navarra,conexión]
-footerimage: '/assets/images/2023/02/primeraconexion.png'
+image: '/assets/images/2023/02/primeraconexion.png'
 ---
 El auxiliar que me iba a trasladar hasta la habitación 610 recibió el ok de nuestra partida sobre la una de la tarde.
 Para entonces, y sobre las doce del mediodía, ya había recibido una nueva dosis de levodopa, en forma de pastilla amarilla de sinemet, que apenas calmó mis temblores por unos minutos: la medicación a estas alturas, todavía desconectado, era claramente insuficiente.

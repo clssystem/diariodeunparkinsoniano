@@ -4,7 +4,7 @@ title: De vacunas y confesiones
 date: 2021-04-18 06:51
 author: diariodeunparkinsoniano
 comments: true
-footerimage: /assets/images/2021/04/vacunasconfesiones.jpg
+image: /assets/images/2021/04/vacunasconfesiones.jpg
 tags: [Relatos IX]
 ---
 

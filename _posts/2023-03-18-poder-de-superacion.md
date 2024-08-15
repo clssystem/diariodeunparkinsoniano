@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XII] 
 keywords: [Poder de superación,Arrigaztelu]
-footerimage: '/assets/images/2023/03/dividir.jpeg'
+image: '/assets/images/2023/03/dividir.jpeg'
 ---
 Ha pasado ya un mes desde mi segunda operación.
 

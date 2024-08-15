@@ -5,7 +5,7 @@ date: 2021-07-25 06:51
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos IX]
-footerimage: '/assets/images/2017/09/1509837_3737283086640_1030958775_n.jpg'
+image: '/assets/images/2017/09/1509837_3737283086640_1030958775_n.jpg'
 keywords: [sobrinos,familia,mellizos,cariño]
 ---
 

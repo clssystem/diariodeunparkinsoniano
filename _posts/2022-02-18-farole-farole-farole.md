@@ -5,7 +5,7 @@ date: 2022-02-18 10:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos X]
-footerimage: '/assets/images/2022/02/farole.jpg'
+image: '/assets/images/2022/02/farole.jpg'
 keywords: [farole,farola,distonía,parkinson,neuroestimulador,esperanza]
 ---
 

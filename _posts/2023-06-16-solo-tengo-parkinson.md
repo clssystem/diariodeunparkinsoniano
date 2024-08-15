@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XII] 
 keywords: [Psiquiatría,ansiolitico,ansiedad,Ribotril,Clorazepam]
-footerimage: '/assets/images/2023/06/onoff.jpg'
+image: '/assets/images/2023/06/onoff.jpg'
 ---
 Hace un par de días volví a pasar consulta de neurología en la CUN.
 Fue algo inesperado, puesto que apenas hacía un mes de la visita anterior.

@@ -5,7 +5,7 @@ date: 2021-09-14 22:32
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos IX]
-footerimage: '/assets/images/2021/09/nuevo_curso.jpg'
+image: '/assets/images/2021/09/nuevo_curso.jpg'
 keywords: [curso,escolar,papeleria,esperanza,cuaderno,verde]
 ---
 Hoy ha comenzado oficialmente el curso escolar.

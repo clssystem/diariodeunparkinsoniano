@@ -8,7 +8,7 @@ categories: [Sin categoría]
 tags: 'Relatos-I'
 keywords: [prematuro,cariño,mellizos,sobrinos,nahia,ibai]
 excerpt: Primer post dedicado a mis sobrinos Nahia e Ibai
-footerimage: '/assets/images/2017/05/img_20170524_211151-011082.jpeg'
+image: '/assets/images/2017/05/img_20170524_211151-011082.jpeg'
 ---
 <p style="text-align:justify;">Nacieron un sábado 29 de septiembre, día de San Miguel, hace ya casi 10 años.</p>
 <p style="text-align:justify;">Aquel día fue el inicio de sus vidas, y un cambio enorme para el resto de nosotros.</p>

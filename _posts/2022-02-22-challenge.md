@@ -5,7 +5,7 @@ date: 2022-02-23 04:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos X]
-footerimage: '/assets/images/2022/02/challenge.jpg'
+image: '/assets/images/2022/02/challenge.jpg'
 keywords: [desafio,challenge,ortostática]
 ---
 

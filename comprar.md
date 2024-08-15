@@ -6,7 +6,7 @@ date: 2022-12-15 06:00
 background: '/img/bg-about.jpg'
 keywords: [edición impresa,en papel, libros indie,parkinson,autoayuda]
 author: diariodeunparkinsoniano
-footerimage: '/assets/images/libro.jpg'
+image: '/assets/images/libro.jpg'
 ---
 **¡YA A LA VENTA LA SEGUNDA EDICION DEL LIBRO!**
 
@@ -37,7 +37,7 @@ Enfráscate en su lectura, y conocerás todas mis recetas para convivir con el P
 (Haz clic en la imagen inferior para saltar a la página de compra de La Casa Del Libro)
 <div align="center">
 <a href="https://www.casadellibro.com/libro-diariodeunparkinsoniano-plantale-cara-a-tu-enfermedad/9788419671004/13429952">
-<img class="img-fluid"   src="{{page.footerimage}}" alt="{{page.title}}"  />
+<img class="img-fluid"   src="{{page.image}}" alt="{{page.title}}"  />
 </a>
 </div>
 

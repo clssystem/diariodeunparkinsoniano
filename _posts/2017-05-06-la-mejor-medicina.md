@@ -5,7 +5,7 @@ date: 2017-05-06 20:29
 author: diariodeunparkinsoniano
 comments: true
 tags: 'Relatos-I'
-footerimage: '/assets/images/2017/05/img_20170412_235311-01.jpeg'
+image: '/assets/images/2017/05/img_20170412_235311-01.jpeg'
 keywords: [neurólogo,ansiedad,amistad]
 excerpt: Cómo superar una crisis de ansiedad por la enfermedad de Parkinson con la amistad
 ---

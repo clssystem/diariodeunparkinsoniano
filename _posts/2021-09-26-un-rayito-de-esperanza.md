@@ -5,7 +5,7 @@ title: Un rayito de esperanza
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos IX]
-footerimage: '/assets/images/2021/09/rayo_luz.jpg'
+image: '/assets/images/2021/09/rayo_luz.jpg'
 keywords: [esperanza, monte, caminar, rayo, luz, terapia de grupo]
 ---
 Hacía tiempo que no caminaba, o, mejor dicho, trotaba por el monte, cual corcel, libre, salvaje y desbocado.

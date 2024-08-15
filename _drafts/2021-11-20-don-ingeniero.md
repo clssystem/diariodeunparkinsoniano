@@ -5,7 +5,7 @@ date: 2021-11-20 08:05
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos IX]
-footerimage: '/assets/images/2021/11/making-of.jpg'
+image: '/assets/images/2021/11/making-of.jpg'
 keywords: [ingeniero, telecomunicaciones, premio, reconocimiento]
 ---
 

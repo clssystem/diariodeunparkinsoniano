@@ -52,9 +52,9 @@
   	<meta name="twitter:card" content="summary_large_image" />
   	<meta name="twitter:creator" content="@diariodeunparki" />
   	<meta name="twitter:title" content="{{page.title}}" />
-	{% if page.footerimage %}
-	    <meta property="og:image" content="{{ site.baseurl | prepend: site.url }}{{page.footerimage}}" />
-	  	<meta name="twitter:image" content="{{ site.baseurl | prepend: site.url }}{{page.footerimage}}" />
+	{% if page.image %}
+	    <meta property="og:image" content="{{ site.baseurl | prepend: site.url }}{{page.image}}" />
+	  	<meta name="twitter:image" content="{{ site.baseurl | prepend: site.url }}{{page.image}}" />
 	{% elsif page.pageimage %}
 	  	<meta property="og:image" content="{{ site.baseurl | prepend: site.url }}{{page.pageimage}}" />
 	  	<meta name="twitter:image" content="{{ site.baseurl | prepend: site.url }}{{page.pageimage}}" />

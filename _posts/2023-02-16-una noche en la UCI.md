@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XI] 
 keywords: [Estimulador neuronal,DBS,Deep Brain Stimulation,UCI]
-footerimage: '/assets/images/2023/02/uci.jpeg'
+image: '/assets/images/2023/02/uci.jpeg'
 ---
 Me desperté medio aturdido, con la cabeza embotada, la boca pastosa y un terrible dolor procedente de mi garganta, como cuando me depertaba hace años a media tarde, después de una larga noche de juerga, con una de esas resacas horribles, en la que te engañas a tí mismo diciendo que no volverás a beber más ese maldito brebaje que tan bien entraba pocas horas antes.
 

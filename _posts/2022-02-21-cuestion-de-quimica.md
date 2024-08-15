@@ -5,7 +5,7 @@ date: 2022-02-21 23:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos X]
-footerimage: '/assets/images/2022/02/quimica.png'
+image: '/assets/images/2022/02/quimica.png'
 keywords: [quimica,distonia]
 ---
 

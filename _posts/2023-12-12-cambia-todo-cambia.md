@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XII] 
 keywords: [finiquito,fin de ciclo, cambio]
-footerimage: '/assets/images/2023/12/amstrad_dosieres.jpeg'
+image: '/assets/images/2023/12/amstrad_dosieres.jpeg'
 ---
 Mientras intentaba completar todos los pasos para identificarme en el sitio web del INSS, que incluían, entre otras cosas, el diabólico momento de hacerse un selfie para identificarse, sujetando el móvil con la mano derecha, e intentando encajar cabeza, hombros y DNI (sujeto con la mano que quedaba libre, la izquierda) en una especie de plantilla (que por cierto, un olé para el que pensó en ella, que no tuvo en cuenta ni a los zurdos, ni a la gente que no puede sujetar su móvil con la mano derecha), y me esforzaba en poner la misma cara de panoli que todos tenemos en nuestro DNI, e intentaba pulsar con el pulgar derecho el icono de la pantalla del móvil que decía "Foto", recibí una llamada telefónica, que dió al traste con todo el proceso.
 

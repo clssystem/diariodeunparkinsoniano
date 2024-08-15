@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XII] 
 keywords: [Dia mundial del Parkinson,11 de abril]
-footerimage: '/assets/images/2023/04/dbs.jpg'
+image: '/assets/images/2023/04/dbs.jpg'
 ---
 Han pasado dos meses desde mi segunda operación, y poco más de uno desde que recibí el alta "cirujenil", después de comprobar que la cicatriz de la nueva apertura de mi cuero cabelludo en menos de ocho meses progresaba adecuadamente.
 

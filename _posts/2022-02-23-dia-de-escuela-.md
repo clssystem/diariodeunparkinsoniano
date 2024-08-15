@@ -5,7 +5,7 @@ date: 2022-02-23 22:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos X]
-footerimage: '/assets/images/2022/02/escuela.jpg'
+image: '/assets/images/2022/02/escuela.jpg'
 keywords: [escuela,cognitivo,memoria]
 ---
 Con esa puntualidad británica que le caracteriza, Parki volvió a despertarme a las cinco de la mañana.

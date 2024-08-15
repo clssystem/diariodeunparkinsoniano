@@ -5,7 +5,7 @@ date: 2022-01-09 07:06
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos X]
-footerimage: '/assets/images/2022/01/atrapaRecuerdos.jpg'
+image: '/assets/images/2022/01/atrapaRecuerdos.jpg'
 keywords: [atrapa sueños,atrapa recuerdos,fotografia,recuerdos,vida]
 ---
 

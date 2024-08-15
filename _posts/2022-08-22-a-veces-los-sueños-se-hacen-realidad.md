@@ -5,7 +5,7 @@ date: 2022-08-22 05:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XI]
-footerimage: '/assets/images/2022/08/yoconteclado.jpeg'
+image: '/assets/images/2022/08/yoconteclado.jpeg'
 keywords: [piano, teclado musical,sueños,realidad]
 ---
 Hoy se cumplen dos meses desde la implantación de mis estimuladores neuronales. 

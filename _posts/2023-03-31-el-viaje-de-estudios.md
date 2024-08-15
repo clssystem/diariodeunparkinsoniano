@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XII] 
 keywords: [Viaje de estudios,Calella]
-footerimage: '/assets/images/2023/03/autobus.jpg'
+image: '/assets/images/2023/03/autobus.jpg'
 ---
 Mi sobrino Ibai, del que he hablado varias veces en este blog, viaja en estos momentos en un autobús, empezando a disfrutar de su viaje de estudios, mientras que Nahia, mi sobrina, espera impaciente a que le toque su turno.
 

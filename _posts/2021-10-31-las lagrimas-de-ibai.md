@@ -5,7 +5,7 @@ date: 2021-10-31 21:45
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos IX]
-footerimage: '/assets/images/2021/10/lagrimas_ibai.jpg'
+image: '/assets/images/2021/10/lagrimas_ibai.jpg'
 keywords: [familia, amistad, amor, sobrino, muerte]
 ---
 

@@ -5,7 +5,7 @@ date: 2022-05-28 5:05
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos X]
-footerimage: '/assets/images/2022/05/hora.gif'
+image: '/assets/images/2022/05/hora.gif'
 keywords: [parkinson,cuenta atrás, es la hora, xuxa]
 ---
 Si al leer el título de esta entrada has terminado inconscientemente la frase con "... es la hora de jugar", retrocediendo a mediados de los 90, te voy a dar una mala noticia, que seguramente ya conozcas: Eres un poco viejuno, o por lo menos tanto como yo.

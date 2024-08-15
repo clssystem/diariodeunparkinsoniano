@@ -5,7 +5,7 @@ date: 2022-06-23 05:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XI]
-footerimage: '/assets/images/2022/06/operacion.jpeg'
+image: '/assets/images/2022/06/operacion.jpeg'
 keywords: [Estimulación Neuronal Profunda, operación]
 ---
 Me desperté en medio de un profundo sueño, como hacía tiempo no lo hacía.

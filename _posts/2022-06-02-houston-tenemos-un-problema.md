@@ -5,7 +5,7 @@ date: 2022-06-02 05:08
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos X]
-footerimage: '/assets/images/2022/06/problema.png'
+image: '/assets/images/2022/06/problema.png'
 keywords: [Houston,problema,estimulación cerebral profunda]
 ---
 Voy a serte sincero.

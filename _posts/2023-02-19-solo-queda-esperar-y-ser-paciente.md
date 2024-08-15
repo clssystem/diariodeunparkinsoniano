@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XII] 
 keywords: [Estimulador neuronal,DBS,Deep Brain Stimulation,espera,paciencia,actualización de firmware]
-footerimage: '/assets/images/2023/02/neuroestimulador.jpg'
+image: '/assets/images/2023/02/neuroestimulador.jpg'
 ---
 A pesar de mis temblores, la noche transcurrió tranquila y sin complicaciones, pudiendo descansar lo suficiente.
 Me levanté varias veces para ir al baño, en medio de la noche, con precaución, siendo plenamente consciente de lo que me jugaba.

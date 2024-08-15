@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XI] 
 keywords: [Estimulador neuronal,DBS,Deep Brain Stimulation,darth vader, SpaceBalls, StarWars]
-footerimage: '/assets/images/2023/02/spaceballs.jpg'
+image: '/assets/images/2023/02/spaceballs.jpg'
 ---
 Fue una noche de sueño intenso, aunque intermitente, a pesar de que mis problemas estomacales habían remitido.
 

@@ -5,7 +5,7 @@ date: 2022-02-20 21:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos X]
-footerimage: '/assets/images/2022/02/ingreso.jpg'
+image: '/assets/images/2022/02/ingreso.jpg'
 keywords: [ingreso]
 ---
 

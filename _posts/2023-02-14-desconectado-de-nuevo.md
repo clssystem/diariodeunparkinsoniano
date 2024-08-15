@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XI] 
 keywords: [Estimulador neuronal,DBS,Deep Brain Stimulation,desconexión, mar de dudas]
-footerimage: '/assets/images/2023/02/desconexion.png'
+image: '/assets/images/2023/02/desconexion.png'
 ---
 La noche había sido larga, la más larga de las que había vivido desde hacía mucho  tiempo.
 

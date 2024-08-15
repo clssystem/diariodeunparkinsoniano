@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XI] 
 keywords: [CUN,Clínica Universidad de Navarra,Estimulador neuronal,DBS,Deep Brain Stimulation,neuronavegador]
-footerimage: '/assets/images/2023/02/img_neuronavegador.png'
+image: '/assets/images/2023/02/img_neuronavegador.png'
 ---
 Después de las primeras pruebas iniciales -el tac y la radiografía craneal -, y pasado el tiempo prudencial, llegó el turno de continuar con el procedimiento habitual.
 

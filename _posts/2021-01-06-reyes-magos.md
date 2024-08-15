@@ -4,7 +4,7 @@ title: Reyes Magos
 date: 2021-01-06 07:51
 author: diariodeunparkinsoniano
 comments: true
-footerimage: '/assets/images/2021/01/reyes.jpg'
+image: '/assets/images/2021/01/reyes.jpg'
 tags: [Relatos IX]
 ---
 

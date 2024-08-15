@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XII] 
 keywords: [siniestro total,año nuevo 2024,ayatollah,COVID-19,pirola]
-footerimage: '/assets/images/2023/12/ayatollah.jpg'
+image: '/assets/images/2023/12/ayatollah.jpg'
 ---
 Hoy es 31 de diciembre del año de nuestro señor del 2023, el último día del año. 
 

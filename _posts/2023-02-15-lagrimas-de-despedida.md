@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XI] 
 keywords: [Estimulador neuronal,DBS,Deep Brain Stimulation,ingreso hospitalario,lagrimas,despedidas]
-footerimage: '/assets/images/2023/02/lagrimas.jpg'
+image: '/assets/images/2023/02/lagrimas.jpg'
 ---
 La verdad, estar conectado de nuevo es para mí como la noche y el día. Aunque claramente la mezcla de estimulación (bastante elevada en este momento), y medicación no es suficiente para afrontar aspectos de mi vida diaria, como comer o ponerme delante del ordenador, me permite apañarme bastante bien, y moverme de manera autónoma.
 

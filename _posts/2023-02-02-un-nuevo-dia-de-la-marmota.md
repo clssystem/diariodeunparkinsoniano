@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XI] 
 keywords: [Mariaje Urrutia,CUN,Clínica Universidad de Navarra,Estimulador neuronal,día de la marmota,Bill Murray,Atrapado en el tiempo,DBS,Deep Brain Stimulation]
-footerimage: '/assets/images/2023/02/radiografia.jpeg'
+image: '/assets/images/2023/02/radiografia.jpeg'
 ---
 Desde la última vez que escribí en el diario -en el que dejamos a mi compañera parkinsoniana Mariaje a las puertas del quirófano -, han ocurrido varias novedades.
 

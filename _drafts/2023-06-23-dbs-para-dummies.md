@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XII] 
 keywords: [Psiquiatría,ansiolitico,ansiedad,Ribotril,Clorazepam]
-footerimage: '/assets/images/2023/06/onoff.jpg'
+image: '/assets/images/2023/06/onoff.jpg'
 ---
 Cuando yo estudiaba en la universidad —como yo suelo decir, en los tiempos del pleistoceno— había una colección de libros "para dummies", que te servían para aprender de manera rápida y un poco vaga (por eso lo de la coletilla "para dummies", "vago" o "torpe" en inglés) los más variados lenguajes de programación u otro tipo de tecnología informática.
 

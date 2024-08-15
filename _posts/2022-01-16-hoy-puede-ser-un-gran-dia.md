@@ -5,7 +5,7 @@ date: 2022-01-16 22:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos X]
-footerimage: '/assets/images/2022/01/grandia.jpg'
+image: '/assets/images/2022/01/grandia.jpg'
 keywords: [llamada de teléfono,esperanza,parkinson,neuroestimulador,gran día]
 ---
 

@@ -5,7 +5,7 @@ date: 2021-12-27 07:06
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos IX]
-footerimage: '/assets/images/2021/12/puente.jpg'
+image: '/assets/images/2021/12/puente.jpg'
 keywords: [ingeniero, telecomunicaciones, premio, reconocimiento]
 ---
 

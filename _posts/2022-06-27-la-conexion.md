@@ -5,7 +5,7 @@ date: 2022-06-27 05:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XI]
-footerimage: '/assets/images/2022/06/robocop.jpg'
+image: '/assets/images/2022/06/robocop.jpg'
 keywords: [Estimulación Neuronal Profunda, conexión, Deep Brain Stimulation]
 ---
 

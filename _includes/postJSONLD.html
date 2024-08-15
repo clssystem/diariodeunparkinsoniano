@@ -11,8 +11,8 @@
 
             {% elsif page.ogimage %}
                 "{{ site.baseurl | prepend: site.url }}{{page.ogimage}}"
-            {% elsif page.footerimage %}
-                "{{ site.baseurl | prepend: site.url }}{{page.footerimage}}"
+            {% elsif page.image %}
+                "{{ site.baseurl | prepend: site.url }}{{page.image}}"
             {% else %}
                 "{{ site.baseurl | prepend: site.url }}/assets/images/libroweb.jpg"
             {% endif %}

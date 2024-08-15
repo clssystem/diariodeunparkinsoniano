@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XIII] 
 keywords: [Ahorita mismo,stress,jubilación,incapacidad permanente]
-footerimage: '/assets/images/2024/03/ahorita.jpg'
+image: '/assets/images/2024/03/ahorita.jpg'
 ---
 Han pasado unos cuantos meses desde la firma del finiquito de las vacaciones, como expliqué en el post de "[Todo cambia](/post/2023/12/12/cambia-todo-cambia)", y, por fin, hace apenas una semana, ha terminado todo.
 

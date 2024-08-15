@@ -5,7 +5,7 @@ date: 2021-07-16 06:51
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos IX]
-footerimage: '/assets/images/2021/07/elma.jpeg'
+image: '/assets/images/2021/07/elma.jpeg'
 keywords: [elma,cuento,infantil,ternura]
 ---
 

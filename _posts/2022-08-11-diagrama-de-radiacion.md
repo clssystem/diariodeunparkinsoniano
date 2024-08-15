@@ -5,7 +5,7 @@ date: 2022-08-11 05:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XI]
-footerimage: '/assets/images/2022/08/diagrama.jpg'
+image: '/assets/images/2022/08/diagrama.jpg'
 keywords: [Estimulación Neuronal Profunda, Deep Brain Stimulation, diagrama de radiación]
 ---
 

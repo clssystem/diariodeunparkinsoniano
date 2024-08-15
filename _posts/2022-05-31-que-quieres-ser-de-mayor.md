@@ -5,7 +5,7 @@ date: 2022-05-31 5:05
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos X]
-footerimage: '/assets/images/2022/05/pensando.png'
+image: '/assets/images/2022/05/pensando.png'
 keywords: [UPNA, Telecomunicaciones, Ingeniero, ETSIIIT]
 ---
 

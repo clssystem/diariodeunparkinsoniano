@@ -4,7 +4,7 @@ title: #PonUnaEtiquetaPositiva
 date: 2021-04-11 06:51
 author: diariodeunparkinsoniano
 comments: true
-footerimage: '/assets/images/2021/04/PonUnaEtiquetaPositiva.jpg'
+image: '/assets/images/2021/04/PonUnaEtiquetaPositiva.jpg'
 tags: [Relatos IX]
 ---
 

@@ -5,7 +5,7 @@ date: 2021-11-09 03:05
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos IX]
-footerimage: '/assets/images/2021/11/ingeniero.jpg'
+image: '/assets/images/2021/11/ingeniero.jpg'
 keywords: [ingeniero, telecomunicaciones, premio, reconocimiento]
 ---
 En algo más de 72 horas la Asociación de Ingenieros de Telecomunicación de Navarra me nombrará "ingeniero del año", por haber creado MouseHelper, ese asistente para el ratón que presenté, curiosamente, también por estas fechas, el año pasado.

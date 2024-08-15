@@ -6,7 +6,7 @@ author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XII] 
 keywords: [trabajo,INSS,18 meses de baja laboral]
-footerimage: '/assets/images/2023/12/18_meses_baja.jpg'
+image: '/assets/images/2023/12/18_meses_baja.jpg'
 ---
 Hace tiempo que no me acercaba a mi portátil para garabatear con el teclado lo que siento.
 

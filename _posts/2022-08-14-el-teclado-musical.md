@@ -5,7 +5,7 @@ date: 2022-08-14 05:00
 author: diariodeunparkinsoniano
 comments: true
 tags: [Relatos XI]
-footerimage: '/assets/images/2022/08/Yamaha-PSS-A50.jpg'
+image: '/assets/images/2022/08/Yamaha-PSS-A50.jpg'
 keywords: [piano, teclado musical]
 ---
 Una de las rocambolescas ideas que pasaron por mi cabeza nada más salir de la operación de la implantación de los neuroestimuladores, libre en un principio de mis temblores, y en vista de la reciente llegada de mi cumpleaños, que es siempre, y mientras lo permitan los astros, el 1 de Julio de cada año, fue la de auto-regalarme un teclado musical, piano portátil u organillo, como mejor te plazca llamarlo.

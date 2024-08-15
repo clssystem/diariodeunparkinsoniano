@@ -6,7 +6,7 @@ categories: motivacion
 author: diariodeunparkinsoniano
 tags: 'Relatos-I'
 background: '/img/bg-header.jpg'
-footerimage: '/assets/images/2016/12/img-20161224-wa0018.jpg'
+image: '/assets/images/2016/12/img-20161224-wa0018.jpg'
 keywords: [motivación,superación,neurologia,juventud]
 excerpt: En este post se explica la motivación del blog diariodeunparkinsoniano
 ---
