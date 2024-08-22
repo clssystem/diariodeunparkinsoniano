@@ -13,11 +13,11 @@ seo:
 ---
 ## Unas palabras sobre este manual
 
-Cuando yo estudiaba en la universidad —como suelo decir, en los tiempos del pleistoceno— había una colección de libros "para dummies", que te servían para aprender, de manera rápida y un poco vaga (de ahí lo de "para dummies", que significa "vago" o "torpe" en inglés), los más variados lenguajes de programación, o cualquier otro tipo de tecnología informática.
+Cuando estudiaba en la universidad —como suelo decir, en los tiempos del pleistoceno— había una colección de libros "para dummies", que te servían para aprender, de manera rápida y un poco vaga (de ahí lo de "para dummies", que significa "vago" o "torpe" en inglés), los más variados lenguajes de programación, o cualquier otro tipo de tecnología informática.
 
 Entre que estoy un poco nostálgico, y que ya hace más de un año de mi primera operación, me he decidido a crear mi propia edición de "DBS para dummies", para intentar, en la medida de lo posible, explicar que es esto del Deep Brain Stimulation (o ECP, Estimulación Cerebral Profunda, en español), desde el punto de vista de un paciente ya operado, con la esperanza de que tú, querido lector que me sufres y me padeces, puedas entenderlo en un lenguaje más llano, menos profundo y técnico, aderezándolo con un poco de humor.
 
-Principalmente va dirigido a las personas enfermas de Parkinson, especialmente a aquellas a las que se les presenta el dilema de si operarse o no, para la implantación del DBS. en su cuerpo, pero sin pretender ser el sustituto de lo que te explique tu neurólogo, ni tampoco del manual del sistema, que igual te  entregarsnt después de la operación, si eres tan insistente y tan pelma como yo.
+Principalmente va dirigido a las personas enfermas de Parkinson, especialmente a aquellas a las que se les presenta el dilema de si operarse o no, para la implantación del DBS en su cuerpo, pero sin pretender ser el sustituto de lo que te explique tu neurólogo, ni tampoco del manual delsistema, que igual te entregarán después de la operación, si eres tan insistente y tan pelma como yo.
 
 Tan sólo detallo aquí mi experiencia —me han realizado hasta la fecha dos operaciones de implantación—, e intentar darte un poco más de información, a través de mi punto de vista, personal y espero que transferible.
 
