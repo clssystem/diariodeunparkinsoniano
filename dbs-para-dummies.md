@@ -31,7 +31,7 @@ Se ha demostrado que, dependiendo de la zona estimulada (llamada *diana*), el DB
 
 Nuevas investigaciones se están centrando en su aplicación para trastornos como el TOC (Transtorno Obsesivo Compulsivo), etc...
 
-**Es importante recalcar que la ECP no es una cura, pero puede ayudarte en tu calidad de vida, mejorando muchos de los síntomas cotidianos de la Enfermedad de Parkinson, y reduciendo la cantidad de medicamentos a tomar, disminuyendo de esta manera las fluctuaciones motoras (cambios de ON-OFF) y los movimientos involuntarios (discinesias) que provoca dicha medicación.**
+**Es importante recalcar que la DBS no es una cura, pero puede ayudarte en tu calidad de vida, mejorando muchos de los síntomas cotidianos de la Enfermedad de Parkinson, y reduciendo la cantidad de medicamentos a tomar, disminuyendo de esta manera las fluctuaciones motoras (cambios de ON-OFF) y los movimientos involuntarios (discinesias) que provoca dicha medicación.**
 
 Por lo que me explicó el neurocirujano jefe que dirigió mi primera operación, no se ha conseguido saber el fundamento físico por el que funciona, pero lo hace. Por mi experiencia, y por lo sufrido en mis propias carnes, te aseguro que lo hace.
 
