@@ -17,9 +17,9 @@ Cuando yo estudiaba en la universidad —como suelo decir, en los tiempos del pl
 
 Entre que estoy un poco nostálgico, y que ya hace más de un año de mi primera operación, me he decidido a crear mi propia edición de "DBS para dummies", para intentar, en la medida de lo posible, explicar que es esto del Deep Brain Stimulation (o ECP, Estimulación Cerebral Profunda, en español), desde el punto de vista de un paciente ya operado, con la esperanza de que tú, querido lector que me sufres y me padeces, puedas entenderlo en un lenguaje más llano, menos profundo y técnico, aderezándolo con un poco de humor.
 
-Principalmente va dirigido a las personas enfermas de Parkinson, especialmente a aquellas a las que se les presenta el dilema de si operarse o no, para la implantación del DBS. en su cuerpo, pero sin pretender ser el sustituto de lo que te explique tu neurólogo, ni tampoco del manual del sistema, que igual te habrán entregado después de la operación, si has sido tan insistente y tan pelma como yo.
+Principalmente va dirigido a las personas enfermas de Parkinson, especialmente a aquellas a las que se les presenta el dilema de si operarse o no, para la implantación del DBS. en su cuerpo, pero sin pretender ser el sustituto de lo que te explique tu neurólogo, ni tampoco del manual del sistema, que igual te  entregarsnt después de la operación, si eres tan insistente y tan pelma como yo.
 
-Tan sólo detallo aquí mi experiencia —me han realizado hasta la fecha dos operaciones de implantación—, e intentar darte un poco más de información, a través di mi punto de vista, personal y espero que transferible.
+Tan sólo detallo aquí mi experiencia —me han realizado hasta la fecha dos operaciones de implantación—, e intentar darte un poco más de información, a través de mi punto de vista, personal y espero que transferible.
 
 Y por supuesto, y para finalizar esta pequeña introducción: No pretendo faltarte al respeto llamándote vago, ni nada por el estilo ...
 
@@ -27,13 +27,13 @@ Y por supuesto, y para finalizar esta pequeña introducción: No pretendo faltar
 
 El DBS (Deep Brain Stimulation) consiste en enviar señales eléctricas a tu cerebro y más en concreto, en hacerlo a la zona profunda del mismo (de ahí su nombre, Estimulación Cerebral Profunda, ECP en español).
 
-Se ha demostrado que, dependiendo de la zona estimulada (llamada *diana*), se puede utilizar para minimizar algunos efectos del Parkinson que a mí, particularmente, me afectaban demasiado: la distonía y los temblores incapacitantes.
+Se ha demostrado que, dependiendo de la zona estimulada (llamada *diana*), el DBS se puede utilizar para minimizar algunos efectos del Parkinson que a mí, particularmente, me afectaban demasiado: la distonía y los temblores incapacitantes.
 
-Nuevas investigaciones se están centrando en su aplicación para trastornos como el TOC (Transtorno Obsesivo Convulsivo), etc...
+Nuevas investigaciones se están centrando en su aplicación para trastornos como el TOC (Transtorno Obsesivo Compulsivo), etc...
 
 **Es importante recalcar que la ECP no es una cura, pero puede ayudarte en tu calidad de vida, mejorando muchos de los síntomas cotidianos de la Enfermedad de Parkinson, y reduciendo la cantidad de medicamentos a tomar, disminuyendo de esta manera las fluctuaciones motoras (cambios de ON-OFF) y los movimientos involuntarios (discinesias) que provoca dicha medicación.**
 
-Por lo que me contó a mí el neurocirujano jefe que dirigió mi primera operación, no se ha conseguido saber el fundamento físico por el que funciona. Por mi experiencia, y por lo sufrido en mis propias carnes, te aseguro que lo hace.
+Por lo que me explicó el neurocirujano jefe que dirigió mi primera operación, no se ha conseguido saber el fundamento físico por el que funciona, pero lo hace. Por mi experiencia, y por lo sufrido en mis propias carnes, te aseguro que lo hace.
 
  Si lo piensas un poco y te guías por la intuición que tuvo el Dr. Frankenstein al crear a su monstruo, si la comunicación de las neuronas se hace a través de impulsos eléctricos, lo más lógico es que se vean influidas si se les aplican otros impulsos eléctricos externos, en cierta manera.
 
