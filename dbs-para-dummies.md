@@ -51,55 +51,86 @@ En la versión "deluxe" del sistema (como la que tengo yo), cada contacto está 
 
 Hay una versión aún más mejorada, el aDBS, que es un DBS adaptativo, que en el momento de confeccionar este manual está en fase de pruebas, y que mencionaré más tarde...
 
-## ¿Eres candidato a la operación?
+## ¿Eres apto para la operación?
 
-En la actualidad se tiende a operar lo antes posible: Más fuerte a la hora de soportar la operación.
+Hasta hace relativamente pocos años, la implantación era prácticamente tu último cartucho, y se esperaba hasta tener una edad relativamente avanzada para realizarla, cuando los demás métodos dejaban de ser efectivos.
 
-Pruebas a realizar:
+En mi humilde opinión, los métodos quirúrgicos han avanzado y se han simplificado tanto (en todos los ámbitos, no sólo en el de este tipo de operación), que en la actualidad la implantación se tiende a realizar lo antes posible, en cuento tu calidad de vida se ve mermada de manera considerable.
 
-* La entrevista con el neurocirujano.
-* Tener fluctuaciones por la levodopa
-* Ingreso para comprobar estado de OFF (sin medicación en 12/24 horas) y estado de ON con una dosis excesiva de levodopa (challenge). Se debe notar que tus síntomas se reducen drásticamente.
-* Los escaneres: Del cuerpo, del cerebro para descartar lesiones
-* Evaluación cognitiva, los test de memoria: Si tienes pérdidas es muy probable que la estimulación te afecte más
+Es fácil que lo comprendas, si reflexionas sobre esta pregunta: ¿para qué sirve mejorar tu calidad de vida a edades más avanzadas, cuando probablemente contraigas otro tipo de enfermedades, que la acaben mermando aún mas?
+
+Además, no te voy a engañar... como verás más adelante en este manual, la operación requiere que estés lo más fuerte posible, tanto física como mentalmente, así que cuánto más joven seas, tu cuerpo será capaz de resistirla sin problemas, y serás capaz de recuperarte antes.
+
+Los expertos recomiendan que para someterte a la implantación, al menos hayan pasado cuatro años desde que empezaste a tomar levodopa, y que aunque se produzcan  fluctuaciones físicas (cambios pronunciados de ON a OFF), movimientos involuntarios de tu cuerpo que no puedes controlar (discinesias) y/o distonías (rigidez o contracción no controlada de los músculos), notes claramente el efecto de la medicación (es decir, que tengas un ON adecuado, aunque sea durante poco tiempo).
+
+Para saber si eres o no apto, debes pasar una serie de exámenes previos:
+
+* Una entrevista con el neurocirujano, para que evalúe realmente cual es tu situación.
+* Mediante un ingreso clínico, comprobar tu estado de OFF (sin medicación en 12/24 horas) y a continuación, comprobar tu estado de ON al ingerir una dosis excesiva de levodopa. Se debe notar que tus síntomas se reducen drásticamente en el estado de ON.
+* TACs y resonancias magnéticas, para comprobar cómo está tu cuerpo (y en especial, tu cerebro), para descartar lesiones o detectar posibles problemas que impidan la operación.
+* Evaluación cognitiva, que permite determinar el estado de tu memoria y detectar posibles signos de pérdida de la misma. Si esta evaluación es negativa, no se recomienda realizar la implantación (la estimulación neuronal puede agravar el problema).
 
 ## La operación quirúrgica
 
-**Detallar los riesgos de la operación.**
+**Ten en cuenta que toda operación en tu cuerpo implica riesgos. Aunque esta operación se considera de bajo riesgo, se pueden dar complicaciones como infecciones, hemorragias, etc... Para más información, consulta con tu neurocirujano.**
 
-### Previo a la operación
+### ¿Quién se encarga de la operación?
 
-Escaner para la neuronavegación: Mapa exhaustivo del cerebro, que el neurocirujano debe estudiar meticulosamente, para ver donde debe hacer la incisión en el cráneo y por donde debe bajar el electrodo hasta la zona profunda del cerebro.
+Es un equipo perfectamente coordinado y entrenado, con horas de experiencia, por lo que te puedo asegurar que estás en buenas manos:
 
-
-### A tener en cuenta en la operación
-
-* Colocación del casco de Dark Vader. Anestesia local para ajustarlo. Importante que quede bien ajustado
-* Dura varias horas en la que estás despierto, para comprobar tus reacciones.
-* No te tienes que preocupar si te hacen daño; el cerebro no tiene terminaciones nerviosas, por lo que no es necesario aplicar anestesia en él.
-* Importante estar cómodo: Tanto de manera postural como en cuestiones como de que tengas la boca seca. A la mínima incomodidad hacer un gesto para que se solucione, durante todo el proceso hay que intentar permanecer inmóvil.
-  
-### Quienes intervienen durante la operación
-
-Estas son las personas que intervienen. Lo hacen como un equipo perfectamente coordinado y entrenado, con horas de experiencia, por lo que te puedo asegurar que estás en buenas manos.
-
-* Neurocirujano jefe y su ayudante, que van dirigiendo y realizando la operación de implantación de los electrodos.
-* Neurofisiólogo, que controla todos lo referente al buen funcionamiento de los electrodos y estimulador.
-* Neurólogo: Se encarga de controlar si tu cuerpo reacciona debidamente a los estímulos eléctricos.
-* Anestesista: Se encarga de que estés cómodo, a base de todo tipo de anestesias locales.
+* Neurocirujanos y cirujanos generales, que van dirigiendo y realizando la operación de implantación de los electrodos.
+* Neurofisiólogos, que controlan todos lo referente al buen funcionamiento de los electrodos y estimulador.
+* Neurólogos: Se encargan de controlar si tu cuerpo reacciona debidamente a los estímulos eléctricos.
+* Anestesistas: Se encargan de que estés cómodo, a base de todo tipo de sedantes locales.
 * Personal de enfermería: Se encarga de auxiliar al resto de especialistas.
 
+### Unos días antes
 
-### Cómo es la operación de colocación de los electrodos, búsqueda de la diana.
+Te realizan un escáner para la "neuronavegación", que no es otra cosa que un mapa exhaustivo del cerebro, que el neurocirujano debe estudiar meticulosamente, para ver donde debe hacer la incisión en el cráneo y por donde debe bajar el electrodo hasta la zona profunda del cerebro.
 
-### Cómo es la colocación del estimulador
+### Unas horas antes
 
-### Post-operatorio
+Colocación del casco de Dark Vader. Anestesia local para ajustarlo. Importante que quede bien ajustado
 
-## Los parámetros que tu neurólogo puede modificar
+### En la operación
+
+La operación se realiza en dos fases.
+
+En una primera fase, se hace una apertura en el cráneo y se introduce el electrodo hasta la zona profunda del cerebro que haya decidido el equipo médico (denominada zona *diana*), se conecta el estimulador neuronal al electrodo a través de un cable y se hacen las pruebas pertinentes, estando despierto. Si es necesario, se introducen dos electrodos (uno por cada hemisferio del cerebro).
+
+En la segunda fase, ya superadas las pruebas de la primera, te aplican anestesia general para terminar de fijar los electrodos, cerrar el cuero cabelludo y colocar el estimulador en el pecho, de manera definitiva.
+
+Cuestiones a tener en cuenta durante el tiempo que estás en el quirófano:
+
+* Dura varias horas en la que estás despierto, para comprobar tus reacciones.
+* No te tienes que preocupar de si te hacen o no daño; el cerebro no tiene terminaciones nerviosas, por lo que no es necesario aplicar anestesia en él.
+* Importante estar cómodo: Tanto de manera postural como en cuestiones como de que tengas la boca seca. A la mínima incomodidad hacer un gesto para que se solucione, durante todo el proceso hay que intentar permanecer inmóvil.
+  
+## Post-operatorio en la clínica
+
+Después de la *paliza* que supone la operación, pasarás unos días en la clínica para recuperarte y realizar los ajustes iniciales del estimulador.
+
+### En la UCI
+
+Pasas un día en la UCI, monitorizado constantemente y con el estimulador apagado, donde a lo largo de ese interminable día, te realizan:
+
+* Pruebas de rayos X para ver si el estimulador del pecho está correctamente instalado
+* Escáner cerebral, para comprobar el estado del cerebro: Si se han producido lesiones, etc
+  
+### En tu habitación
+
+### Tu primera conexión
+
+### El alta médica
+
+## Post-operatorio en casa
+
+## Ajustes posteriores
 
 ## Referencias
 
-https://youtu.be/AmIzbNL22X0
+<https://youtu.be/AmIzbNL22X0>
 
-https://www.estimulacion-cerebral-profunda.es/home.html
+<https://www.estimulacion-cerebral-profunda.es/home.html>
+
+<https://www.mayoclinic.org/es/tests-procedures/deep-brain-stimulation/about/pac-20384562>
