@@ -170,10 +170,10 @@ El estimulador funciona generando una señal eléctrica muy parecida a cuando en
 
 ![Circuito interruptor](\assets\images\interruptor.gif "Interruptor ON-OFF")
 
-Si piensas en esta analogía, el neurólogo puede modificar ciertas variables, como son:
+El neurólogo puede modificar ciertas variables, como son:
 
-* La amplitud de la señal: Siguiendo con la analogía, puede hacer que la luz de la bombilla sea más o menos intensa. A mayor amplitud, la señal llega a las zonas más alejadas de la zona en la que está situado el electrodo.
-* La frecuencia de la señal: El número de veces por segundo en el que el generador está emitiendo señal o no lo está haciendo. En la analogía, a mayor frecuencia, la bombilla se encenderá y apagará más rápidamente, y a menor frecuencia, menos rápidamente.
+* La amplitud de la señal: Siguiendo con la analogía del interruptor, puede hacer que la luz de la bombilla sea más o menos intensa. A mayor amplitud, la señal llega a las zonas más alejadas de la zona en la que está situado el electrodo.
+* La frecuencia de la señal: El número de veces por segundo en el que el generador está emitiendo señal o no lo está haciendo. En la analogía del interruptor, a mayor frecuencia, la bombilla se encenderá y apagará más rápidamente, y a menor frecuencia, menos rápidamente.
 * A la hora de describir el electrodo, decíamos que éste era como un conector estéreo en su punta, que tenía varios "contactos" cilíndricos, y que cada uno estaba dividido a su vez en tres "sub-contactos". El neurólogo puede seleccionar por que "contactos" y "sub-contactos" radiar la señal, de manera que puede hacer que la estimulación llegue (o no) a distintas zonas del cerebro.
 
 Parece complejo, ¿verdad?: Pues aún puede jugar con la dosis de medicamento que te administrará, con lo que es aún más difícil el ajuste.
