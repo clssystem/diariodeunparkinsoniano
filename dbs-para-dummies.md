@@ -120,7 +120,7 @@ A tener en cuenta durante tu estancia en el quirófano:
   
 Después de la *paliza* que supone la intervención, pasarás unos días en la clínica para recuperarte y realizar los ajustes iniciales del estimulador.
 
-## En la UCI
+### En la UCI
 
 Si no surgen complicaciones, pasarás 24 horas en la UCI, monitorizado constantemente y con el estimulador apagado, donde te realizarán una serie de pruebas como las siguientes:
 
@@ -129,7 +129,7 @@ Si no surgen complicaciones, pasarás 24 horas en la UCI, monitorizado constante
   
 Para mí, con diferencia, lo más molesto fue lo apretada que debe estar *la capelina* (la venda de la cabeza), que hace que las orejas se pongan *hiper rojas* y duelan horriblemente, la sonda para orinar colocada en la uretra, y un reloj de pared en el que el minutero no avanza lo suficientemente rápido, mientras *sesteas*, dolorido y agotado en tu cama.
 
-## El ingreso en planta
+### El ingreso en planta
 
 Si todo va bien y no surgen complicaciones, pasarás de la UCI a planta.
 Empezarás a volver a las incomodidades de la enfermedad de Parkinson de tu vida normal, como si no te hubieran intervenido, y a tomar tu medicación como lo hacías habitualmente, a la espera de la conexión del estimulador neuronal.
@@ -138,7 +138,7 @@ Lo que más llama la atención de esta fase es que, para ver como te encuentras 
 
 Primero sólo te atreves a dar pequeños paseos, pero después recorres kilómetros y kilómetros de pasillos interminables, descubriendo los lugares más recónditos del edificio en el que estás recluido, asomándote por cada ventana que encuentras en tu camino, intentando respirar el aroma de tu libertad.
 
-## Tu primera conexión
+### La primera conexión
 
 Pasados unos días, se produce la primera conexión del estimulador.
 Después de notar una ligera sacudida eléctrica, empiezas a notar, casi instantáneamente, los efectos de la estimulación.
