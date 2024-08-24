@@ -202,12 +202,12 @@ Puedes leer como me sentí durante todo el proceso en la sección de Relatos X y
 
 ## Apéndice II: Referencias externas
 
-[Boston Scientific](https://www.estimulacion-cerebral-profunda.es/home.html)
+[DBS, Boston Scientific](https://www.estimulacion-cerebral-profunda.es/home.html)
 
-[Clínica Mayo](https://www.mayoclinic.org/es/tests-procedures/deep-brain-stimulation/about/pac-20384562)
+[DBS, Clínica Mayo](https://www.mayoclinic.org/es/tests-procedures/deep-brain-stimulation/about/pac-20384562)
 
-[National Institute of Health](https://espanol.ninds.nih.gov/es/trastornos/forma-larga/estimulacion-cerebral-profunda-para-trastornos-del-movimiento)
+[DBS, National Institute of Health](https://espanol.ninds.nih.gov/es/trastornos/forma-larga/estimulacion-cerebral-profunda-para-trastornos-del-movimiento)
 
-[Medtronic](https://www.medtronic.com/es-es/tu-salud/tratamientos-y-terapias/enfermedad-parkinson/tratamiento.html)
+[DBS, Medtronic](https://www.medtronic.com/es-es/tu-salud/tratamientos-y-terapias/enfermedad-parkinson/tratamiento.html)
 
-[aDBS](https://www.infobae.com/salud/2024/08/19/un-implante-cerebral-ayuda-a-domar-el-parkinson-para-facilitar-la-vida-diaria/)
+[aDBS, Adaptative DBS](https://www.infobae.com/salud/2024/08/19/un-implante-cerebral-ayuda-a-domar-el-parkinson-para-facilitar-la-vida-diaria/)
