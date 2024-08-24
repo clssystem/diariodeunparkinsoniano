@@ -200,9 +200,9 @@ Puedes leer como me sentí durante todo el proceso en la sección de Relatos X y
 
 ## Apéndice II: Referencias externas
 
-[DBS-Boston Scientific](https://www.estimulacion-cerebral-profunda.es/home.html).
+[DBS-Boston Scientific](https://www.estimulacion-cerebral-profunda.es/home.html):
 
- (<https://tinyurl.com/4em36jks>)
+<https://tinyurl.com/4em36jks>
 
 [DBS-Clínica Mayo](https://www.mayoclinic.org/es/tests-procedures/deep-brain-stimulation/about/pac-20384562):
 
