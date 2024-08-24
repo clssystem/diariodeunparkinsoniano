@@ -185,7 +185,7 @@ Para finalizar con el tema de los ajustes, en el momento de escribir este manual
 
 ## Apéndice I: Entradas relacionadas de mi diario
 
-Aquí puedes leer mis reflexiones en [diariodeunparkinsoniano](/allposts), conforme fui pasando por todos los estadios de mis operaciones:
+Puedes leer mis reflexiones sobre el paso por todos los estadios de mis implantaciones, en [diariodeunparkinsoniano](/allposts):
 
 ### Primera operación
 
@@ -198,7 +198,6 @@ Puedes leer cómo me sentí durante todo el proceso en la sección de Relatos X 
 Como los resultados de la primera implantación fueron *regulinchi*, me sometí a una segunda intervención.
 
 Puedes leer como me sentí durante todo el proceso en la sección de Relatos X y XI en [Entradas](/allposts), en los posts que van desde [Un nuevo día de la marmota](/post/2023/02/02/un-nuevo-dia-de-la-marmota) a [Sólo queda esperar y ser paciente](/post/2023/02/19/solo-queda-esperar-y-ser-paciente)
-
 
 ## Apéndice II: Referencias externas
 
