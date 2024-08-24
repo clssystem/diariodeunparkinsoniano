@@ -182,7 +182,6 @@ Como te digo, y sobre todo las primeras veces, es un proceso de *prueba-error*, 
 
 Para finalizar con el tema de los ajustes, en el momento de escribir este manual, se habla de un nuevo DBS, el DBS adaptativo (aDBS), que es capaz de regularse de manera automática. Por ejemplo, midiendo la actividad anormal del cerebro, comparándola con "patrones normales", y en función de la medición, aumentar o disminuir "de manera automática" la estimulación.
 
-
 ## Apéndice I: Entradas relacionadas de mi diario
 
 Puedes leer mis reflexiones sobre el paso por todos los estadios de mis implantaciones, en [diariodeunparkinsoniano](/allposts):
@@ -203,10 +202,10 @@ Puedes leer como me sentí durante todo el proceso en la sección de Relatos X y
 
 [DBS-Boston Scientific](https://www.estimulacion-cerebral-profunda.es/home.html)
 
-[DBS-Clínica Mayo](https://www.mayoclinic.org/es/tests-procedures/deep-brain-stimulation/about/pac-20384562)
+[DBS-Clínica Mayo](https://www.mayoclinic.org/es/tests-procedures/deep-brain-stimulation/about/pac-20384562)<https://tinyurl.com/zwvszrnj>
 
-[DBS-National Institute of Health](https://espanol.ninds.nih.gov/es/trastornos/forma-larga/estimulacion-cerebral-profunda-para-trastornos-del-movimiento)
+[DBS-National Institute of Health](https://espanol.ninds.nih.gov/es/trastornos/forma-larga/estimulacion-cerebral-profunda-para-trastornos-del-movimiento)<https://tinyurl.com/565rtbyv>
 
-[DBS-Medtronic](https://www.medtronic.com/es-es/tu-salud/tratamientos-y-terapias/enfermedad-parkinson/tratamiento.html)
+[DBS-Medtronic](https://www.medtronic.com/es-es/tu-salud/tratamientos-y-terapias/enfermedad-parkinson/tratamiento.html)<https://tinyurl.com/yzmxezw6>
 
 [aDBS-Adaptative DBS](https://www.infobae.com/salud/2024/08/19/un-implante-cerebral-ayuda-a-domar-el-parkinson-para-facilitar-la-vida-diaria/)
