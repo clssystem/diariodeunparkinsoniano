@@ -180,7 +180,7 @@ Parece complejo, ¿verdad?: Pues aún puede jugar con la dosis de medicamento qu
 
 Como te digo, y sobre todo las primeras veces, es un proceso de *prueba-error*, en el que según va modificando los parámetros, tu vas sintiendo el efecto en tu cuerpo: Aumento o disminución del temblor, de la rigidez de las extremidades... los cambios pueden afectar también a los gestos de tu cara, al habla...
 
-Para finalizar con el tema de los ajustes, en el momento de escribir este manual, se habla de un nuevo DBS, el DBS adaptativo (aDBS), que es capaz de regularse de manera automática. Por ejemplo, midiendo la cantidad de dopamina que hay en tu cuerpo, y en función de la medición, aumentar o disminuir "de manera automática" la estimulación.
+Para finalizar con el tema de los ajustes, en el momento de escribir este manual, se habla de un nuevo DBS, el DBS adaptativo (aDBS), que es capaz de regularse de manera automática. Por ejemplo, midiendo la actividad anormal del cerebro, comparándola con "patrones normales", y en función de la medición, aumentar o disminuir "de manera automática" la estimulación.
 
 
 ## Apéndice I: Entradas relacionadas de mi diario
