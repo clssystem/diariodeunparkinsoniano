@@ -200,23 +200,23 @@ Puedes leer como me sentí durante todo el proceso en la sección de Relatos X y
 
 ## Apéndice II: Referencias externas
 
-[DBS-Boston Scientific](https://www.estimulacion-cerebral-profunda.es/home.html):
+DBS-Boston Scientific:
 
 <https://tinyurl.com/4em36jks>
 
-[DBS-Clínica Mayo](https://www.mayoclinic.org/es/tests-procedures/deep-brain-stimulation/about/pac-20384562):
+DBS-Clínica Mayo:
 
 <https://tinyurl.com/zwvszrnj>
 
-[DBS-National Institute of Health](https://espanol.ninds.nih.gov/es/trastornos/forma-larga/estimulacion-cerebral-profunda-para-trastornos-del-movimiento):
+DBS-National Institute of Health:
 
 <https://tinyurl.com/565rtbyv>
 
-[DBS-Medtronic](https://www.medtronic.com/es-es/tu-salud/tratamientos-y-terapias/enfermedad-parkinson/tratamiento.html):
+DBS-Medtronic:
 
 <https://tinyurl.com/yzmxezw6>
 
-[aDBS-Adaptative DBS](https://www.infobae.com/salud/2024/08/19/un-implante-cerebral-ayuda-a-domar-el-parkinson-para-facilitar-la-vida-diaria/):
+aDBS-Adaptative DBS:
 
 <https://tinyurl.com/4acdwcjh>
 
