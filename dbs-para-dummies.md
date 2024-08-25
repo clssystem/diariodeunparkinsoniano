@@ -13,7 +13,7 @@ seo:
 ---
 ## Unas palabras sobre este manual
 
-Cuando estudiaba en la universidad —como suelo decir, en los tiempos del pleistoceno— había una colección de libros "para dummies", que te servían para aprender, de manera rápida y un poco vaga (de ahí lo de "para dummies", que significa "vago" o "torpe" en inglés), los más variados lenguajes de programación, o cualquier otro tipo de tecnología informática.
+Cuando estudiaba en la universidad —como suelo decir, en los tiempos del pleistoceno— había una colección de libros "para dummies", que te servían para aprender, de manera rápida y un poco vaga (de ahí lo de "para *dummies*", que significa "vago" o "torpe" en inglés), los más variados lenguajes de programación, o cualquier otro tipo de tecnología informática.
 
 Entre que estoy un poco nostálgico, y que ya hace más de un año de mi primera operación, me he decidido a crear mi propia edición de "DBS para dummies", para intentar, en la medida de lo posible, explicar que es esto del Deep Brain Stimulation (o ECP, Estimulación Cerebral Profunda, en español), desde el punto de vista de un paciente ya operado, con la esperanza de que tú, querido lector que me sufres y me padeces, puedas entenderlo en un lenguaje más llano, menos profundo y técnico, aderezándolo con un poco de humor.
 
@@ -182,17 +182,17 @@ Como te digo, y sobre todo las primeras veces, es un proceso de *prueba-error*, 
 
 Para finalizar con el tema de los ajustes, en el momento de escribir este manual, se habla de un nuevo DBS, el DBS adaptativo (aDBS), que es capaz de regularse de manera automática. Por ejemplo, midiendo la actividad anormal del cerebro, comparándola con "patrones normales", y en función de la medición, aumentar o disminuir "de manera automática" la estimulación.
 
-## Apéndice I: Entradas relacionadas de mi diario
+## Apéndice I: Mi experiencia personal 
 
-Puedes leer mis reflexiones sobre el paso por todos los estadios de mis implantaciones, en [diariodeunparkinsoniano](/allposts):
+Puedes leer mis reflexiones, por supuesto totalmente subjetivas, en [diariodeunparkinsoniano](/allposts):
 
-### Primera operación
+### Primera intervención quirúrgica
 
 En ella me implantaron dos electrodos, uno para el lado de mi cuerpo afectado (el derecho), y otro para el izquierdo (que no estaba afectado, pero que se implantó "por si acaso").
 
 Puedes leer cómo me sentí durante todo el proceso en la sección de Relatos X en [Entradas](/allposts), en los posts que van desde [Hoy puede ser un gran día](/post/2022/01/16/hoy-puede-ser-un-gran-dia) a [Diagrama de radiación](/post/2022/08/11/diagrama-de-radiacion)
 
-### Segunda operación
+### Segunda intervención quirúrgica
 
 Como los resultados de la primera implantación fueron *regulinchi*, me sometí a una segunda intervención.
 
