@@ -88,7 +88,7 @@ Es un equipo cualificado, perfectamente coordinado y entrenado, con horas de exp
 
 ### Días antes de la intervención
 
-Te realizan un escáner para la "neuronavegación", que no es otra cosa que un mapa exhaustivo del cerebro, que el neurocirujano debe estudiar minuciosamente, para localizar donde debe hacer la incisión en el cráneo, y el camino por donde debe bajar el electrodo, hasta la zona profunda del cerebro donde irá implantado.
+Te realizan un escáner para la "neuronavegación", que no es otra cosa que un mapa exhaustivo del cerebro, que el neurocirujano estudiará minuciosamente, para localizar donde debe hacer la incisión en el cráneo, y el camino por donde debe bajar el electrodo, hasta la zona profunda del cerebro donde irá implantado.
 
 ### Un poco antes de la intervención
 
