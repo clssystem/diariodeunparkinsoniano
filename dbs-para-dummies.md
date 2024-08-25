@@ -140,12 +140,12 @@ Primero sólo te atreves a dar pequeños paseos, pero después recorres kilómet
 
 ### La primera conexión
 
-Pasados unos días, se produce la primera conexión del estimulador.
-Después de notar una ligera sacudida eléctrica, empiezas a notar, casi instantáneamente, los efectos de la estimulación.
+Días más tarde, se produce la primera conexión del estimulador.
+Después de una ligera sacudida eléctrica, que recorre tu cuerpo, empiezas a notar, casi instantáneamente, los efectos de la estimulación.
 
 Dejas de temblar y tu cuerpo nota una paz inmensa, casi olvidada, después de tantos años de degeneración en tu calidad de vida.
 
-Al mismo tiempo, empiezan a reducir de manera drástica la medicación, intentando conjugar sus efectos con los del estimulador, buscando el equilibrio adecuado.
+Al mismo tiempo, empiezan a reducir de manera considerable la medicación, intentando conjugar sus efectos con los del estimulador, buscando el equilibrio adecuado.
 
 En mi caso, gracias a "las pruebas in-situ" en el quirófano, el ajuste fue prácticamente mínimo. En otros casos, dependiendo de cómo te afecte el binomio medicación-estimulador, el equilibrio puede costar en llegar.
 
@@ -153,7 +153,7 @@ Una vez conseguido, los médicos te advierten de que el ajuste no será definiti
 
 ### El alta médica y el post-operatorio en casa
 
-Pasados unos cuantos días, en lo que poco a poco has ido recuperando tu vida *preparkinsoniana*, con los efectos de la Enfermedad de Parkinson ya reducidos, recibes el alta médica y vuelves a casa lleno de grapas y puntos de sutura en tu cabeza y en tu pecho, en donde continuarás con la recuperación.
+Pasados unos cuantos días, en los que poco a poco has ido recuperando tu vida *preparkinsoniana*, con los efectos de la Enfermedad de Parkinson ya reducidos, recibes el alta médica y vuelves a casa lleno de grapas y puntos de sutura en tu cabeza y en tu pecho, en donde continuarás con la recuperación.
 
 Como toda intervención quirúrgica, los cuidados son similares:
 
@@ -176,7 +176,7 @@ El neurólogo puede modificar ciertas variables, como son:
 
 * La amplitud de la señal: Siguiendo con la analogía del interruptor, puede hacer que la luz de la bombilla sea más o menos intensa. A mayor amplitud, la señal llega a las zonas más alejadas de la zona en la que está situado el electrodo.
 * La frecuencia de la señal: El número de veces por segundo en el que el generador está emitiendo señal o no lo está haciendo. En la analogía del interruptor, a mayor frecuencia, la bombilla se encenderá y apagará más rápidamente, y a menor frecuencia, menos rápidamente.
-* A la hora de describir el electrodo, decíamos que éste era como un conector estéreo en su punta, que tenía varios "contactos" cilíndricos, y que cada uno estaba dividido a su vez en tres "sub-contactos". El neurólogo puede seleccionar por que "contactos" y "sub-contactos" radiar la señal, de manera que puede hacer que la estimulación llegue (o no) a distintas zonas del cerebro.
+* A la hora de describir el electrodo, decíamos que éste era como un conector estéreo en su punta, que tenía varios "contactos" cilíndricos, y que cada uno estaba dividido a su vez en tres "sub-contactos". El neurólogo puede seleccionar por que "contactos" y "sub-contactos" radiar la señal, de manera que puede hacer que la estimulación llegue (o no) a distintas zonas del cerebro, de manera mas localizada.
 
 Parece complejo, ¿verdad?: Pues aún puede jugar con la dosis de medicamento que te administrará, con lo que es aún más difícil el ajuste.
 
