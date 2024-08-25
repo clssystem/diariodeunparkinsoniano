@@ -92,7 +92,7 @@ Te realizan un escáner para la "neuronavegación", que no es otra cosa que un m
 
 ### Un poco antes de la intervención
 
-Para poder realizar la implantación, tu cabeza debe estar completamente inmóvil, y de tal forma que debe estar en todo momento en la misma posición. Para ello, es necesario colocar en tu cabeza una especie de estructura metálica, el marco  estereotáctico, que en cuanto me lo empezaron a colocar, me recordó al interior del casco de Dark Vader, en la escena en la que éste es salvado por Luke SkyWalker, en una de las películas de La Guerra de las Galaxias.
+Para poder realizar la implantación, tu cabeza debe estar completamente inmóvil, y de tal forma que debe estar en todo momento en la misma posición. Para ello, es necesario colocar en tu cabeza una especie de estructura metálica, el marco  estereotáctico, que en cuanto me lo empezaron a colocar, me recordó al interior del casco de Dark Vader, en la escena en la que éste es salvado por Luke SkyWalker, en una de las películas de la saga de "La Guerra de las Galaxias".
 
 El casco va fijado a tu cabeza con unos tornillos colocados en varias zonas localizadas de tu cráneo, que previamente han sido sedadas, y en las que prácticamente no sentirás ningún dolor.
 
@@ -153,7 +153,7 @@ Una vez conseguido, los médicos te advierten de que el ajuste no será definiti
 
 ### El alta médica y el post-operatorio en casa
 
-Pasados unos cuantos días, en lo que poco a poco has ido recuperando tu vida *pre-parkinsoniana*, con los efectos de la Enfermedad de Parkinson ya reducidos, recibes el alta médica y vuelves a casa donde sigues tu recuperación.
+Pasados unos cuantos días, en lo que poco a poco has ido recuperando tu vida *preparkinsoniana*, con los efectos de la Enfermedad de Parkinson ya reducidos, recibes el alta médica y vuelves a casa lleno de grapas y puntos de sutura en tu cabeza y en tu pecho, en donde continuarás con la recuperación.
 
 Como toda intervención quirúrgica, los cuidados son similares:
 
@@ -165,6 +165,8 @@ Como toda intervención quirúrgica, los cuidados son similares:
 ## Ajustes posteriores
 
 Normalmente, transcurrido un mes de la intervención, se deben realizar una serie de ajustes en la estimulación.
+
+Además, para entonces, tus heridas externas ya estarán mejor, y ya no quedarán ni grapas ni puntos de sutura.
 
 El estimulador funciona generando una señal eléctrica muy parecida a cuando enciendes y apagas el interruptor de la luz, y haces que una bombilla luzca.
 
