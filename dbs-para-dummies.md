@@ -21,7 +21,7 @@ Principalmente va dirigido a las personas enfermas de Parkinson, especialmente a
 
 Tan sólo detallo aquí mi experiencia —me han realizado hasta la fecha dos operaciones de implantación—, e intentar darte un poco más de información, a través de mi punto de vista, personal y espero que transferible.
 
-Todo lo vivido por mí está detallado en mi blog *diariodeunparkinsoniano*, del que he puesto las referencias a las entradas relacionadas en la sección de este manual "Mi experiencia personal".
+Todo lo vivido por mí está detallado en mi blog *diariodeunparkinsoniano*, del que he puesto las referencias a las entradas relacionadas en el apéndice I de este manual,  "Mi experiencia personal".
 
 Y por supuesto, y para finalizar esta pequeña introducción: No pretendo faltarte al respeto llamándote vago, ni nada por el estilo ...
 
