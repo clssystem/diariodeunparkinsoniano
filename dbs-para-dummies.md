@@ -48,10 +48,10 @@ La batería puede ser recargable —por supuesto, sin cables, por contacto con u
 
 * Varios centímetros de cable flexible (la "extensión"), recubierto de un aislante para que no haga contacto en la parte incorrecta de tu cuerpo, que recorre toda tu piel, desde el pecho (donde está tu estimulador) hasta la parte superior de tu cabeza (donde están los electrodos), como si fuesen los cables eléctricos de tu casa.
 
-* Finalmente, el electrodo, ese estilete que se coloca en la zona profunda (y dañada) del hemisferio (o hemisferios, si tienes afectados tus dos lados). Yo imagino un electrodo como un conector de música estéreo (como los de un antiguo walkman, o el cable con el que escuchas y hablas con tu smartphone), que no es otra cosa que un cable flexible con el final de su punta rematado por 4 contactos cilíndricos, separados y aislados entre sí por una distancia milimétrica, que permiten irradiar la señal producida por el generador de pulsos eléctricos, cada uno de ellos en una pequeña parte de tu cerebro, como si fuese una especie de antena. 
+* Finalmente, el electrodo, ese estilete que se coloca en la zona profunda (y dañada) del hemisferio (o hemisferios, si tienes afectados tus dos lados). Yo imagino un electrodo como un cable de música estéreo (como los de un antiguo walkman, o con el que escuchas y hablas en tu smartphone), que no es otra cosa que un cable flexible con el final de su punta rematado por varios contactos cilíndricos, separados y aislados entre sí por una distancia milimétrica, que permiten irradiar la señal producida por el generador de pulsos eléctricos, cada uno de ellos en una pequeña parte de tu cerebro, como si fuesen una especie de antenas. 
 En la versión "deluxe" del sistema (como la que tengo yo), cada contacto está divido en otros tres, de manera que esa radiación puede ser más direccional, permitiendo atacar a una parte mucho más localizada de tu cerebro. En concreto, cada "sub-contacto" cubre 120 grados , de manera que los tres cubren los 360 grados, alrededor del contacto al que pertenecen.
 
-Hay una versión aún más mejorada, el aDBS, que es un DBS adaptativo, que en el momento de confeccionar este manual está en fase de pruebas, y que mencionaré más tarde, en el momento de tratar el tema de los ajustes de la terapia por parte del neurólogo.
+Hay una versión aún más mejorada, el aDBS, que es un DBS adaptativo, que en el momento de confeccionar este manual está en fase de pruebas, y del que hablaré más tarde, a la hora de tratar el tema de los ajustes de la terapia por parte del neurólogo.
 
 ## ¿Eres un candidato adecuado?
 
@@ -61,7 +61,7 @@ En mi humilde opinión, los métodos quirúrgicos han avanzado y se han simplifi
 
 Es fácil de comprender, si reflexionas sobre esta pregunta: ¿para qué sirve mejorar tu calidad de vida a edades más avanzadas, cuando probablemente contraigas otro tipo de enfermedades, que la acaben mermando aún mas?
 
-Además, no te voy a engañar... como verás más adelante en este manual, la operación requerirá de tí un esfuerzo muy notable, tanto física como mentalmente, así que cuánto menos trabajado tengas el cuerpo, mejor será tu aguante y recuperación posterior.
+Además, no te voy a engañar... como verás más adelante en este manual, la operación requerirá de tí un esfuerzo muy notable, tanto físico como mental, así que cuánto menos trabajado tengas el cuerpo, mejor será tu aguante y recuperación posterior.
 
 Los expertos recomiendan que para someterse a la implantación, al menos hayan pasado cuatro años desde la primera toma de levodopa, y que aunque se produzcan  fluctuaciones físicas en tu cuerpo (cambios pronunciados de ON a OFF), discinesias (movimientos involuntarios que no puedas controlar) y/o distonías (rigidez o contracción indeseada de tus músculos), notes claramente el efecto de la medicación. En resumen, que tu ON, aunque breve, sea de calidad.
 
