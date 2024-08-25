@@ -74,7 +74,7 @@ El protocolo  —al menos, el que seguí yo— consta de los siguientes pasos:
 
 ## La operación quirúrgica
 
-**Ten en cuenta que toda operación implica riesgos. Aunque esta operación se considera de bajo riesgo, se pueden producir complicaciones como infecciones, hemorragias, etc... Para más información, consulta con tu neurocirujano.**
+**Ten en cuenta que toda operación implica riesgos. Aunque esta operación se considera de relativamente bajo riesgo, se pueden producir complicaciones como infecciones, hemorragias, etc... Para más información, consulta con tu neurocirujano.**
 
 ### ¿Quién se encarga de la intervención?
 
@@ -92,13 +92,13 @@ Te realizan un escáner para la "neuronavegación", que no es otra cosa que un m
 
 ### Un poco antes de la intervención
 
-Para poder realizar la implantación, tu cabeza debe estar completamente inmóvil, y de tal forma que debe estar en todo momento en la misma posición. Para ello, es necesario colocar en tu cabeza una especie de estructura metálica, el marco  estereotáctico, que en cuanto lo empezaron a colocar, me recordó al interior del casco de Dark Vader, en la escena en la que éste es salvado por Luke SkyWalker en la Guerra de las Galaxias.
+Para poder realizar la implantación, tu cabeza debe estar completamente inmóvil, y de tal forma que debe estar en todo momento en la misma posición. Para ello, es necesario colocar en tu cabeza una especie de estructura metálica, el marco  estereotáctico, que en cuanto me lo empezaron a colocar, me recordó al interior del casco de Dark Vader, en la escena en la que éste es salvado por Luke SkyWalker, en una de las películas de La Guerra de las Galaxias.
 
-El casco va fijado a tu cabeza con unos tornillos colocados en varias zonas localizadas de tu cráneo, que previamente han sido sedadas, y en las que prácticamente no sentirás nada.
+El casco va fijado a tu cabeza con unos tornillos colocados en varias zonas localizadas de tu cráneo, que previamente han sido sedadas, y en las que prácticamente no sentirás ningún dolor.
 
-Una vez colocado, escanean de nuevo tu cerebro, y realizan las marcas adecuadas en la imagen. Es como establecer un sistema de coordenadas, por el que se moverán durante toda la intervención.
+Una vez colocado, escanean de nuevo tu cerebro, y realizan las marcas adecuadas en la imagen. Es como establecer un sistema de coordenadas, que utilizarán para orientarse durante toda la intervención.
 
-**Es muy importante que estés cómodo con el casco, porque lo vas a tener puesto durante unas cuantas horas, así que si notas cualquier molestia, por insignificante que te parezca, se lo comuniques al personal.**
+**Es muy importante que estés cómodo con el casco, porque lo vas a llevar puesto durante unas cuantas horas, así que si notas cualquier molestia, por insignificante que te parezca, se lo comuniques al personal.**
 
 ### La intervención
 
@@ -114,11 +114,11 @@ En la segunda fase, ya superadas las pruebas de la primera, te aplican anestesia
 A tener en cuenta durante tu estancia en el quirófano:
 
 * Estarás varias horas consciente, porque es necesario comprobar tus reacciones a la estimulación.
-* No tienes que preocuparte del dolor; el cerebro no tiene terminaciones nerviosas, por lo que no es necesario aplicar anestesia en él, y para el resto del cuerpo, siempre te pueden sedar localmente.
+* No tienes que preocuparte por el dolor; el cerebro no tiene terminaciones nerviosas, por lo que no es necesario aplicar anestesia en él, y para el resto del cuerpo, siempre te pueden sedar localmente.
 * Es importante permanecer inmóvil: Tu postura en la mesa de operaciones debe ser lo más cómoda posible. Otras cuestiones, cómo evitar que tu boca esté reseca es importante, para evitar toser.
 * A la mínima incomodidad, debes quejarte para que se solucione. Una pequeña molestia puede convertirse en un verdadero problema que de al traste con el éxito de la operación si pasan horas sin solucionarse.
   
-Después de la *paliza* que supone la intervención, pasarás unos días en la clínica para recuperarte y realizar los ajustes iniciales del estimulador.
+Después de el esfuerzo que supone la intervención, pasarás unos días en la clínica para recuperarte y realizar los ajustes iniciales del estimulador.
 
 ### En la UCI
 
@@ -127,7 +127,7 @@ Si no surgen complicaciones, pasarás 24 horas en la UCI, monitorizado constante
 * Rayos X de tu pecho, para ver si el estimulador está correctamente instalado, lo mismo que el cable.
 * Escáner cerebral, para comprobar el estado del cerebro: Si se han producido lesiones, etc.
   
-Para mí, con diferencia, lo más molesto fue lo apretada que debe estar *la capelina* (la venda de la cabeza), que hace que las orejas se pongan *hiper rojas* y duelan horriblemente, la sonda para orinar colocada en la uretra, y un reloj de pared en el que el minutero no avanza lo suficientemente rápido, mientras *sesteas*, dolorido y agotado en tu cama.
+Para mí, con diferencia, lo más molesto fue lo apretada que debe estar la *capelina* (la venda de la cabeza), que hace que las orejas se pongan *hiper rojas* y duelan horriblemente, la sonda para orinar colocada en la uretra, y un reloj de pared en el que el minutero no avanza lo suficientemente rápido, mientras *sesteas*, dolorido y agotado en tu cama.
 
 ### El ingreso en planta
 
