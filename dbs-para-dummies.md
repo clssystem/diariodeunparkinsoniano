@@ -259,7 +259,7 @@ DBS-Boston Scientific:
 
 DBS-Clínica Mayo:
 
-<https://tinyurl.com/DBSClinicaMayo>
+<https://tinyurl.com/zwvszrnj>
 
 DBS-National Institute of Health:
 
