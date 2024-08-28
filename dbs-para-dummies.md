@@ -278,9 +278,12 @@ Infobae-Adaptative DBS:
 <https://tinyurl.com/InfobaeDBS>
 
 
-
 ## Apéndice IV: Agradecimientos
 
-A todo el personal de la CUN (Clínica Universidad de Navarra), en especial al Dr. Guridi, Dra. Avilés, Dr. González... y a la unidad de trastornos de movimiento del CHN (Complejo Hospitalario de Navarra), y en especial a mi neurólogo el Dr. Clavero, por sus cuidados y trato, y por la aprobación de este manual (**si se da el caso**).
+A todo el personal de la CUN (Clínica Universidad de Navarra), en especial al Dr. Guridi, Dra. Avilés, Dr. González...  
 
-A Jesús Chocarro y al resto de "intervenidos", por la revisión y opiniones sobre este manual.
+A la unidad de trastornos de movimiento del CHN (Complejo Hospitalario de Navarra), y en especial a mi neurólogo, Dr. Clavero.
+
+A todos ellos, muchas gracias por sus cuidados y trato, y por la aprobación de este manual (**si se da el caso**).
+
+A Jesús Chocarro y al resto de "intervenidos", por su amistad, críticas y comprensión.
