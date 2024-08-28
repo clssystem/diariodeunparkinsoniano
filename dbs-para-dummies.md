@@ -31,7 +31,7 @@ Y por supuesto, y para finalizar esta pequeña introducción: No pretendo faltar
 
 DBS (Deep Brain Stimulation) consiste en enviar señales eléctricas a tu cerebro y más en concreto, en hacerlo a la zona profunda del mismo (de ahí su nombre, Estimulación Cerebral Profunda, ECP en español).
 
-Se ha demostrado que, dependiendo de la zona estimulada, la DBS se puede utilizar para minimizar algunos efectos del Parkinson que a mí, particularmente, me afectaban demasiado: la distonía (rigidez o contracción indeseada de tus músculos) y los temblores incapacitantes.
+Se ha demostrado que, dependiendo de la zona estimulada, la DBS se puede utilizar para minimizar algunos efectos del Parkinson que a mí, particularmente, me afectaban demasiado: la distonía (rigidez o contracción indeseada de tus músculos, sostenida e intermitente) y los temblores incapacitantes.
 
 Nuevas investigaciones se están centrando en su aplicación para trastornos como el TOC (Transtorno Obsesivo Compulsivo), etc...
 
