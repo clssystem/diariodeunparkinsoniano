@@ -29,9 +29,9 @@ seo:
   - [Segunda intervención quirúrgica](#segunda-intervención-quirúrgica)
 - [Apéndice II: Opiniones de "intervenidos"](#apéndice-ii-opiniones-de-intervenidos)
   - [Jesús Chocarro](#jesús-chocarro)
-  - [Mila](#mila)
-  - [Mariaje](#mariaje)
-  - [Otros](#otros)
+  - [Mila Ortín](#mila-ortín)
+  - [Maria Jesús Urrutia](#maria-jesús-urrutia)
+  - [Otros "intervenidos"](#otros-intervenidos)
 - [Apéndice III: Referencias externas](#apéndice-iii-referencias-externas)
 - [Apéndice IV: Agradecimientos](#apéndice-iv-agradecimientos)
 
@@ -240,11 +240,11 @@ Puedes leer como me sentí durante todo el proceso en la sección de Relatos X y
 
 ### Jesús Chocarro
 
-### Mila
+### Mila Ortín
 
-### Mariaje
+### Maria Jesús Urrutia
 
-### Otros
+### Otros "intervenidos"
 
 
 ## Apéndice III: Referencias externas
@@ -271,7 +271,7 @@ DBS-Medtronic:
 
 Afán por saber DBS:
 
-<https://tinyurl.com/AfanSaberDBS>
+<https://tinyurl.com/AfanDBS>
 
 Infobae-Adaptative DBS:
 
