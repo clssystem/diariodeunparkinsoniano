@@ -110,7 +110,7 @@ El protocolo —al menos, el que seguí yo— consta de los siguientes pasos:
 
 ### ¿Quién se encarga de la intervención?
 
-Es un equipo cualificado, multidisciplinar (neurocirujanos y cirujanos generales, neurofisiólogos, neurólogos, anestesistas, personal de enfermería, auxiliares) perfectamente coordinado y entrenado, con horas de experiencia, por lo que te puedo asegurar que estarás en muy buenas manos.
+Es un equipo cualificado, multidisciplinar (formado por neurocirujanos y cirujanos generales, neurofisiólogos, neurólogos, anestesistas, personal de enfermería y auxiliares), perfectamente coordinado y entrenado, con horas de experiencia, por lo que te puedo asegurar que estarás en muy buenas manos.
 
 ### Días antes de la intervención
 
