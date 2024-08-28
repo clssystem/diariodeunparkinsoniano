@@ -267,7 +267,7 @@ DBS-National Institute of Health:
 
 DBS-Medtronic:
 
-<https://tinyurl.com/MedtronicEPDBS>
+<https://tinyurl.com/yzmxezw6>
 
 Afán por saber DBS:
 
