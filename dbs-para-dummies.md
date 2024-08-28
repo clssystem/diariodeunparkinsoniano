@@ -128,7 +128,7 @@ Una vez colocado, escanean de nuevo tu cerebro, y realizan las marcas adecuadas 
 
 ### La intervención
 
-La operación se realiza en dos fases, y puede realizarse en varias sesiones quirúrgicas.
+La operación se realiza en dos fases, y puede requerir varias sesiones quirúrgicas.
 
 En la primera fase, se retira una mínima parte de cuero cabelludo, se realiza una incisión en el cráneo y se introduce el electrodo hasta la *zona diana*, la zona profunda del cerebro seleccionada previamente por el equipo médico.
 
