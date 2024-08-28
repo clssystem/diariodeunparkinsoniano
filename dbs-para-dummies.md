@@ -11,7 +11,32 @@ sitemap: false
 seo:
  robots: [noindex,nofollow]
 ---
-## Unas palabras sobre este manual
+- [Introducción](#introducción)
+- [Funcionamiento y componentes](#funcionamiento-y-componentes)
+- [¿Cuándo se plantea la operación?](#cuándo-se-plantea-la-operación)
+- [La operación quirúrgica](#la-operación-quirúrgica)
+  - [¿Quién se encarga de la intervención?](#quién-se-encarga-de-la-intervención)
+  - [Días antes de la intervención](#días-antes-de-la-intervención)
+  - [Un poco antes de la intervención](#un-poco-antes-de-la-intervención)
+  - [La intervención](#la-intervención)
+  - [En la UCI](#en-la-uci)
+  - [El ingreso en planta](#el-ingreso-en-planta)
+  - [La primera conexión](#la-primera-conexión)
+  - [El alta médica y el post-operatorio en casa](#el-alta-médica-y-el-post-operatorio-en-casa)
+- [Ajustes posteriores](#ajustes-posteriores)
+- [Apéndice I: Mi experiencia personal](#apéndice-i-mi-experiencia-personal)
+  - [Primera intervención quirúrgica](#primera-intervención-quirúrgica)
+  - [Segunda intervención quirúrgica](#segunda-intervención-quirúrgica)
+- [Apéndice II: Opiniones de "intervenidos"](#apéndice-ii-opiniones-de-intervenidos)
+  - [Jesús Chocarro](#jesús-chocarro)
+  - [Mila](#mila)
+  - [Mariaje](#mariaje)
+  - [Otros](#otros)
+- [Apéndice III: Referencias externas](#apéndice-iii-referencias-externas)
+- [Apéndice IV: Agradecimientos](#apéndice-iv-agradecimientos)
+
+
+## Introducción
 
 Cuando estudiaba en la universidad —como suelo decir, en los tiempos del pleistoceno— había una colección de libros "para dummies", que te servían para aprender, de manera rápida y un poco vaga (de ahí lo de "para *dummies*", que significa "vago" o "torpe" en inglés), los más variados lenguajes de programación, o cualquier otro tipo de tecnología informática.
 
@@ -23,9 +48,10 @@ Principalmente va dirigido a las personas enfermas de Parkinson, especialmente a
 
 Tan sólo plasmo aquí mi experiencia —me han realizado hasta la fecha dos operaciones de implantación—, y la de varios de mis compañeros y compañeras de ANAPAR (Asociación Navarra de Parkinson), e intentar darte un poco más de información, a través de mi punto de vista, personal y espero que transferible.
 
-Todo lo vivido por mí está detallado en mi blog *diariodeunparkinsoniano*, del que he puesto las referencias a las entradas relacionadas en el apéndice I de este manual, "Mi experiencia personal".
+Todo lo vivido por mí está detallado en mi blog *diariodeunparkinsoniano*, del que he puesto las referencias a las entradas relacionadas en el apéndice I de este manual, [Mi experiencia personal](#apéndice-i-mi-experiencia-personal).
 
 Y por supuesto, y para finalizar esta pequeña introducción: No pretendo faltarte al respeto llamándote vago, ni nada por el estilo ...
+
 
 ## Funcionamiento y componentes
 
@@ -46,7 +72,7 @@ Si te pones a experimentar con electricidad, siempre necesitas un generador de e
 Pues bien, esos son, precisamente, los componentes básicos del sistema DBS:
 
 <div align="center">
-<img class="img-fluid"  src="\assets\images\partes_dbs.jpg" alt="Componenetes de DBS" />
+<img class="img-fluid"  src="\assets\images\partes_dbs.jpg" alt="Componentes de DBS" />
 </div>
 
 * El estimulador neuronal, un generador de pulsos eléctricos (alimentado por una batería interna, que lleva incluida), colocado debajo de la piel (generalmente en la zona pectoral), y que descansa plácidamente en una especie de bolsillo artificial que es fabricado por un cirujano durante la última fase de la operación de implantación.
@@ -59,7 +85,7 @@ En alguna versiones del sistema, cada contacto está divido en otros tres, de ma
 
 En un futuro, habrá una versión aún más mejorada, el aDBS, que es un DBS adaptativo, que en el momento de confeccionar este manual está en fase de pruebas, y del que hablaré más tarde, a la hora de tratar el tema de los ajustes de la terapia por parte del neurólogo.
 
-## ¿Cuándo se plantea la estimulación?
+## ¿Cuándo se plantea la operación?
 
 Hasta hace relativamente pocos años, la implantación era prácticamente tu último cartucho, y se esperaba hasta tener una edad relativamente avanzada para realizarla, cuando los demás métodos dejaban de ser efectivos.
 
