@@ -17,11 +17,13 @@ Cuando estudiaba en la universidad —como suelo decir, en los tiempos del pleis
 
 Entre que estoy un poco nostálgico, y que ya hace más de un año de mi primera operación, me he decidido a crear mi propia edición de "DBS para dummies", para intentar, en la medida de lo posible, explicar que es esto del Deep Brain Stimulation (o ECP, Estimulación Cerebral Profunda, en español), desde el punto de vista de un paciente ya operado, con la esperanza de que tú, querido lector que me sufres y me padeces, puedas entenderlo en un lenguaje más llano, menos profundo y técnico, aderezándolo con un poco de humor.
 
-Principalmente va dirigido a las personas enfermas de Parkinson, especialmente a aquellas a las que se les presenta el dilema de si operarse o no, para la implantación del DBS en su cerebro, pero sin pretender ser el sustituto de lo que te explique tu neurólogo, ni tampoco del manual del sistema, que muy probablemente te entreguen después de la operación, si eres tan insistente y tan pelma como yo.
+Principalmente va dirigido a las personas enfermas de Parkinson, especialmente a aquellas a las que se les presenta el dilema de si operarse o no, para la implantación del DBS en su cerebro, pero sin pretender ser el sustituto de lo que te explique tu neurólogo, ni tampoco del manual del sistema, que muy probablemente te entreguen después de la operación, si eres tan insistente y pelma como lo soy yo.
 
-Tan sólo detallo aquí mi experiencia —me han realizado hasta la fecha dos operaciones de implantación—, e intentar darte un poco más de información, a través de mi punto de vista, personal y espero que transferible.
+**No soy médico, ni mucho menos experto en DBS y, por supuesto, para nada pretendo invadir las competencias de los médicos especializados.**
 
-Todo lo vivido por mí está detallado en mi blog *diariodeunparkinsoniano*, del que he puesto las referencias a las entradas relacionadas en el apéndice I de este manual,  "Mi experiencia personal".
+Tan sólo plasmo aquí mi experiencia —me han realizado hasta la fecha dos operaciones de implantación—, y la de varios de mis compañeros y compañeras de ANAPAR (Asociación Navarra de Parkinson), e intentar darte un poco más de información, a través de mi punto de vista, personal y espero que transferible.
+
+Todo lo vivido por mí está detallado en mi blog *diariodeunparkinsoniano*, del que he puesto las referencias a las entradas relacionadas en el apéndice I de este manual, "Mi experiencia personal".
 
 Y por supuesto, y para finalizar esta pequeña introducción: No pretendo faltarte al respeto llamándote vago, ni nada por el estilo ...
 
@@ -29,7 +31,7 @@ Y por supuesto, y para finalizar esta pequeña introducción: No pretendo faltar
 
 DBS (Deep Brain Stimulation) consiste en enviar señales eléctricas a tu cerebro y más en concreto, en hacerlo a la zona profunda del mismo (de ahí su nombre, Estimulación Cerebral Profunda, ECP en español).
 
-Se ha demostrado que, dependiendo de la zona estimulada, la DBS se puede utilizar para minimizar algunos efectos del Parkinson que a mí, particularmente, me afectaban demasiado: la distonía y los temblores incapacitantes.
+Se ha demostrado que, dependiendo de la zona estimulada, la DBS se puede utilizar para minimizar algunos efectos del Parkinson que a mí, particularmente, me afectaban demasiado: la distonía (rigidez o contracción indeseada de tus músculos) y los temblores incapacitantes.
 
 Nuevas investigaciones se están centrando en su aplicación para trastornos como el TOC (Transtorno Obsesivo Compulsivo), etc...
 
@@ -43,17 +45,21 @@ Si te pones a experimentar con electricidad, siempre necesitas un generador de e
 
 Pues bien, esos son, precisamente, los componentes básicos del sistema DBS:
 
-* El estimulador neuronal, un generador de pulsos eléctricos (alimentado por una batería interna, que lleva incluida), colocado debajo de la piel de tu pecho, y que descansa plácidamente en una especie de bolsillo artificial que es fabricado por un cirujano durante la última fase de la operación de implantación.
+<div align="center">
+<img class="img-fluid"  src="\assets\images\partes_dbs.jpg" alt="Componenetes de DBS" />
+</div>
+
+* El estimulador neuronal, un generador de pulsos eléctricos (alimentado por una batería interna, que lleva incluida), colocado debajo de la piel (generalmente en la zona pectoral), y que descansa plácidamente en una especie de bolsillo artificial que es fabricado por un cirujano durante la última fase de la operación de implantación.
 La batería puede ser recargable —por supuesto, sin cables, por contacto con una base, como se cargan algunos smartphones modernos, y que se coloca en una especie de alforja que te pones en el cuello cuando quieres realizar la recarga—, o bien puede no serlo, con lo que deberá ser sustituida al cabo de unos años, pasando por el quirófano de nuevo.
 
-* Varios centímetros de cable flexible (la "extensión"), recubierto de un aislante para que no haga contacto en la parte incorrecta de tu cuerpo, que recorre toda tu piel, desde el pecho (donde está tu estimulador) hasta la parte superior de tu cabeza (donde están los electrodos), como si fuesen los cables eléctricos de tu casa.
+* Varios centímetros de cable flexible (la "extensión"), recubierto de un aislante para que no haga contacto en la parte incorrecta de tu cuerpo, que recorre toda tu piel, desde donde está colocado el estimulador hasta la parte superior de tu cráneo (en la zona de la incisión, donde están anclados los electrodos), como si fuesen los cables eléctricos de tu casa.
 
-* Finalmente, el electrodo, ese estilete que se coloca en la zona profunda (y dañada) del hemisferio (o hemisferios, si tienes afectados tus dos lados). Yo imagino un electrodo como un cable de música estéreo (como los de un antiguo walkman, o con el que escuchas y hablas en tu smartphone), que no es otra cosa que un cable flexible con el final de su punta rematado por varios contactos cilíndricos, separados y aislados entre sí por una distancia milimétrica, que permiten irradiar la señal producida por el generador de pulsos eléctricos, cada uno de ellos en una pequeña parte de tu cerebro, como si fuesen una especie de antenas. 
-En la versión "deluxe" del sistema (como la que tengo yo), cada contacto está divido en otros tres, de manera que esa radiación puede ser más direccional, permitiendo atacar a una parte mucho más localizada de tu cerebro. En concreto, cada "sub-contacto" cubre 120 grados , de manera que los tres cubren los 360 grados, alrededor del contacto al que pertenecen.
+* Finalmente, el electrodo, ese estilete que se coloca en la zona profunda (y dañada) del hemisferio (o hemisferios, si tienes afectados tus dos lados). Yo imagino un electrodo como un cable flexible, con el final de su punta rematado por varios contactos cilíndricos, separados y aislados entre sí por una distancia milimétrica, que permiten irradiar la señal producida por el generador de pulsos eléctricos, cada uno de ellos en una pequeña parte de tu cerebro, como si fuesen una especie de antenas.
+En alguna versiones del sistema, cada contacto está divido en otros tres, de manera que esa radiación puede ser más direccional, permitiendo atacar a una parte mucho más localizada de tu cerebro. En concreto, cada "sub-contacto" cubre 120 grados , de manera que los tres cubren los 360 grados, alrededor del contacto al que pertenecen.
 
-Hay una versión aún más mejorada, el aDBS, que es un DBS adaptativo, que en el momento de confeccionar este manual está en fase de pruebas, y del que hablaré más tarde, a la hora de tratar el tema de los ajustes de la terapia por parte del neurólogo.
+En un futuro, habrá una versión aún más mejorada, el aDBS, que es un DBS adaptativo, que en el momento de confeccionar este manual está en fase de pruebas, y del que hablaré más tarde, a la hora de tratar el tema de los ajustes de la terapia por parte del neurólogo.
 
-## ¿Eres un candidato adecuado?
+## ¿Cuándo se plantea la estimulación?
 
 Hasta hace relativamente pocos años, la implantación era prácticamente tu último cartucho, y se esperaba hasta tener una edad relativamente avanzada para realizarla, cuando los demás métodos dejaban de ser efectivos.
 
@@ -65,26 +71,20 @@ Además, no te voy a engañar... como verás más adelante en este manual, la op
 
 Los expertos recomiendan que para someterse a la implantación, al menos hayan pasado cuatro años desde la primera toma de levodopa, y que aunque se produzcan  fluctuaciones físicas en tu cuerpo (cambios pronunciados de ON a OFF), discinesias (movimientos involuntarios que no puedas controlar) y/o distonías (rigidez o contracción indeseada de tus músculos), notes claramente el efecto de la medicación. En resumen, que tu ON, aunque breve, sea de calidad.
 
-El protocolo  —al menos, el que seguí yo— consta de los siguientes pasos:
+El protocolo —al menos, el que seguí yo— consta de los siguientes pasos:
 
-* Entrevista personal con el neurocirujano, para que evalúe realmente cúal es tu situación.
+* Entrevista personal con el neurocirujano, para que evalúe realmente tu situación, y valore si la técnica de DBS es la intervención adecuada para tí. **Ten en cuenta que te puede proponer otras técnicas, como pueden ser el HIFU, que se salen del ámbito de este manual.**
 * Comprobación de tu grado de asimilación de levodopa, mediante ingreso clínico: De tu estado de OFF (sin medicación en 12/24 horas) y a continuación, de tu estado de ON (ingiriendo una dosis excesiva de medicación). Lo deseado es que tus síntomas se reduzcan drásticamente en ese estado de *super ON*.
 * Realización de TACs y resonancias magnéticas, para comprobar cómo está tu cuerpo (y en especial, tu cerebro), para descartar lesiones, o detectar posibles problemas que impidan o dificulten la operación.
-* Evaluación cognitiva, que permite determinar el estado de tu memoria y detectar posibles signos de pérdida de la misma. Si esta evaluación es negativa, no se recomienda realizar la implantación (la estimulación neuronal puede agravar el problema).
+* Evaluación cognitiva, que permite detectar posibles signos de pérdida de memoria, etc.. Si esta evaluación es negativa, no se recomienda realizar la implantación (la estimulación neuronal puede agravar el problema).
 
 ## La operación quirúrgica
 
-**Ten en cuenta que toda operación implica riesgos. Aunque esta operación se considera de relativamente bajo riesgo, se pueden producir complicaciones como infecciones, hemorragias, etc... Para más información, consulta con tu neurocirujano.**
+**Ten en cuenta que toda operación implica riesgos. Aunque esta operación se considera de relativamente bajo riesgo, se pueden producir complicaciones como infecciones, hemorragias, etc... de las que te informará de manera adecuada tu neurocirujano.**
 
 ### ¿Quién se encarga de la intervención?
 
-Es un equipo cualificado, perfectamente coordinado y entrenado, con horas de experiencia, por lo que te puedo asegurar que estarás en muy buenas manos, formado por:
-
-* Neurocirujanos y cirujanos generales, que van dirigiendo y realizando la operación.
-* Neurofisiólogos, que controlan todos lo referente al buen funcionamiento de los electrodos y estimulador.
-* Neurólogos: que controlan si tu cuerpo reacciona debidamente a los estímulos eléctricos, sin efectos no deseados.
-* Anestesistas, que hacen que estés "confortable", a base de todo tipo de sedantes locales, mientras dura la operación.
-* Personal de enfermería, que se encarga de auxiliar al resto de personal.
+Es un equipo cualificado, multidisciplinar (neurocirujanos y cirujanos generales, neurofisiólogos, neurólogos, anestesistas, personal de enfermería, auxiliares) perfectamente coordinado y entrenado, con horas de experiencia, por lo que te puedo asegurar que estarás en muy buenas manos.
 
 ### Días antes de la intervención
 
@@ -102,23 +102,24 @@ Una vez colocado, escanean de nuevo tu cerebro, y realizan las marcas adecuadas 
 
 ### La intervención
 
-La operación se realiza en dos fases, que, dependiendo de tu aguante físico, se realiza en una o dos sesiones quirúrgicas.
+La operación se realiza en dos fases, que puede realizarse en varias sesiones quirúrgicas.
 
 En la primera fase, se retira una mínima parte de cuero cabelludo, se realiza una incisión en el cráneo y se introduce el electrodo hasta la *zona diana*, la zona profunda del cerebro seleccionada previamente por el equipo médico.
-El proceso se repite de nuevo en el caso que tengas afectados los dos lados del cuerpo (uno por cada hemisferio del cerebro).
-A continuación, se conecta el estimulador neuronal al electrodo a través de un cable y se hacen las pruebas pertinentes, estando en todo momento despierto.
-Si es necesario, se introducen dos electrodos (uno por cada hemisferio del cerebro).
 
-En la segunda fase, ya superadas las pruebas de la primera, te aplican anestesia general para terminar de fijar los electrodos, cerrar el cuero cabelludo y colocar el estimulador en el pecho, de manera definitiva.
+El proceso se repite de nuevo en el caso que tengas afectados los dos lados del cuerpo (uno por cada hemisferio del cerebro).
+
+A continuación, se conecta el estimulador neuronal al electrodo a través de un cable y se hacen las pruebas pertinentes, estando en todo momento despierto.
+
+En la segunda fase, ya superadas las pruebas de la primera, te aplican anestesia general para terminar de fijar los electrodos, cerrar el cuero cabelludo y colocar el estimulador debajo de tu piel (en el tórax o donde se haya decidido) de manera definitiva.
 
 A tener en cuenta durante tu estancia en el quirófano:
 
 * Estarás varias horas consciente, porque es necesario comprobar tus reacciones a la estimulación.
 * No tienes que preocuparte por el dolor; el cerebro no tiene terminaciones nerviosas, por lo que no es necesario aplicar anestesia en él, y para el resto del cuerpo, siempre te pueden sedar localmente.
 * Es importante permanecer inmóvil: Tu postura en la mesa de operaciones debe ser lo más cómoda posible. Otras cuestiones, cómo evitar que tu boca esté reseca es importante, para evitar toser.
-* A la mínima incomodidad, debes quejarte para que se solucione. Una pequeña molestia puede convertirse en un verdadero problema que de al traste con el éxito de la operación si pasan horas sin solucionarse.
+* A la mínima incomodidad, debes quejarte para que se valore y no se convierta en un verdadero problema.
   
-Después de el esfuerzo que supone la intervención, pasarás unos días en la clínica para recuperarte y realizar los ajustes iniciales del estimulador.
+Después del esfuerzo que supone la intervención, pasarás unos días en la clínica para recuperarte y realizar los ajustes iniciales del estimulador.
 
 ### En la UCI
 
@@ -131,7 +132,8 @@ Para mí, con diferencia, lo más molesto fue lo apretada que debe estar la *cap
 
 ### El ingreso en planta
 
-Si todo va bien y no surgen complicaciones, pasarás de la UCI a planta.
+Si todo va bien, pasarás de la UCI a planta.
+
 Empezarás a volver a las incomodidades de la enfermedad de Parkinson de tu vida normal, como si no te hubieran intervenido, y a tomar tu medicación como lo hacías habitualmente, a la espera de la conexión del estimulador neuronal.
 
 Lo que más llama la atención de esta fase es que, para ver como te encuentras y evitar trombos indeseados, te recomiendan pasear por toda la clínica.
@@ -151,11 +153,13 @@ En mi caso, gracias a "las pruebas in-situ" en el quirófano, el ajuste fue prá
 
 Una vez conseguido, los médicos te advierten de que el ajuste no será definitivo, debido a múltiples factores, como la inflamación de tu cerebro.
 
+**En algunos casos esta primera conexión puede retrasarse, incluso hasta después del alta médica.**
+
 ### El alta médica y el post-operatorio en casa
 
 Pasados unos cuantos días, en los que poco a poco has ido recuperando tu vida *preparkinsoniana*, con los efectos de la Enfermedad de Parkinson ya reducidos, recibes el alta médica y vuelves a casa lleno de grapas y puntos de sutura en tu cabeza y en tu pecho, en donde continuarás con la recuperación.
 
-Como toda intervención quirúrgica, los cuidados son similares:
+Los cuidados incluyen:
 
 * Toma de analgésicos y antiinflamatorios.
 * Cura de las heridas de la piel para evitar infecciones.
@@ -170,7 +174,13 @@ Además, para entonces, tus heridas externas ya estarán mejor, y ya no quedará
 
 El estimulador funciona generando una señal eléctrica muy parecida a cuando enciendes y apagas el interruptor de la luz, y haces que una bombilla luzca.
 
-![Circuito interruptor](\assets\images\interruptor.gif "Interruptor ON-OFF")
+<div align="center">
+<img class="img-fluid"  src="\assets\images\interruptorOFF.jpg" alt="Interruptor OFF" />
+</div>
+<div align="center">
+<img class="img-fluid"  src="\assets\images\interruptorON.jpg" alt="Interruptor ON" />
+</div>
+
 
 El neurólogo puede modificar ciertas variables, como son:
 
@@ -184,7 +194,7 @@ Como te digo, y sobre todo las primeras veces, es un proceso de *prueba-error*, 
 
 Para finalizar con el tema de los ajustes, en el momento de escribir este manual, se habla de un nuevo DBS, el DBS adaptativo (aDBS), que es capaz de regularse de manera automática. Por ejemplo, midiendo la actividad anormal del cerebro, comparándola con "patrones normales", y en función de la medición, aumentar o disminuir "de manera automática" la estimulación.
 
-## Apéndice I: Mi experiencia personal 
+## Apéndice I: Mi experiencia personal
 
 Puedes leer mis reflexiones, por supuesto totalmente subjetivas, en [diariodeunparkinsoniano](/allposts):
 
@@ -200,25 +210,51 @@ Como los resultados de la primera implantación fueron *regulinchi*, me sometí 
 
 Puedes leer como me sentí durante todo el proceso en la sección de Relatos X y XI en [Entradas](/allposts), en los posts que van desde [Un nuevo día de la marmota](/post/2023/02/02/un-nuevo-dia-de-la-marmota) a [Sólo queda esperar y ser paciente](/post/2023/02/19/solo-queda-esperar-y-ser-paciente)
 
-## Apéndice II: Referencias externas
+## Apéndice II: Opiniones de "intervenidos"
+
+### Jesús Chocarro
+
+### Mila
+
+### Mariaje
+
+### Otros
+
+
+## Apéndice III: Referencias externas
+
+CUN-DBS:
+
+<https://tinyurl.com/DBSEpCUN>
 
 DBS-Boston Scientific:
 
-<https://tinyurl.com/4em36jks>
+<https://tinyurl.com/DBSBoston>
 
 DBS-Clínica Mayo:
 
-<https://tinyurl.com/zwvszrnj>
+<https://tinyurl.com/DBSClinicaMayo>
 
 DBS-National Institute of Health:
 
-<https://tinyurl.com/565rtbyv>
+<https://tinyurl.com/NIHGobDBS>
 
 DBS-Medtronic:
 
-<https://tinyurl.com/yzmxezw6>
+<https://tinyurl.com/MedtronicEPDBS>
 
-aDBS-Adaptative DBS:
+Afán por saber DBS:
 
-<https://tinyurl.com/4acdwcjh>
+<https://tinyurl.com/AfanSaberDBS>
 
+Infobae-Adaptative DBS:
+
+<https://tinyurl.com/InfobaeDBS>
+
+
+
+## Apéndice IV: Agradecimientos
+
+A todo el personal de la CUN (Clínica Universidad de Navarra), en especial al Dr. Guridi, Dra. Avilés, Dr. González... y a la unidad de trastornos de movimiento del CHN (Complejo Hospitalario de Navarra), y en especial a mi neurólogo el Dr. Clavero, por sus cuidados y trato, y por la aprobación de este manual (**si se da el caso**).
+
+A Jesús Chocarro y al resto de "intervenidos", por la revisión y opiniones sobre este manual.
