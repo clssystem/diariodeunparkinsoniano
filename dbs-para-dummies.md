@@ -128,7 +128,7 @@ Una vez colocado, escanean de nuevo tu cerebro, y realizan las marcas adecuadas 
 
 ### La intervención
 
-La operación se realiza en dos fases, que puede realizarse en varias sesiones quirúrgicas.
+La operación se realiza en dos fases, y puede realizarse en varias sesiones quirúrgicas.
 
 En la primera fase, se retira una mínima parte de cuero cabelludo, se realiza una incisión en el cráneo y se introduce el electrodo hasta la *zona diana*, la zona profunda del cerebro seleccionada previamente por el equipo médico.
 
@@ -154,7 +154,7 @@ Si no surgen complicaciones, pasarás 24 horas en la UCI, monitorizado constante
 * Rayos X de tu pecho, para ver si el estimulador está correctamente instalado, lo mismo que el cable.
 * Escáner cerebral, para comprobar el estado del cerebro: Si se han producido lesiones, etc.
   
-Para mí, con diferencia, lo más molesto fue lo apretada que debe estar la *capelina* (la venda de la cabeza), que hace que las orejas se pongan *hiper rojas* y duelan horriblemente, la sonda para orinar colocada en la uretra, y un reloj de pared en el que el minutero no avanza lo suficientemente rápido, mientras *sesteas*, dolorido y agotado en tu cama.
+Para mí, con diferencia, lo más molesto fue lo apretada que debe estar la *capelina* (la venda de la cabeza), que hace que las orejas se pongan *hiper rojas* y te duelan horriblemente, la sonda para orinar colocada en la uretra, y un reloj de pared en el que el minutero no avanza lo suficientemente rápido, mientras *sesteas*, dolorido y agotado en tu cama.
 
 ### El ingreso en planta
 
@@ -189,7 +189,7 @@ Los cuidados incluyen:
 
 * Toma de analgésicos y antiinflamatorios.
 * Cura de las heridas de la piel para evitar infecciones.
-* Estar atento a posibles sangrados o dolores de cabeza.
+* Vigilancia de posibles sangrados o dolores de cabeza.
 * Etc, etc, etc...
 
 ## Ajustes posteriores
@@ -212,7 +212,7 @@ El neurólogo puede modificar ciertas variables, como son:
 
 * La amplitud de la señal: Siguiendo con la analogía del interruptor, puede hacer que la luz de la bombilla sea más o menos intensa. A mayor amplitud, la señal llega a las zonas más alejadas de la zona en la que está situado el electrodo.
 * La frecuencia de la señal: El número de veces por segundo en el que el generador está emitiendo señal o no lo está haciendo. En la analogía del interruptor, a mayor frecuencia, la bombilla se encenderá y apagará más rápidamente, y a menor frecuencia, menos rápidamente.
-* A la hora de describir el electrodo, decíamos que éste era como un conector estéreo en su punta, que tenía varios "contactos" cilíndricos, y que cada uno estaba dividido a su vez en tres "sub-contactos". El neurólogo puede seleccionar por que "contactos" y "sub-contactos" radiar la señal, de manera que puede hacer que la estimulación llegue (o no) a distintas zonas del cerebro, de manera mas localizada.
+* A la hora de describir el electrodo, decíamos que tenía en su punta varios "contactos" cilíndricos, y que cada uno estaba dividido a su vez en tres "sub-contactos". El neurólogo puede seleccionar por qué "contactos" y "sub-contactos" radiar la señal, de manera que puede hacer que la estimulación llegue (o no) a distintas zonas del cerebro, de manera más localizada.
 
 Parece complejo, ¿verdad?: Pues aún puede jugar con la dosis de medicamento que te administrará, con lo que es aún más difícil el ajuste.
 
