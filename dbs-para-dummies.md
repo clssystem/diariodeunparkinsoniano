@@ -256,7 +256,7 @@ Estas son las reflexiones de algunos de mis compañeros y compañeras, que, como
 
 ## Apéndice III: Referencias externas
 
-CUN-DBS:
+DBS-CUN:
 
 <https://tinyurl.com/DBSEpCUN>
 
@@ -276,13 +276,13 @@ DBS-Medtronic:
 
 <https://tinyurl.com/yzmxezw6>
 
-Afán por saber DBS:
+DBS-Afán por saber:
 
 <https://tinyurl.com/AfanDBS>
 
-Infobae-Adaptative DBS:
+aDBS-Infobae:
 
-<https://tinyurl.com/InfobaeDBS>
+<https://tinyurl.com/4acdwcjh>
 
 
 ## Apéndice IV: Agradecimientos
