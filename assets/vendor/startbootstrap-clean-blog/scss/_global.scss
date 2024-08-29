@@ -13,19 +13,24 @@ p {
   }
 }
 
-h1,
-h2
+h1
 {
   font-weight: 800;
+  @include sans-serif-font;
+}
+
+h2
+{
+  font-weight: 100;
   @include sans-serif-font;
 }
 h3,
 h4,
 h5,
 h6 {
-  font-weight: 100;
+  font-weight: 80;
   font-style: italic;
-  @include serif-font;
+  @include sans-serif-font;
 }
 
 a {

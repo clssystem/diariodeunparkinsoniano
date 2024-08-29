@@ -11,6 +11,9 @@ sitemap: false
 seo:
  robots: [noindex,nofollow]
 ---
+
+**TABLA DE CONTENIDOS**
+
 - [Introducción](#introducción)
 - [Funcionamiento y componentes](#funcionamiento-y-componentes)
 - [¿Cuándo se plantea la operación?](#cuándo-se-plantea-la-operación)
@@ -38,7 +41,7 @@ seo:
 
 ## Introducción
 
-Cuando estudiaba en la universidad —como suelo decir, en los tiempos del pleistoceno— había una colección de libros "para dummies", que te servían para aprender, de manera rápida y un poco vaga (de ahí lo de "para *dummies*", que significa "vago" o "torpe" en inglés), los más variados lenguajes de programación, o cualquier otro tipo de tecnología informática.
+Cuando estudiaba en la universidad —como suelo decir, en los tiempos del pleistoceno— había una colección de libros "para dummies", que te servían para aprender de manera rápida y un poco vaga (de ahí lo de "para *dummies*", que significa "vago" o "torpe" en inglés), los más variados lenguajes de programación, o cualquier otro tipo de tecnología informática.
 
 Entre que estoy un poco nostálgico, y que ya hace más de un año de mi primera operación, me he decidido a crear mi propia edición de "DBS para dummies", para intentar, en la medida de lo posible, explicar que es esto del Deep Brain Stimulation (o ECP, Estimulación Cerebral Profunda, en español), desde el punto de vista de un paciente ya operado, con la esperanza de que tú, querido lector que me sufres y me padeces, puedas entenderlo en un lenguaje más llano, menos profundo y técnico, aderezándolo con un poco de humor.
 
@@ -46,16 +49,16 @@ Principalmente va dirigido a las personas enfermas de Parkinson, especialmente a
 
 **No soy médico, ni mucho menos experto en DBS y, por supuesto, para nada pretendo invadir las competencias de los médicos especializados.**
 
-Tan sólo plasmo aquí mi experiencia —me han realizado hasta la fecha dos operaciones de implantación—, y la de varios de mis compañeros y compañeras de ANAPAR (Asociación Navarra de Parkinson), e intentar darte un poco más de información, a través de mi punto de vista, personal y espero que transferible.
+Tan sólo quiero plasmar aquí mi experiencia —me han realizado hasta la fecha dos operaciones de implantación—, y la de varios de mis compañeros y compañeras de ANAPAR (Asociación Navarra de Parkinson), intentando darte un poco más de información, a través de mi punto de vista, personal y espero que transferible.
 
-Todo lo vivido por mí está detallado en mi blog *diariodeunparkinsoniano*, del que he puesto las referencias a las entradas relacionadas en el apéndice I de este manual, [Mi experiencia personal](#apéndice-i-mi-experiencia-personal).
+Todo lo vivido por mí respecto a la implementación está detallado en mi blog *diariodeunparkinsoniano*. Puedes encontrar los enlaces correspondientes en el apéndice I de este manual, [Mi experiencia personal](#apéndice-i-mi-experiencia-personal), por si te interesa leerlo.
 
-Y por supuesto, y para finalizar esta pequeña introducción: No pretendo faltarte al respeto llamándote vago, ni nada por el estilo ...
+Y para finalizar esta pequeña introducción: No pretendo faltarte al respeto llamándote vago, ni nada por el estilo ...
 
 
 ## Funcionamiento y componentes
 
-DBS (Deep Brain Stimulation) consiste en enviar señales eléctricas a tu cerebro y más en concreto, en hacerlo a la zona profunda del mismo (de ahí su nombre, Estimulación Cerebral Profunda, ECP en español).
+La técnica DBS (Deep Brain Stimulation) consiste en enviar señales eléctricas a tu cerebro, y más en concreto, en hacerlo a la zona profunda del mismo (de ahí su nombre, Estimulación Cerebral Profunda, ECP en español).
 
 Se ha demostrado que, dependiendo de la zona estimulada, la DBS se puede utilizar para minimizar algunos efectos del Parkinson que a mí, particularmente, me afectaban demasiado: la distonía (rigidez o contracción indeseada de tus músculos, sostenida e intermitente) y los temblores incapacitantes.
 
@@ -83,7 +86,7 @@ La batería puede ser recargable —por supuesto, sin cables, por contacto con u
 * Finalmente, el electrodo, ese estilete que se coloca en la zona profunda (y dañada) del hemisferio (o hemisferios, si tienes afectados tus dos lados). Yo imagino un electrodo como un cable flexible, con el final de su punta rematado por varios contactos cilíndricos, separados y aislados entre sí por una distancia milimétrica, que permiten irradiar la señal producida por el generador de pulsos eléctricos, cada uno de ellos en una pequeña parte de tu cerebro, como si fuesen una especie de antenas.
 En alguna versiones del sistema, cada contacto está divido en otros tres, de manera que esa radiación puede ser más direccional, permitiendo atacar a una parte mucho más localizada de tu cerebro. En concreto, cada "sub-contacto" cubre 120 grados , de manera que los tres cubren los 360 grados, alrededor del contacto al que pertenecen.
 
-En un futuro, habrá una versión aún más mejorada, el aDBS, que es un DBS adaptativo, que en el momento de confeccionar este manual está en fase de pruebas, y del que hablaré más tarde, a la hora de tratar el tema de los ajustes de la terapia por parte del neurólogo.
+En un futuro, habrá una versión aún más mejorada, el aDBS, que es una DBS adaptativa, que en el momento de confeccionar este manual está en fase de pruebas, y de la que hablaré más tarde, a la hora de tratar el tema de los ajustes de la terapia por parte del neurólogo.
 
 ## ¿Cuándo se plantea la operación?
 
@@ -93,13 +96,13 @@ En mi humilde opinión, los métodos quirúrgicos han avanzado y se han simplifi
 
 Es fácil de comprender, si reflexionas sobre esta pregunta: ¿para qué sirve mejorar tu calidad de vida a edades más avanzadas, cuando probablemente contraigas otro tipo de enfermedades, que la acaben mermando aún mas?
 
-Además, no te voy a engañar... como verás más adelante en este manual, la operación requerirá de tí un esfuerzo muy notable, tanto físico como mental, así que cuánto menos trabajado tengas el cuerpo, mejor será tu aguante y recuperación posterior.
+Además, no te voy a engañar... como verás más adelante en este manual, la operación requerirá de tí un esfuerzo muy notable, tanto físico como mental, así que cuánto menos castigado tengas el cuerpo, mejor será tu aguante y recuperación posterior.
 
 Los expertos recomiendan que para someterse a la implantación, al menos hayan pasado cuatro años desde la primera toma de levodopa, y que aunque se produzcan  fluctuaciones físicas en tu cuerpo (cambios pronunciados de ON a OFF), discinesias (movimientos involuntarios que no puedas controlar) y/o distonías (rigidez o contracción indeseada de tus músculos), notes claramente el efecto de la medicación. En resumen, que tu ON, aunque breve, sea de calidad.
 
 El protocolo —al menos, el que seguí yo— consta de los siguientes pasos:
 
-* Entrevista personal con el neurocirujano, para que evalúe realmente tu situación, y valore si la técnica de DBS es la intervención adecuada para tí. **Ten en cuenta que te puede proponer otras técnicas, como pueden ser el HIFU, que se salen del ámbito de este manual.**
+* Entrevista personal con el neurocirujano, para que evalúe realmente tu situación, y valore si la técnica de DBS es la intervención adecuada para tí. **Ten en cuenta que te puede proponer otras técnicas, como el HIFU (Frecuencias de Ultrasonido de Alta Intensidad), que se salen del ámbito de este manual.**
 * Comprobación de tu grado de asimilación de levodopa, mediante ingreso clínico: De tu estado de OFF (sin medicación en 12/24 horas) y a continuación, de tu estado de ON (ingiriendo una dosis excesiva de medicación). Lo deseado es que tus síntomas se reduzcan drásticamente en ese estado de *super ON*.
 * Realización de TACs y resonancias magnéticas, para comprobar cómo está tu cuerpo (y en especial, tu cerebro), para descartar lesiones, o detectar posibles problemas que impidan o dificulten la operación.
 * Evaluación cognitiva, que permite detectar posibles signos de pérdida de memoria, etc.. Si esta evaluación es negativa, no se recomienda realizar la implantación (la estimulación neuronal puede agravar el problema).
@@ -114,11 +117,13 @@ Es un equipo cualificado, multidisciplinar (formado por neurocirujanos y cirujan
 
 ### Días antes de la intervención
 
-Te realizan un escáner para la "neuronavegación", que no es otra cosa que un mapa exhaustivo del cerebro, que el neurocirujano estudiará minuciosamente, para localizar donde debe hacer la incisión en el cráneo, y el camino por donde debe bajar el electrodo, hasta la zona profunda del cerebro donde irá implantado.
+Te realizan un escáner para la "neuronavegación", que no es otra cosa que un mapa exhaustivo del cerebro, que el neurocirujano estudiará minuciosamente, para localizar dónde debe hacer la incisión en el cráneo, y el camino para bajar el electrodo hasta la zona profunda del cerebro donde irá implantado.
 
 ### Un poco antes de la intervención
 
-Para poder realizar la implantación, tu cabeza debe estar completamente inmóvil, y de tal forma que debe estar en todo momento en la misma posición. Para ello, es necesario colocar en tu cabeza una especie de estructura metálica, el marco  estereotáctico, que en cuanto me lo empezaron a colocar, me recordó al interior del casco de Dark Vader, en la escena en la que éste es salvado por Luke SkyWalker, en una de las películas de la saga de "La Guerra de las Galaxias".
+Para poder realizar la implantación, tu cabeza debe estar completamente inmóvil, y de tal forma, que debe estar en todo momento en la misma posición.
+
+Para ello, es necesario colocar en tu cabeza una especie de estructura metálica, el marco  estereotáctico, que en cuanto me lo empezaron a colocar, me recordó el casco de Dark Vader, en la escena en la que éste es salvado del lado oscuro por Luke SkyWalker, en una de las películas de la saga de "La Guerra de las Galaxias".
 
 El casco va fijado a tu cabeza con unos tornillos colocados en varias zonas localizadas de tu cráneo, que previamente han sido sedadas, y en las que prácticamente no sentirás ningún dolor.
 
@@ -151,10 +156,10 @@ Después del esfuerzo que supone la intervención, pasarás unos días en la cl�
 
 Si no surgen complicaciones, pasarás 24 horas en la UCI, monitorizado constantemente y con el estimulador apagado, donde te realizarán una serie de pruebas como las siguientes:
 
-* Rayos X de tu pecho, para ver si el estimulador está correctamente instalado, lo mismo que el cable.
+* Rayos X de tu tórax (o del lugar donde te hayan colocado el estimulador), para ver si está correctamente instalado, lo mismo que el cable.
 * Escáner cerebral, para comprobar el estado del cerebro: Si se han producido lesiones, etc.
   
-Para mí, con diferencia, lo más molesto fue lo apretada que debe estar la *capelina* (la venda de la cabeza), que hace que las orejas se pongan *hiper rojas* y te duelan horriblemente, la sonda para orinar colocada en la uretra, y un reloj de pared en el que el minutero no avanza lo suficientemente rápido, mientras *sesteas*, dolorido y agotado en tu cama.
+Para mí, con diferencia, lo más molesto fue lo apretada que debe estar la *capelina* (la venda de la cabeza), que hace que las orejas se pongan *hiper rojas* y te duelan horriblemente, la sonda para orinar colocada en la uretra, y un reloj de pared en el que el minutero no avanzaba lo suficientemente rápido, mientras *sesteabas*, dolorido y agotado, en tu cama.
 
 ### El ingreso en planta
 
@@ -164,7 +169,7 @@ Empezarás a volver a las incomodidades de la enfermedad de Parkinson de tu vida
 
 Lo que más llama la atención de esta fase es que, para ver como te encuentras y evitar trombos indeseados, te recomiendan pasear por toda la clínica.
 
-Primero sólo te atreves a dar pequeños paseos, pero después recorres kilómetros y kilómetros de pasillos interminables, descubriendo los lugares más recónditos del edificio en el que estás recluido, asomándote por cada ventana que encuentras en tu camino, intentando respirar el aroma de tu libertad.
+Primero sólo te atreves a dar pequeños paseos, pero después aumentas tu radio de acción, y recorres kilómetros y kilómetros de pasillos interminables, descubriendo los lugares más recónditos del edificio en el que estás recluido, asomándote por cada ventana que encuentras en tu camino, intentando respirar el aroma de tu libertad.
 
 ### La primera conexión
 
@@ -183,7 +188,7 @@ Una vez conseguido, los médicos te advierten de que el ajuste no será definiti
 
 ### El alta médica y el post-operatorio en casa
 
-Pasados unos cuantos días, en los que poco a poco has ido recuperando tu vida *preparkinsoniana*, con los efectos de la Enfermedad de Parkinson ya reducidos, recibes el alta médica y vuelves a casa lleno de grapas y puntos de sutura en tu cabeza y en tu pecho, en donde continuarás con la recuperación.
+Pasados unos cuantos días, en los que poco a poco has ido recuperando tu vida *preparkinsoniana*, con los efectos de la Enfermedad de Parkinson ya reducidos, recibes el alta médica y vuelves a casa para continuar tu recuperación, lleno de grapas y puntos de sutura en tu cabeza y en donde te hayan colocado el estimulador.
 
 Los cuidados incluyen:
 
@@ -212,13 +217,13 @@ El neurólogo puede modificar ciertas variables, como son:
 
 * La amplitud de la señal: Siguiendo con la analogía del interruptor, puede hacer que la luz de la bombilla sea más o menos intensa. A mayor amplitud, la señal llega a las zonas más alejadas de la zona en la que está situado el electrodo.
 * La frecuencia de la señal: El número de veces por segundo en el que el generador está emitiendo señal o no lo está haciendo. En la analogía del interruptor, a mayor frecuencia, la bombilla se encenderá y apagará más rápidamente, y a menor frecuencia, menos rápidamente.
-* A la hora de describir el electrodo, decíamos que tenía en su punta varios "contactos" cilíndricos, y que cada uno estaba dividido a su vez en tres "sub-contactos". El neurólogo puede seleccionar por qué "contactos" y "sub-contactos" radiar la señal, de manera que puede hacer que la estimulación llegue (o no) a distintas zonas del cerebro, de manera más localizada.
+* A la hora de describir el electrodo, decíamos que tenía en su punta varios "contactos" cilíndricos, y que cada uno estaba dividido a su vez en tres "sub-contactos". El neurólogo puede activar (o desactivar) los "contactos" y "sub-contactos" por los que radiar la señal, de manera que puede hacer que la estimulación llegue (o no) a distintas zonas del cerebro, de manera más localizada y selectiva.
 
-Parece complejo, ¿verdad?: Pues aún puede jugar con la dosis de medicamento que te administrará, con lo que es aún más difícil el ajuste.
+Parece complejo, ¿verdad?: Pues aún puede jugar con la dosis de medicamento que te administrará, con lo que es más difícil el ajuste.
 
 Como te digo, y sobre todo las primeras veces, es un proceso de *prueba-error*, en el que según va modificando los parámetros, tu vas sintiendo el efecto en tu cuerpo: Aumento o disminución del temblor, de la rigidez de las extremidades... los cambios pueden afectar también a los gestos de tu cara, al habla...
 
-Para finalizar con el tema de los ajustes, en el momento de escribir este manual, se habla de un nuevo DBS, el DBS adaptativo (aDBS), que es capaz de regularse de manera automática. Por ejemplo, midiendo la actividad anormal del cerebro, comparándola con "patrones normales", y en función de la medición, aumentar o disminuir "de manera automática" la estimulación.
+Para finalizar con el tema de los ajustes, en el momento de escribir este manual, se habla de una nueva técnica DBS, la DBS adaptativa (aDBS), que es capaz de adaptar la estimulación a las circunstancias. Por ejemplo, midiendo la actividad anormal del cerebro, y comparándola con "patrones normales", aumentar o disminuir "de manera automática" la estimulación.
 
 ## Apéndice I: Mi experiencia personal
 
@@ -226,7 +231,7 @@ Puedes leer mis reflexiones, por supuesto totalmente subjetivas, en [diariodeunp
 
 ### Primera intervención quirúrgica
 
-En ella me implantaron dos electrodos, uno para el lado de mi cuerpo afectado (el derecho), y otro para el izquierdo (que no estaba afectado, pero que se implantó "por si acaso").
+En ella me implantaron dos electrodos, uno para el lado de mi cuerpo afectado (el derecho), y otro para el izquierdo (que no estaba tan afectado, pero que se implantó "por si acaso").
 
 Puedes leer cómo me sentí durante todo el proceso en la sección de Relatos X en [Entradas](/allposts), en los posts que van desde [Hoy puede ser un gran día](/post/2022/01/16/hoy-puede-ser-un-gran-dia) a [Diagrama de radiación](/post/2022/08/11/diagrama-de-radiacion)
 
@@ -237,6 +242,8 @@ Como los resultados de la primera implantación fueron *regulinchi*, me sometí 
 Puedes leer como me sentí durante todo el proceso en la sección de Relatos X y XI en [Entradas](/allposts), en los posts que van desde [Un nuevo día de la marmota](/post/2023/02/02/un-nuevo-dia-de-la-marmota) a [Sólo queda esperar y ser paciente](/post/2023/02/19/solo-queda-esperar-y-ser-paciente)
 
 ## Apéndice II: Opiniones de "intervenidos"
+
+Estas son las reflexiones de algunos de mis compañeros y compañeras, que, como yo, llevan implantado el neuroestimulador en su cuerpo, y que yo llamo cariñosamente *mis compis cyborgs*.
 
 ### Jesús Chocarro
 
