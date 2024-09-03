@@ -41,15 +41,15 @@ seo:
 
 ## Introducción
 
-Cuando estudiaba en la universidad —como suelo decir, en los tiempos del pleistoceno— había una colección de libros "para dummies", que te servían para aprender de manera rápida y un poco vaga (de ahí lo de "para *dummies*", que significa "vago" o "torpe" en inglés), los más variados lenguajes de programación, o cualquier otro tipo de temática general.
+Cuando estudiaba en la universidad —como suelo decir, en los tiempos del pleistoceno— había una colección de libros "para dummies", que te servían para aprender de manera rápida y un poco vaga (de ahí lo de "para *dummies*", que significa "vago" o "torpe" en inglés), los más variados lenguajes de programación, u otro tipo de temática general.
 
 Entre que estoy un poco nostálgico, y que ha pasado más de un año de mi primera operación, me he decidido a crear mi propia edición de "DBS para dummies", para intentar, en la medida de lo posible, explicar que es esto del Deep Brain Stimulation (o ECP, Estimulación Cerebral Profunda, en español), desde el punto de vista de un paciente ya operado, con la esperanza de que tú, querido lector que me sufres y me padeces, puedas entenderlo en un lenguaje más llano, menos profundo y técnico, aderezándolo con un poco de humor.
 
 Principalmente va dirigido a las personas enfermas de Parkinson, especialmente a aquellas a las que se les presenta el dilema de si operarse o no, para la implantación del DBS en su cerebro, pero sin pretender ser el sustituto de lo que te explique tu neurólogo, ni tampoco del manual del sistema, que muy probablemente te entreguen después de la operación, si eres tan insistente y pelma como lo fui yo.
 
-**No soy médico, ni mucho menos experto en DBS ni, por supuesto, para nada pretendo invadir las competencias de los médicos especializados, ni mucho menos frivolizar sobre el tema.**
+**No soy médico, ni mucho menos experto en DBS, ni por supuesto, para nada pretendo invadir las competencias de los médicos especializados, ni mucho menos frivolizar sobre el tema.**
 
-Tan sólo quiero plasmar aquí mi experiencia —me han realizado hasta la fecha dos operaciones de implantación—, y la de varios de mis compañeros y compañeras de ANAPAR (Asociación Navarra de Parkinson), intentando darte un poco más de información, a través de mi punto de vista, personal y espero que transferible.
+Tan sólo quiero plasmar aquí mi experiencia —me han    realizado hasta la fecha dos operaciones de implantación—, y la de varios de mis compañeros y compañeras de ANAPAR (Asociación Navarra de Parkinson), intentando darte un poco más de información, a través de mi punto de vista, personal y espero que transferible.
 
 Todo lo vivido por mí respecto a la implementación está detallado en mi blog *diariodeunparkinsoniano*. Puedes encontrar los enlaces correspondientes en el apéndice I de este manual, [Mi experiencia personal](#apéndice-i-mi-experiencia-personal), por si te interesa, o la de mis compañeros, en el apéndice II.
 
