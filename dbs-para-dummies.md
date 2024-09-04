@@ -36,7 +36,7 @@ seo:
   - [Maria Jesús Urrutia](#maria-jesús-urrutia)
   - [Santiago Espelosín](#santiago-espelosín)
   - [Otros "intervenidos"](#otros-intervenidos)
-- [Apéndice III: Referencias externas](#apéndice-iii-referencias-externas)
+- [Apéndice III: Referencias](#apéndice-iii-referencias)
 - [Apéndice IV: Agradecimientos](#apéndice-iv-agradecimientos)
 
 
@@ -250,6 +250,19 @@ Estas son las reflexiones de algunos de mis compañeros y compañeras, que, como
 
 ### Jesús Chocarro
 
+Jesús es un compañero (y amigo) de ANAPAR (Asociación Navarra de Parkinson), y, entre muchas ayudas que me ha prestado, ha sido el "probador oficial" de [MouseHelper](https://www.mousehelper.cls-system.es), la herramienta que diseñé en su día para facilitar el manejo del ratón en un PC.
+
+Fue diagnosticado de Parkinson con 58 años, y propuesto para la intervención quirúrgica con 63, en el 2022, debido a que la dosis tan elevada de medicación que ya tomaba por el avance de su enfermedad le provocaba muchas distonías (movimientos involuntarios e incapacitantes).
+
+Para él, lo más duro fueron los días posteriores a la operación, y lo más gratificante, poder volver a usar su mano dominante (la izquierda) en las tareas cotidianas como comer, lavarse los dientes, atarse los botones…
+
+En su caso particular, la programación del estimulador neuronal no resulta adecuada para todo tipo de actividades, así que dispone de un mando a distancia con el que puede cambiar la configuración de manera manual (**siempre según unos valores prefijados por su neurólogo**), según la actividad que vaya a realizar.
+
+En concreto dispone de dos programaciones diferentes: Una que le permite un mayor control de su mano, y que usa para la vida cotidiana, y la otra para controlar mejor su pierna, programación que utiliza para pasear.  
+Estas programaciones son revisadas y modificadas por su neurólogo en sus controles periódicos, para adecuarse a la evolución de su enfermedad.
+
+En cuanto a la medicación, ha reducido su dosis a 1/3 de la que tomaba antes de la operación.
+
 ### Mila Ortín
 
 ### Maria Jesús Urrutia
@@ -265,41 +278,36 @@ Como dice su mujer, Bittori, por lo menos puede volver a relacionarse con la gen
 
 Lo peor, según ellos, son los ajustes del neuroestimulador para encontrar el equilibrio, porque sufre bastantes discinesias en cuanto varían la estimulación. Viven relativamente lejos de donde pasan su consulta periódica, y les gustaría tener más tiempo para que el neurólogo comprobara *in-situ* los efectos no deseados.  
 
-Lo que más me impactó al reencontrarme con él fue su sonrisa (y la de Bittori, que nunca la pierde).
-
-
-
-
 ### Otros "intervenidos"
 
 
-## Apéndice III: Referencias externas
+## Apéndice III: Referencias
 
-DBS-CUN:
+Clínica Universidad de Navarra:
 
 <https://tinyurl.com/DBSEpCUN>
 
-DBS-Boston Scientific:
+Boston Scientific:
 
 <https://tinyurl.com/DBSBoston>
 
-DBS-Clínica Mayo:
+Clínica Mayo:
 
 <https://tinyurl.com/zwvszrnj>
 
-DBS-National Institute of Health:
+National Institute of Health:
 
 <https://tinyurl.com/NIHGobDBS>
 
-DBS-Medtronic:
+Medtronic:
 
 <https://tinyurl.com/yzmxezw6>
 
-DBS-Afán por saber:
+Afán por saber:
 
 <https://tinyurl.com/AfanDBS>
 
-aDBS-Infobae:
+Infobae:
 
 <https://tinyurl.com/4acdwcjh>
 
