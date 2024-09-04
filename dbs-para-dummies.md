@@ -278,11 +278,11 @@ Ha reducido su medicación en XXXX.
 
 ### Maria Jesús Urrutia
 
-Mariaje es otra de mis compañeras de ANAPAR  (Asociación Navarra de Parkinson), y asiste, como yo y todos los componentes del grupo de "jóvenes" de apoyo psicológico a nuestras sesiones de ayuda de cada tercer miércoles de cada mes.
+Mariaje es otra de mis compañeras de ANAPAR  (Asociación Navarra de Parkinson), y asiste, como yo y todos los componentes del grupo de "jóvenes" de apoyo psicológico, a nuestras sesiones de ayuda de cada tercer miércoles de cada mes.
 
 Cuando la conocí tenía la mirada muy apagada, cansada un poquito del maltrato que la Enfermedad de Parkinson le producía.
 
-Afortunadamente, todo esto ha cambiado, y ahora se la ve mucho más animada, y con más ganas de hacer cosas.
+Afortunadamente, todo esto ha cambiado, y ahora se la ve mucho más animada, y con más ganas de moverse.
 
 Al principio, tenía muchas dudas para operarse.
 
