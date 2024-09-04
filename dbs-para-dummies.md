@@ -312,4 +312,4 @@ A la unidad de trastornos de movimiento del CHN (Complejo Hospitalario de Navarr
 
 A todos ellos, muchas gracias por sus cuidados y trato, y por la aprobación de este manual (**si se da el caso**).
 
-A Jesús Chocarro y al resto de "intervenidos", por su amistad, críticas y comprensión.
+Finalmente, a Jesús, a Ignacio y a toda la gente que ha revisado este manual, por su amistad, críticas y comprensión.
