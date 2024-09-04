@@ -260,7 +260,7 @@ Santi es alguien con quien me reencontré después de muchos años, gracias a su
 
 Fue diagnosticado de Parkinson con 49 años, en el 2011, y a los 58, en el 2021, fue valorado en la CUN (Clínica Universidad de Navarra) como candidato para la operación, y finalmente operado el mismo año.  
 
-Lo mejor, es que ha pasado de tomar 13 medicamentos distintos a *solamente 5*, y de tener unas distonías *bárbaras*, que le afectaban a los intestinos y a la respiración, a poder hacer una vida relativamente normal.  
+Lo mejor, es que ha pasado de tomar 13 medicamentos distintos a *solamente 5* 5, y de tener unas distonías *bárbaras*, que le afectaban a los intestinos y a la respiración, a poder hacer una vida relativamente normal.  
 Como dice su mujer, Bittori, por lo menos puede volver a relacionarse con la gente, ir a su clase semanal de pilates con sus compañeros *parkinsonianos* de la zona norte de Navarra, y dar pequeños paseos por el campo de vez en cuando.
 
 Lo peor, según ellos, son los ajustes del neuroestimulador para encontrar el equilibrio, porque sufre bastantes discinesias en cuanto varían la estimulación. Viven relativamente lejos de donde pasan consulta con su neurólogo, y necesitarían más tiempo de consulta (o, por lo menos, no volverse tan pronto a su lugar de residencia, para que el neurólogo comprobara *in-situ* los efectos no deseados).  
@@ -306,9 +306,9 @@ aDBS-Infobae:
 
 ## Apéndice IV: Agradecimientos
 
-A todo el personal de la CUN (Clínica Universidad de Navarra), en especial al Dr. Guridi, Dra. Avilés, Dr. González...  
+A todo el personal de la CUN (Clínica Universidad de Navarra), en especial al Dr. Guridi, Dra. Avilés, Dr. González...*falta neurofisiologo y la Dra. que realmente me operó la segunda vez*  
 
-A la unidad de trastornos de movimiento del CHN (Complejo Hospitalario de Navarra), y en especial a mi neurólogo, Dr. Clavero.
+A la unidad de trastornos de movimiento del CHN (Complejo Hospitalario de Navarra), y en especial a mi neurólogo, el Dr. Clavero.
 
 A todos ellos, muchas gracias por sus cuidados y trato, y por la aprobación de este manual (**si se da el caso**).
 
