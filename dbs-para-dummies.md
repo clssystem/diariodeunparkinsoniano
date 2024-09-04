@@ -35,7 +35,6 @@ seo:
   - [Mila Ortín](#mila-ortín)
   - [Maria Jesús Urrutia](#maria-jesús-urrutia)
   - [Santiago Espelosín](#santiago-espelosín)
-  - [Otros "intervenidos"](#otros-intervenidos)
 - [Apéndice III: Referencias](#apéndice-iii-referencias)
 - [Apéndice IV: Agradecimientos](#apéndice-iv-agradecimientos)
 
@@ -265,7 +264,35 @@ En cuanto a la medicación, ha reducido su dosis a 1/3 de la que tomaba antes de
 
 ### Mila Ortín
 
+Mila es la presidenta de ANAPAR (Asociación Navarra de Parkinson), y su Parkinson es muy parecido al mío (predominan los temblores y nos afecta mucho de manera psicológica).
+
+Es la más veterana (y la más animada, con diferencia) del *grupo de cyborgs*, de los operados de DBS de la asociación.
+
+Fue diagnosticada a los XX años, en XXXX, y operada a los XX años, en XXXX.
+
+Para ella, lo peor de la operación fue... y lo mejor fue ...
+
+Ha reducido su medicación en XXXX.
+
+(_Lo que quieras poner Mila_)
+
 ### Maria Jesús Urrutia
+
+Mariaje es otra de mis compañeras de ANAPAR  (Asociación Navarra de Parkinson), y asiste, como yo y todos los componentes del grupo de "jóvenes" de apoyo psicológico a nuestras sesiones de ayuda de cada tercer miércoles de cada mes.
+
+Cuando la conocí tenía la mirada muy apagada, cansada un poquito del maltrato que la Enfermedad de Parkinson le producía.
+
+Afortunadamente, todo esto ha cambiado, y ahora se la ve mucho más animada, y con más ganas de hacer cosas.
+
+Al principio, tenía muchas dudas para operarse.
+
+Fue diagnosticada a los XX años, en XXXX, y operada a los XX años, en XXXX.
+
+Para ella, lo peor de la operación fue... y lo mejor fue ...
+
+Ha reducido su medicación en XXXX.
+
+(_Lo que quieras poner Mariaje_)
 
 ### Santiago Espelosín
 
@@ -277,9 +304,6 @@ Lo mejor, es que ha pasado de tomar 13 medicamentos distintos a *solamente 5*, y
 Como dice su mujer, Bittori, por lo menos puede volver a relacionarse con la gente, ir a su clase semanal de pilates con sus compañeros *parkinsonianos* de la zona norte de Navarra, y dar pequeños paseos por el campo de vez en cuando.
 
 Lo peor, según ellos, son los ajustes del neuroestimulador para encontrar el equilibrio, porque sufre bastantes discinesias en cuanto varían la estimulación. Viven relativamente lejos de donde pasan su consulta periódica, y les gustaría tener más tiempo para que el neurólogo comprobara *in-situ* los efectos no deseados.  
-
-### Otros "intervenidos"
-
 
 ## Apéndice III: Referencias
 
