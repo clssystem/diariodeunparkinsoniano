@@ -254,7 +254,7 @@ Jesús es un compañero (y amigo) de ANAPAR (Asociación Navarra de Parkinson), 
 
 Fue diagnosticado de Parkinson con 58 años, y propuesto para la intervención quirúrgica con 63, en el 2022, debido a que la dosis tan elevada de medicación que ya tomaba por el avance de su enfermedad le provocaba muchas discinesias (movimientos involuntarios e incapacitantes).
 
-Para él, lo más duro fueron los días posteriores a la operación, y lo más gratificante, poder volver a usar su mano dominante (la izquierda) en las tareas cotidianas como comer, lavarse los dientes, atarse los botones…
+Para él, lo más duro fueron los días posteriores a la operación, y lo más gratificante, poder volver a usar su mano dominante (la izquierda) en las tareas cotidianas como comer, lavarse los dientes, abrocharse los botones…
 
 En su caso particular, la programación del estimulador neuronal no resulta adecuada para todo tipo de actividades, así que dispone de un mando a distancia con el que puede cambiar la configuración de manera manual (**siempre según unos valores prefijados por su neurólogo**), según la actividad que vaya a realizar.
 
