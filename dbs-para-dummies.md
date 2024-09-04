@@ -34,7 +34,7 @@ seo:
   - [Jesús Chocarro](#jesús-chocarro)
   - [Mila Ortín](#mila-ortín)
   - [Maria Jesús Urrutia](#maria-jesús-urrutia)
-  - [Santiago Espelosin](#santiago-espelosin)
+  - [Santiago Espelosín](#santiago-espelosín)
   - [Otros "intervenidos"](#otros-intervenidos)
 - [Apéndice III: Referencias externas](#apéndice-iii-referencias-externas)
 - [Apéndice IV: Agradecimientos](#apéndice-iv-agradecimientos)
@@ -254,7 +254,7 @@ Estas son las reflexiones de algunos de mis compañeros y compañeras, que, como
 
 ### Maria Jesús Urrutia
 
-### Santiago Espelosin
+### Santiago Espelosín
 
 Santi es alguien con quien me reencontré después de muchos años, gracias a su mujer, Bittori Jaimerena. Resulta que viven en Sumbilla, y es pariente mío por la rama materna.
 
