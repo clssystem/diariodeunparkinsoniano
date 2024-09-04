@@ -51,9 +51,12 @@ Principalmente va dirigido a las personas enfermas de Parkinson, especialmente a
 
 Tan sólo quiero plasmar aquí mi experiencia —me han realizado hasta la fecha dos operaciones de implantación—, y la de varios de mis compañeros y compañeras de ANAPAR (Asociación Navarra de Parkinson), intentando darte un poco más de información, a través de mi punto de vista, personal y espero que transferible.
 
-Todo lo vivido por mí respecto a la implementación está detallado en mi blog *diariodeunparkinsoniano*. Puedes encontrar los enlaces correspondientes en el apéndice I de este manual, [Mi experiencia personal](#apéndice-i-mi-experiencia-personal), por si te interesa, o la de mis compañeros, en el apéndice II.
+Todo lo vivido por mí respecto a la implementación está detallado en mi blog [diariodeunparkinsoniano](/allposts).  
+Más en concerto, puedes encontrar las entradas correspondientes en el [apéndice I de este manual](#apéndice-i-mi-experiencia-personal).
 
-Y para finalizar esta pequeña introducción: No pretendo faltarte al respeto llamándote vago, ni nada por el estilo ...
+También, puedes leer la opinión de algunos de mis compañeros, en el [apéndice II de este manual](#apéndice-ii-opiniones-de-intervenidos).
+
+Y para finalizar esta pequeña introducción: Ni pretendo faltarte al respeto llamándote vago, ni nada por el estilo ...
 
 
 ## Funcionamiento y componentes
