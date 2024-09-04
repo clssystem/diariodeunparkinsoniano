@@ -34,6 +34,7 @@ seo:
   - [Jesús Chocarro](#jesús-chocarro)
   - [Mila Ortín](#mila-ortín)
   - [Maria Jesús Urrutia](#maria-jesús-urrutia)
+  - [Santiago Espelosin](#santiago-espelosin)
   - [Otros "intervenidos"](#otros-intervenidos)
 - [Apéndice III: Referencias externas](#apéndice-iii-referencias-externas)
 - [Apéndice IV: Agradecimientos](#apéndice-iv-agradecimientos)
@@ -201,7 +202,7 @@ Los cuidados incluyen:
 
 Normalmente, transcurrido un mes de la intervención, se deben realizar una serie de ajustes en la estimulación.
 
-Además, para entonces, tus heridas externas ya estarán mejor, y ya no quedarán ni grapas ni puntos de sutura.
+Además, para entonces, tus heridas externas ya estarán mejor, y seguramente ya no quedarán ni grapas ni puntos de sutura.
 
 El estimulador funciona generando una señal eléctrica muy parecida a cuando enciendes y apagas el interruptor de la luz, y haces que una bombilla luzca.
 
@@ -222,6 +223,8 @@ El neurólogo puede modificar ciertas variables, como son:
 Parece complejo, ¿verdad?: Pues aún puede jugar con la dosis de medicamento que te administrará, con lo que es más difícil el ajuste.
 
 Como te digo, y sobre todo las primeras veces, es un proceso de *prueba-error*, en el que según va modificando los parámetros, tu vas sintiendo el efecto en tu cuerpo: Aumento o disminución del temblor, de la rigidez de las extremidades... los cambios pueden afectar también a los gestos de tu cara, al habla...
+
+**Es muy importante que comprendas que el Parkinson no tiene cura. El neurólogo irá ajustando el estimulador según tus sensaciones, conforme vaya avanzando tu enfermedad y vaya comprobando tu estado, en las revisiones periódicas. Además tu cuerpo (tanto física como mentalmente) puede tardar varios días en asimilar los cambios, así que deberás informar a tu médico de cualquier sensación anómala.**  
 
 Para finalizar con el tema de los ajustes, en el momento de escribir este manual, se habla de una nueva técnica DBS, la DBS adaptativa (aDBS), que es capaz de adaptar la estimulación a las circunstancias. Por ejemplo, midiendo la actividad anormal del cerebro, y comparándola con "patrones normales", aumentar o disminuir "de manera automática" la estimulación.
 
@@ -250,6 +253,22 @@ Estas son las reflexiones de algunos de mis compañeros y compañeras, que, como
 ### Mila Ortín
 
 ### Maria Jesús Urrutia
+
+### Santiago Espelosin
+
+Santi es alguien con quien me reencontré después de muchos años, gracias a su mujer, Bittori Jaimerena. Resulta que viven en Sumbilla, y es pariente mío por la rama materna.
+
+Fue diagnosticado de Parkinson con 49 años, en el 2011, y a los 58, en el 2021, fue valorado en la CUN (Clínica Universidad de Navarra) como candidato para la operación, y finalmente operado el mismo año.  
+
+Lo mejor, es que ha pasado de tomar 13 medicamentos distintos a *solamente 5*, y de tener unas distonías *bárbaras*, que le afectaban a los intestinos y a la respiración, a poder hacer una vida relativamente normal.  
+Como dice su mujer, Bittori, por lo menos puede volver a relacionarse con la gente, ir a su clase semanal de pilates con sus compañeros *parkinsonianos* de la zona norte de Navarra, y dar pequeños paseos por el campo de vez en cuando.
+
+Lo peor, según ellos, son los ajustes del neuroestimulador para encontrar el equilibrio, porque sufre bastantes discinesias en cuanto varían la estimulación. Viven relativamente lejos de donde pasan consulta con su neurólogo, y necesitarían más tiempo de consulta (o, por lo menos, no volverse tan pronto a su lugar de residencia, para que el neurólogo comprobara *in-situ* los efectos no deseados).  
+
+Lo que más me impactó al reencontrarme con él fue su sonrisa (y la de Bittori, que nunca la pierde).
+
+
+
 
 ### Otros "intervenidos"
 
