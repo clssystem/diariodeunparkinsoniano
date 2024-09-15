@@ -221,7 +221,7 @@ Los cuidados incluyen:
 
 Poco a poco, y siempre por indicación del equipo médico, podrás dar paseos breves y moverte cada vez un poquito más, conforme te vayas sintiendo más fuerte y seguro, hasta llegar a poder conducir o hacer tu vida normalmente.
 
-Por supuesto, durante este estadio, deberás tener cuidado con tu cabeza: evitar golpes y levantarte de manera brusca; y también deberás evitar levantar peso, para evitar problemas con los puntos de sutura de la zona donde te hayan colocado el estimulador... pero nada que no sea lógico y comprensible.
+Por supuesto, durante este estadio, deberás tener cuidado con tu cabeza: evitar golpes y levantarte de manera brusca; y también deberás evitar levantar peso, para evitar problemas con los puntos de sutura de la zona donde te hayan colocado el estimulador... pero nada fuera de lo normal, que no sea lógico y comprensible.
 
 ## Ajustes posteriores
 
@@ -248,7 +248,7 @@ Parece complejo, ¿verdad?: Pues aún puede jugar con la dosis de medicamento qu
 
 Como te digo, y sobre todo las primeras veces, es un proceso de *prueba-error*, en el que según va modificando los parámetros, tu vas sintiendo el efecto en tu cuerpo: Aumento o disminución del temblor, de la rigidez de las extremidades... los cambios pueden afectar también a los gestos de tu cara, al habla...
 
-**Es muy importante que comprendas que el Parkinson no tiene cura. El neurólogo irá ajustando el estimulador según tus sensaciones, conforme vaya avanzando tu enfermedad y vaya comprobando tu estado, en las revisiones periódicas. Además tu cuerpo (tanto física como mentalmente) puede tardar varios días en asimilar los cambios, así que deberás informar a tu médico de cualquier sensación anómala.**  
+**Es muy importante que comprendas que el Parkinson no tiene cura. El neurólogo irá ajustando el estimulador según tus sensaciones, conforme vaya avanzando tu enfermedad y vaya comprobando tu estado, en las revisiones periódicas. Además, tu cuerpo (tanto física como mentalmente) puede tardar varios días en asimilar los cambios, así que deberás informar a tu médico de cualquier sensación anómala.**  
 
 Para finalizar con el tema de los ajustes, en el momento de escribir este manual, se habla de una nueva técnica DBS, la DBS adaptativa (aDBS), que es capaz de adaptar la estimulación a las circunstancias. Por ejemplo, midiendo la actividad anormal del cerebro, y comparándola con "patrones normales", aumentar o disminuir "de manera automática" la estimulación.
 
