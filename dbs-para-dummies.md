@@ -15,6 +15,7 @@ seo:
 **TABLA DE CONTENIDOS**
 
 - [Introducción](#introducción)
+- [Antes de que continúes leyendo](#antes-de-que-continúes-leyendo)
 - [Funcionamiento y componentes](#funcionamiento-y-componentes)
 - [¿Cuándo se plantea la operación?](#cuándo-se-plantea-la-operación)
 - [La operación quirúrgica](#la-operación-quirúrgica)
@@ -47,8 +48,6 @@ Entre que estoy un poco nostálgico, y que ha pasado más de un año de mi prime
 
 Principalmente va dirigido a las personas enfermas de Parkinson, especialmente a aquellas a las que se les presenta el dilema de si operarse o no, para la implantación del DBS en su cerebro, pero sin pretender ser el sustituto de lo que te explique tu neurólogo, ni tampoco del manual del sistema, que muy probablemente te entreguen después de la operación, si eres tan insistente y pelma como lo fui yo.
 
-**No soy médico, ni mucho menos experto en DBS, ni por supuesto, para nada pretendo invadir las competencias de los médicos especializados, ni mucho menos frivolizar sobre el tema.**
-
 Tan sólo quiero plasmar aquí mi experiencia —me han realizado hasta la fecha dos operaciones de implantación—, y la de varios de mis compañeros y compañeras de ANAPAR (Asociación Navarra de Parkinson), intentando darte un poco más de información, a través de mi punto de vista, personal y espero que transferible.
 
 Todo lo vivido por mí respecto a la implementación está detallado en mi blog [diariodeunparkinsoniano](/allposts).  
@@ -58,6 +57,13 @@ También, puedes leer la opinión de algunos de mis compañeros, en el [apéndic
 
 Y para finalizar esta pequeña introducción: Ni pretendo faltarte al respeto llamándote vago, ni nada por el estilo ...
 
+## Antes de que continúes leyendo
+
+**No soy médico, ni experto en DBS. No pretendo invadir las competencias de los médicos especializados, ni mucho menos frivolizar sobre el tema.**
+
+**Como he escrito en la introducción, tan sólo pretendo obrar de buena fé; informar y ayudarte en lo posible, dándote nuestra visión (la mía y la de mis compañeros), totalmente particular y subjetiva.**
+
+**Tú y sólo tú, eres el responsable final de la decisión que tomes. Ten muy en cuenta lo que te diga tu equipo médico, que en realidad son los verdaderos especialistas. Ellos te informarán de las alternativas, y de las  particularidades de tu caso. Porque, como ya sabes, cada Parkinson es único.**
 
 ## Funcionamiento y componentes
 
@@ -73,7 +79,7 @@ Por lo que me explicó el neurocirujano jefe que dirigió mi primera operación,
 
  Si lo piensas un poco y te guías por la intuición que tuvo el Dr. Frankenstein al crear a su famoso monstruo, si la comunicación de las neuronas se hace a través de impulsos eléctricos, lo más lógico es que se vean influidas si se les aplican otros impulsos eléctricos externos, en cierta manera.
 
-Si te pones a experimentar con electricidad, siempre necesitas un generador de energía (a ser posible lo más miniaturizado posible, porque no es cuestión de llevar una batería de camión a cuestas), cable flexible que te permita transportar la electricidad y una especie de estilete que clavar en la zona de tu cerebro, aquella donde pretendas aplicar los impulsos.
+Si te pones a experimentar con electricidad, siempre necesitas un generador de energía (a ser posible lo más miniaturizado posible, porque no es cuestión de llevar una batería de camión a cuestas), cable flexible que te permita transportar la electricidad y una especie de *hierro* que colocar en la zona de tu cerebro, aquella donde pretendas aplicar los impulsos.
 
 Pues bien, esos son, precisamente, los componentes básicos del sistema DBS:
 
@@ -86,8 +92,8 @@ La batería puede ser recargable —por supuesto, sin cables, por contacto con u
 
 * Varios centímetros de cable flexible (la "extensión"), recubierto de un aislante para que no haga contacto en la parte incorrecta de tu cuerpo, que recorre toda tu piel, desde donde está colocado el estimulador hasta la parte superior de tu cráneo (en la zona de la incisión, donde están anclados los electrodos), como si fuesen los cables eléctricos de tu casa.
 
-* Finalmente, el electrodo, ese estilete que se coloca en la zona profunda (y dañada) del hemisferio (o hemisferios, si tienes afectados tus dos lados). Yo imagino un electrodo como un cable flexible, con el final de su punta rematado por varios contactos cilíndricos, separados y aislados entre sí por una distancia milimétrica, que permiten irradiar la señal producida por el generador de pulsos eléctricos, cada uno de ellos en una pequeña parte de tu cerebro, como si fuesen una especie de antenas.
-En alguna versiones del sistema, cada contacto está divido en otros tres, de manera que esa radiación puede ser más direccional, permitiendo atacar a una parte mucho más localizada de tu cerebro. En concreto, cada "sub-contacto" cubre 120 grados , de manera que los tres cubren los 360 grados, alrededor del contacto al que pertenecen.
+* Finalmente, el electrodo, que se coloca en la zona profunda (y dañada) del hemisferio (o hemisferios, si tienes afectados tus dos lados). Yo imagino un electrodo como un cable flexible, con el final de su punta rematado por varios contactos cilíndricos, separados y aislados entre sí por una distancia milimétrica, que permiten irradiar la señal producida por el generador de pulsos eléctricos, cada uno de ellos en una pequeña parte de tu cerebro, como si fuesen una especie de antenas.
+En alguna versiones del sistema, cada contacto está divido en otros tres, de manera que esa radiación puede ser más direccional, permitiendo atacar a una parte mucho más localizada de tu cerebro. En concreto, cada "sub-contacto" cubre 120 grados, de manera que los tres cubren los 360 grados, alrededor del contacto al que pertenecen.
 
 En un futuro, habrá una versión aún más mejorada, el aDBS, que es una DBS adaptativa, que en el momento de confeccionar este manual está en fase de pruebas, y de la que hablaré más tarde, a la hora de tratar el tema de los ajustes de la terapia por parte del neurólogo.
 
@@ -103,7 +109,7 @@ Además, no te voy a engañar... como verás más adelante en este manual, la op
 
 Los expertos recomiendan que para someterse a la implantación, al menos hayan pasado cuatro años desde la primera toma de levodopa, y que aunque se produzcan  fluctuaciones físicas en tu cuerpo (cambios pronunciados de ON a OFF), discinesias (movimientos involuntarios que no puedas controlar) y/o distonías (rigidez o contracción indeseada de tus músculos), notes claramente el efecto de la medicación. En resumen, que tu ON, aunque breve, sea de calidad.
 
-El protocolo —al menos, el que seguí yo— consta de los siguientes pasos:
+El protocolo —**al menos, el que seguí yo, que en tu caso puede ser distinto**— consta de los siguientes pasos:
 
 * Entrevista personal con el neurocirujano, para que evalúe realmente tu situación, y valore si la técnica de DBS es la intervención adecuada para tí. **Ten en cuenta que te puede proponer otras técnicas, como el HIFU (Frecuencias de Ultrasonido de Alta Intensidad), que se salen del ámbito de este manual.**
 * Comprobación de tu grado de asimilación de levodopa, mediante ingreso clínico: De tu estado de OFF (sin medicación en 12/24 horas) y a continuación, de tu estado de ON (ingiriendo una dosis excesiva de medicación). Lo deseado es que tus síntomas se reduzcan drásticamente en ese estado de *super ON*.
@@ -112,7 +118,7 @@ El protocolo —al menos, el que seguí yo— consta de los siguientes pasos:
 
 ## La operación quirúrgica
 
-**Ten en cuenta que toda operación implica riesgos. Aunque esta operación se considera de relativamente bajo riesgo, se pueden producir complicaciones como infecciones, hemorragias, etc... de las que te informará de manera adecuada tu neurocirujano.**
+**Ten en cuenta que toda operación implica riesgos. Como en toda operación, se pueden producir complicaciones como infecciones, hemorragias, etc... de las que te informará adecuadamente el equipo médico.**
 
 ### ¿Quién se encarga de la intervención?
 
@@ -132,7 +138,7 @@ El casco va fijado a tu cabeza con unos tornillos colocados en varias zonas loca
 
 Una vez colocado, escanean de nuevo tu cerebro, y realizan las marcas adecuadas en la imagen. Es como establecer un sistema de coordenadas, que utilizarán para orientarse durante toda la intervención.
 
-**Es muy importante que estés cómodo con el casco, porque lo vas a llevar puesto durante unas cuantas horas, así que si notas cualquier molestia, por insignificante que te parezca, se lo comuniques al personal.**
+**En el caso de que no te anestesien de manera general para realizar la intervención, es muy importante que estés cómodo con el casco, porque lo vas a llevar puesto durante unas cuantas horas, así que si notas cualquier molestia, por insignificante que te parezca, se lo comuniques al personal.**
 
 ### La intervención
 
@@ -142,27 +148,40 @@ En la primera fase, se retira una mínima parte de cuero cabelludo, se realiza u
 
 El proceso se repite de nuevo en el caso que tengas afectados los dos lados del cuerpo (uno por cada hemisferio del cerebro).
 
-A continuación, se conecta el estimulador neuronal al electrodo a través de un cable y se hacen las pruebas pertinentes, estando en todo momento despierto.
+A continuación, se conecta el estimulador neuronal al electrodo a través de un cable y se hacen las pruebas pertinentes.
 
-En la segunda fase, ya superadas las pruebas de la primera, te aplican anestesia general para terminar de fijar los electrodos, cerrar el cuero cabelludo y colocar el estimulador debajo de tu piel (en el tórax o donde se haya decidido) de manera definitiva.
+**En el caso de que el equipo médico lo considere oportuno, puede requerir que permanezcas en esta fase semi-consciente todo el tiempo, sedado de tal manera que no sentirás dolor. Tampoco debes preocuparte por tus temblores, que quedan reducidos al máximo, y seguramente desaparezcan hasta el momento que ellos consideren oportuno.**
+
+En la segunda fase, ya superadas las pruebas de la primera, te aplican anestesia general (en el caso de que no lo hubieran hecho ya), para terminar de fijar los electrodos, cerrar el cuero cabelludo y colocar el estimulador debajo de tu piel (en el tórax o donde se haya decidido) de manera definitiva.
 
 A tener en cuenta durante tu estancia en el quirófano:
 
-* Estarás varias horas consciente, porque es necesario comprobar tus reacciones a la estimulación.
-* No tienes que preocuparte por el dolor; el cerebro no tiene terminaciones nerviosas, por lo que no es necesario aplicar anestesia en él, y para el resto del cuerpo, siempre te pueden sedar localmente.
-* Es importante permanecer inmóvil: Tu postura en la mesa de operaciones debe ser lo más cómoda posible. Otras cuestiones, cómo evitar que tu boca esté reseca es importante, para evitar toser.
-* A la mínima incomodidad, debes quejarte para que se valore y no se convierta en un verdadero problema.
-  
+Si no te anestesian totalmente, estarás varias horas semi-consciente, porque es necesario comprobar tus reacciones a la estimulación, **siempre que el equipo médico lo considere oportuno**. En ese caso:
+
+  * No tienes que preocuparte por el dolor; el cerebro no tiene terminaciones nerviosas, por lo que no es necesario aplicar anestesia en él.
+  * Es importante permanecer inmóvil: Tu postura en la mesa de operaciones debe ser lo más cómoda posible. Otras cuestiones, cómo evitar que tu boca esté reseca es importante, para evitar toser.
+  * A la mínima incomodidad, debes quejarte para que el equipo médico lo valore, y no se convierta en un verdadero problema.
+
+**No dudes en preguntar al equipo médico cualquier cuestión que te inquiete antes de la intervención; ellos te lo explicarán detalladamente.**
+
 Después del esfuerzo que supone la intervención, pasarás unos días en la clínica para recuperarte y realizar los ajustes iniciales del estimulador.
 
 ### En la UCI
 
-Si no surgen complicaciones, pasarás 24 horas en la UCI, monitorizado constantemente y con el estimulador apagado, donde te realizarán una serie de pruebas como las siguientes:
+Si no surgen complicaciones, pasarás 24 horas en la UCI, monitorizado constantemente y con el estimulador apagado.  
+
+Piensa en la UCI como el lugar en el que vas a estar vigilado constantemente y en el que vas a recuperar tus fuerzas paulatinamente, no como un lugar siniestro y oscuro.  
+
+Estarás lo más cómodo posible; tumbado, y siempre que el equipo médico dé el visto bueno y tú tengas ganas, podrás leer, ver la televisión, ojear el móvil...
+
+En la UCI te realizarán una serie de pruebas, como las siguientes:
 
 * Rayos X de tu tórax (o del lugar donde te hayan colocado el estimulador), para ver si está correctamente instalado, lo mismo que el cable.
 * Escáner cerebral, para comprobar el estado del cerebro: Si se han producido lesiones, etc.
   
-Para mí, con diferencia, lo más molesto fue lo apretada que debe estar la *capelina* (la venda de la cabeza), que hace que las orejas se pongan *hiper rojas* y te duelan horriblemente, la sonda para orinar colocada en la uretra, y un reloj de pared en el que el minutero no avanzaba lo suficientemente rápido, mientras *sesteabas*, dolorido y agotado, en tu cama.
+Para mí, con diferencia, lo más molesto fue lo apretada que debe estar la *capelina* (la venda compresora de la cabeza que deberás llevar durante los primeros días), que hace que las orejas se pongan *hiper rojas* y te duelan horriblemente, la sonda para orinar colocada en la uretra, y un reloj de pared en el que el minutero no avanzaba lo suficientemente rápido, mientras *sesteabas*, dolorido y agotado, en tu cama.
+
+Durante unas horas podrás recibir la visita de una persona, pero el resto del tiempo te acompañará y cuidará el personal médico, siempre de manera atenta y amable.
 
 ### El ingreso en planta
 
@@ -191,7 +210,7 @@ Una vez conseguido, los médicos te advierten de que el ajuste no será definiti
 
 ### El alta médica y el post-operatorio en casa
 
-Pasados unos cuantos días, en los que poco a poco has ido recuperando tu vida *preparkinsoniana*, con los efectos de la Enfermedad de Parkinson ya reducidos, recibes el alta médica y vuelves a casa para continuar tu recuperación, lleno de grapas y puntos de sutura en tu cabeza y en donde te hayan colocado el estimulador.
+Pasados unos cuantos días, en los que poco a poco vas recuperando tu vida *preparkinsoniana*, con los efectos de la Enfermedad de Parkinson ya reducidos, recibes el alta médica y vuelves a casa para continuar tu recuperación, lleno de grapas y puntos de sutura, en tu cabeza y en donde te hayan colocado el estimulador.
 
 Los cuidados incluyen:
 
@@ -199,6 +218,10 @@ Los cuidados incluyen:
 * Cura de las heridas de la piel para evitar infecciones.
 * Vigilancia de posibles sangrados o dolores de cabeza.
 * Etc, etc, etc...
+
+Poco a poco, y siempre por indicación del equipo médico, podrás dar paseos breves y moverte cada vez un poquito más, conforme te vayas sintiendo más fuerte y seguro, hasta llegar a poder conducir o hacer tu vida normalmente.
+
+Por supuesto, durante este estadio, deberás tener cuidado con tu cabeza: evitar golpes y levantarte de manera brusca; y también deberás evitar levantar peso, para evitar problemas con los puntos de sutura de la zona donde te hayan colocado el estimulador... pero nada que no sea lógico y comprensible.
 
 ## Ajustes posteriores
 
@@ -214,7 +237,6 @@ El estimulador funciona generando una señal eléctrica muy parecida a cuando en
 <div align="center">
 <img class="img-fluid"  src="\assets\images\interruptorON.jpg" alt="Interruptor ON" />
 </div>
-
 
 El neurólogo puede modificar ciertas variables, como son:
 
