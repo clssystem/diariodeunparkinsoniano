@@ -103,7 +103,7 @@ En un futuro, habrá una versión aún más mejorada, el aDBS, que es una DBS ad
 
 Hasta hace relativamente pocos años, la implantación era prácticamente tu último cartucho, y se esperaba hasta tener una edad relativamente avanzada para realizarla, cuando los demás métodos dejaban de ser efectivos.
 
-En mi humilde opinión, los métodos quirúrgicos han avanzado y se han simplificado tanto (en todos los ámbitos, no sólo en este tipo de operación), que en la actualidad la implantación se tiende a realizar lo antes posible, en cuento tu calidad de vida se ve mermada de manera considerable.
+En mi humilde opinión, los métodos quirúrgicos han avanzado y se han simplificado tanto (en todos los ámbitos, no sólo en este tipo de operación), que en la actualidad la implantación se tiende a realizar lo antes posible, en cuanto tu calidad de vida se ve mermada de manera considerable.
 
 Es fácil de comprender, si reflexionas sobre esta pregunta: ¿para qué sirve mejorar tu calidad de vida a edades más avanzadas, cuando probablemente contraigas otro tipo de enfermedades, que la acaben mermando aún mas?
 
@@ -298,7 +298,7 @@ Estas son las reflexiones de algunos de mis compañeros y compañeras, que, como
 
 Jesús es un compañero (y amigo) de ANAPAR (Asociación Navarra de Parkinson), y, entre muchas ayudas que me ha prestado, ha sido el "probador oficial" de [MouseHelper](https://www.mousehelper.cls-system.es), la herramienta que diseñé en su día para facilitar el manejo del ratón en un PC.
 
-Fue diagnosticado de Parkinson con 58 años, y propuesto para la intervención quirúrgica con 63, en el 2022, debido a que la dosis tan elevada de medicación que ya tomaba por el avance de su enfermedad le provocaba muchas discinesias (movimientos involuntarios e incapacitantes).
+Fue diagnosticado de Parkinson con 52 años, y propuesto para la intervención quirúrgica con 63, en el 2022, debido a que la dosis de medicación, aún sin ser excesiva, le provocaba muchas discinesias (movimientos involuntarios e incapacitantes).
 
 Para él, lo más duro fueron los días posteriores a la operación, y lo más gratificante, poder volver a usar su mano dominante (la izquierda) en las tareas cotidianas como comer, lavarse los dientes, abrocharse los botones…
 
