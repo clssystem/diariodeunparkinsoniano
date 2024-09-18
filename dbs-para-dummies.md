@@ -256,20 +256,22 @@ Para finalizar con el tema de los ajustes, en el momento de escribir este manual
 
 ## ¿Y ahora qué?
 
-Cuando te den el alta definitiva (en cuanto a DBS), la única limitación que te impondrán los médicos es que no hagas deporte de riesgo (porque puedes romper el estimulador) y que tengas cuidado en no darte *coscorrones* en la cabeza (algo lógico, y desde luego, muy recomendable).
+Cuando te dan el alta (en cuanto a DBS), la única limitación que te impondrán los médicos es no hacer deporte de riesgo (porque puedes dañar el estimulador si te caes) y tener cuidado en no darte *coscorrones* en la cabeza (algo lógico, y desde luego, muy recomendable).
 
-Aunque tu calidad de vida va a mejorar mucho, no esperes milagros del tipo "curación milagrosa". En particular, los síntomas no motores suelen ser más difíciles de controlar.
+Aunque tu calidad de vida va a mejorar mucho, no esperes una "curación milagrosa".
 
-Personalmente, suelo tener problemas al deglutir alimentos (disfagia), por lo que debo masticar con cuidado para no atragantarme, y mis temblores no se han reducido al 100%, pero llevando una vida tranquila e intentando no pensar demasiado a largo plazo, lo hago llevadero.
+En particular, los síntomas no motores suelen ser más difíciles de controlar.
 
-Es importante que lleves una vida sana y activa, evitando el alcohol (eso no quita para que te bebas una caña de vez en cuando) y el aislamiento social (que nunca es bueno, y que a veces es muy difícil de eludir), y realizando ejercicio (tanto mental como físico), acudiendo a fisioterapia, caminando...
+Personalmente, suelo tener problemas de ansiedad y *auto-estrés*, por lo que tengo que estar constantemente controlando mi cabeza.  
+También y con bastante más frecuencia, tengo dificultades al deglutir alimentos (disfagia), por lo que debo masticar con cuidado para no atragantarme, y mis temblores no se han reducido al 100% (sobretodo cuando estoy fuera de mi *zona de confort*), pero llevando una vida tranquila, e intentando no pensar demasiado a largo plazo, lo hago más llevadero.
 
-A mí, particularmente, me viene muy bien practicar yoga y meditación, y asistir periódicamente a la terapia del grupo de jóvenes de la asociación de parkinson a la que pertenezco.
+Es importante llevar una vida sana y activa, evitando el alcohol (eso no quita para que te bebas una caña de vez en cuando) y el aislamiento social (que nunca es bueno), y realizar ejercicio (tanto mental como físico), acudiendo a terapia psicológica, fisioterapia, caminar...
 
-Intenta estar lo más activo que puedas y CONVIVE con el Parkinson lo mejor que puedas. Aunque la enfermedad avance, también lo haces las *medidas contraparkinsonianas* en forma de medicaciones nuevas, así que PACIENCIA.
+A mí, particularmente, me viene muy bien practicar yoga y meditación, y asistir periódicamente a la terapia del grupo de jóvenes de la asociación de Parkinson a la que pertenezco.
 
-En definitiva, y como me dijo un amigo una vez, "tu contador se ha puesto a cero", a lo que yo respondí "casi a cero", porque ya tengo más experiencia.
+Un consejo, si me lo permites: Intenta estar activo y CONVIVE con el Parkinson lo mejor que puedas. Aunque la enfermedad avance, también lo hacen las *medidas contra-parkinsonianas*, por ejemplo en forma de medicaciones nuevas... así que PACIENCIA.
 
+En definitiva, y como me dijo una vez un amigo: "tu contador se ha puesto a cero". A lo que yo respondí, puntualizando: "casi a cero, porque ya tengo más experiencia".
 
 ## Apéndice I: Mi experiencia personal
 
