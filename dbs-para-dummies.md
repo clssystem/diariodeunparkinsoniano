@@ -63,9 +63,9 @@ Y para finalizar esta pequeña introducción: Ni pretendo faltarte al respeto ll
 
 **Como he escrito en la introducción, tan sólo pretendo obrar de buena fé; informar y ayudarte en lo posible, dándote nuestra visión (la mía y la de mis compañeros), totalmente particular y subjetiva.**
 
-**Tú y sólo tú, eres el responsable final de la decisión que tomes. Ten muy en cuenta lo que te diga tu equipo médico, que en realidad son los verdaderos especialistas. Ellos te informarán de las alternativas, y de las  particularidades de tu caso. Porque, como ya sabes, cada Parkinson es único.**
+**Tú y sólo tú, eres el responsable final de la decisión que tomes. Ten muy en cuenta lo que te diga el equipo médico, ellos son los verdaderos especialistas. Te informarán de las alternativas y de las  particularidades de tu caso. Porque, como ya sabes, cada Parkinson es único.**
 
-**No esperes una recuperación de tu calidad de vida del 100%, pero, por mi experiencia, merece la pena intentarlo.**
+**No esperes una recuperación al 100% de tu calidad de vida. Aún así, y en mi experiencia, merece la pena intentarlo.**
 
 ## Funcionamiento y componentes
 
