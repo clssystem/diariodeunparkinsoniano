@@ -28,6 +28,7 @@ seo:
   - [La primera conexión](#la-primera-conexión)
   - [El alta médica y el post-operatorio en casa](#el-alta-médica-y-el-post-operatorio-en-casa)
 - [Ajustes posteriores](#ajustes-posteriores)
+- [¿Y ahora qué?](#y-ahora-qué)
 - [Apéndice I: Mi experiencia personal](#apéndice-i-mi-experiencia-personal)
   - [Primera intervención quirúrgica](#primera-intervención-quirúrgica)
   - [Segunda intervención quirúrgica](#segunda-intervención-quirúrgica)
@@ -38,7 +39,6 @@ seo:
   - [Santiago Espelosín](#santiago-espelosín)
 - [Apéndice III: Referencias](#apéndice-iii-referencias)
 - [Apéndice IV: Agradecimientos](#apéndice-iv-agradecimientos)
-
 
 ## Introducción
 
@@ -64,6 +64,8 @@ Y para finalizar esta pequeña introducción: Ni pretendo faltarte al respeto ll
 **Como he escrito en la introducción, tan sólo pretendo obrar de buena fé; informar y ayudarte en lo posible, dándote nuestra visión (la mía y la de mis compañeros), totalmente particular y subjetiva.**
 
 **Tú y sólo tú, eres el responsable final de la decisión que tomes. Ten muy en cuenta lo que te diga tu equipo médico, que en realidad son los verdaderos especialistas. Ellos te informarán de las alternativas, y de las  particularidades de tu caso. Porque, como ya sabes, cada Parkinson es único.**
+
+**No esperes una recuperación de tu calidad de vida del 100%, pero, por mi experiencia, merece la pena intentarlo.**
 
 ## Funcionamiento y componentes
 
@@ -251,6 +253,23 @@ Como te digo, y sobre todo las primeras veces, es un proceso de *prueba-error*, 
 **Es muy importante que comprendas que el Parkinson no tiene cura. El neurólogo irá ajustando el estimulador según tus sensaciones, conforme vaya avanzando tu enfermedad y vaya comprobando tu estado, en las revisiones periódicas. Además, tu cuerpo (tanto física como mentalmente) puede tardar varios días en asimilar los cambios, así que deberás informar a tu médico de cualquier sensación anómala.**  
 
 Para finalizar con el tema de los ajustes, en el momento de escribir este manual, se habla de una nueva técnica DBS, la DBS adaptativa (aDBS), que es capaz de adaptar la estimulación a las circunstancias. Por ejemplo, midiendo la actividad anormal del cerebro, y comparándola con "patrones normales", aumentar o disminuir "de manera automática" la estimulación.
+
+## ¿Y ahora qué?
+
+Cuando te den el alta definitiva (en cuanto a DBS), la única limitación que te impondrán los médicos es que no hagas deporte de riesgo (porque puedes romper el estimulador) y que tengas cuidado en no darte *coscorrones* en la cabeza (algo lógico, y desde luego, muy recomendable).
+
+Aunque tu calidad de vida va a mejorar mucho, no esperes milagros del tipo "curación milagrosa". En particular, los síntomas no motores suelen ser más difíciles de controlar.
+
+Personalmente, suelo tener problemas al deglutir alimentos (disfagia), por lo que debo masticar con cuidado para no atragantarme, y mis temblores no se han reducido al 100%, pero llevando una vida tranquila e intentando no pensar demasiado a largo plazo, lo hago llevadero.
+
+Es importante que lleves una vida sana y activa, evitando el alcohol (eso no quita para que te bebas una caña de vez en cuando) y el aislamiento social (que nunca es bueno, y que a veces es muy difícil de eludir), y realizando ejercicio (tanto mental como físico), acudiendo a fisioterapia, caminando...
+
+A mí, particularmente, me viene muy bien practicar yoga y meditación, y asistir periódicamente a la terapia del grupo de jóvenes de la asociación de parkinson a la que pertenezco.
+
+Intenta estar lo más activo que puedas y CONVIVE con el Parkinson lo mejor que puedas. Aunque la enfermedad avance, también lo haces las *medidas contraparkinsonianas* en forma de medicaciones nuevas, así que PACIENCIA.
+
+En definitiva, y como me dijo un amigo una vez, "tu contador se ha puesto a cero", a lo que yo respondí "casi a cero", porque ya tengo más experiencia.
+
 
 ## Apéndice I: Mi experiencia personal
 
