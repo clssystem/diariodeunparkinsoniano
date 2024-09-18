@@ -256,22 +256,23 @@ Para finalizar con el tema de los ajustes, en el momento de escribir este manual
 
 ## ¿Y ahora qué?
 
-Cuando te dan el alta (en cuanto a DBS), la única limitación que te impondrán los médicos (siempre que estés relativamente bien, y tu cuerpo lo permita), es no hacer deporte de riesgo (porque puedes dañar el estimulador si te caes) y tener cuidado en no darte *coscorrones* en la cabeza (algo lógico, y desde luego, muy recomendable).
+Cuando te den el alta (en cuanto a DBS), la única limitación que te impondrán los médicos (siempre que estés relativamente bien, y tu cuerpo lo permita), es no hacer deporte de riesgo (porque puedes dañar el estimulador si te caes) y tener cuidado en no darte *coscorrones* en la cabeza (algo lógico, y desde luego, muy recomendable).
 
-Aunque tu calidad de vida va a mejorar mucho, no esperes una "curación milagrosa".
+Aunque tu calidad de vida va a mejorar mucho, no esperes una "curación milagrosa", ni *un bálsamo de Fierabrás*.
 
 En particular, los síntomas no motores suelen ser más difíciles de controlar con la estimulación neuronal.
 
-Personalmente, suelo tener problemas de ansiedad y *auto-estrés*, por lo que tengo que estar constantemente controlando mi cabeza.  
-También y con bastante frecuencia, tengo dificultades al deglutir alimentos (disfagia), por lo que debo masticar con cuidado para no atragantarme, y mis temblores no se han reducido al 100% (sobretodo cuando estoy fuera de mi *zona de confort*). He comprobado que llevando una vida tranquila, e intentando no pensar demasiado a largo plazo, se hace más llevadero.
+Personalmente, suelo tener problemas de ansiedad y *auto-estrés*, por lo que tengo que estar constantemente controlando mi *desbocada* cabeza y llevar una vida lo más tranquila posible, intentando no pensar demasiado a largo plazo.
 
-Es importante llevar una vida sana y activa, evitando el alcohol (eso no quita para que no te puedas beber una caña de vez en cuando) y el aislamiento social (que nunca es bueno), y realizar ejercicio (tanto físico como mental), acudiendo a terapia psicológica, fisioterapia, logopedia, caminar y respirar el aire tranquilo en medio de la naturaleza...
+También y con bastante frecuencia, tengo dificultades al deglutir alimentos (disfagia), por lo que debo masticar con cuidado para no atragantarme, y mis temblores no se han reducido al 100% (sobretodo cuando estoy fuera de mi *zona de confort*).
 
-A mí, particularmente, me viene muy bien el practicar yoga y meditación, y asistir periódicamente a fisioterapia y las reuniones del *grupo de jóvenes* de la asociación de Parkinson a la que pertenezco.
+Es importante llevar una vida sana y activa, evitando el alcohol (eso no quita para que no te puedas beber una caña de vez en cuando) y el aislamiento social (que nunca es bueno), y realizar ejercicio (tanto físico como mental), acudiendo a terapia psicológica, fisioterapia, logopedia, caminar y respirar el aire en medio de la naturaleza...
 
-Un consejo, si me lo permites: Intenta estar activo y CONVIVE con el Parkinson lo mejor que puedas. Aunque la enfermedad avance, también lo hacen las *medidas contra-parkinsonianas*, en forma de medicaciones y técnicas cada vez más novedosas... así que PACIENCIA.
+A mí, particularmente, me viene muy bien el practicar yoga y meditación, y asistir periódicamente a fisioterapia y a las reuniones del *grupo de ya no tan jóvenes* de la asociación de Parkinson a la que pertenezco.
 
-En definitiva, y como me dijo una vez un amigo: "tu contador se ha puesto a cero". A lo que yo respondí, puntualizando: "casi a cero, porque ya tengo más experiencia".
+Un consejo, si me lo permites: Intenta estar activo y CONVIVE con el Parkinson lo mejor que puedas; aunque la enfermedad avance, también lo hacen las *medidas contra-parkinsonianas*, en forma de nuevos medicamentos y técnicas cada vez más novedosas... así que PACIENCIA.
+
+En definitiva, y como me dijo una vez un buen amigo: "tu contador se ha puesto a cero". A lo que yo respondí, puntualizando: "casi a cero, porque ahora tengo más experiencia".
 
 ## Apéndice I: Mi experiencia personal
 
