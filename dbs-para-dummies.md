@@ -325,21 +325,19 @@ Ha reducido su medicación en XXXX.
 
 ### Maria Jesús Urrutia
 
-Mariaje es otra de mis compañeras de ANAPAR  (Asociación Navarra de Parkinson), y asiste, como yo y todos los componentes del grupo de "jóvenes" de apoyo psicológico, a nuestras sesiones de ayuda, cada tercer miércoles de cada mes.
+Mariaje es otra de mis compañeras de ANAPAR  (Asociación Navarra de Parkinson) que asiste, como yo y todos los componentes del grupo de "jóvenes" de apoyo psicológico, a nuestras sesiones de ayuda, cada tercer miércoles de cada mes.
 
 Cuando la conocí tenía la mirada muy apagada, un poquito cansada, debido al  maltrato que la Enfermedad de Parkinson le producía.
 
-Afortunadamente, todo esto ha cambiado, y ahora se le ve mucho más animada, y con más ganas de moverse.
+Afortunadamente, todo esto ha cambiado, y ahora se le ve mucho más animada, y con más ganas de moverse, aunque al principio tenía muchas dudas de pasar por el quirófano.
 
-Al principio, tenía muchas dudas para operarse.
+Fue diagnosticada a los 42 años, y operada a los 50.
 
-Fue diagnosticada a los XX años, en XXXX, y operada a los XX años, en XXXX.
+Para ella, lo peor de la operación fue estar despierta durante toda la intervención.
 
-Para ella, lo peor de la operación fue... y lo mejor fue ...
+Ella misma dice que ha mejorado sustancialmente su calidad de vida, por lo que agradece infinitamente el trato de todo el personal sanitario (público, en la Seguridad Social, y privado, en la CUN).
 
-Ha reducido su medicación en XXXX.
-
-(_Lo que quieras poner Mariaje_)
+También, y como todos nosotros, se siente afortunada por el acceso universal a este tipo de operaciones, que nos brinda el sistema público de salud de nuestro país.
 
 ### Santiago Espelosín
 
