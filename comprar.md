@@ -7,6 +7,7 @@ background: '/img/bg-about.jpg'
 keywords: [edición impresa,en papel, libros indie,parkinson,autoayuda]
 author: diariodeunparkinsoniano
 image: '/assets/images/libro.jpg'
+sitemap: false
 ---
 **¡YA A LA VENTA LA SEGUNDA EDICION DEL LIBRO!**
 

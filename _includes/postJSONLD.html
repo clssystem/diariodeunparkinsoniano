@@ -3,7 +3,7 @@
         "@context": "https://schema.org",
         "@type": "BlogPosting",
         "headline": "{{ page.title | xml_escape }}",
-        "description": "{{ page.excerpt | strip_html | xml_escape | truncate: 160, "" }}",
+        "description": "Diario de un Parkinsoniano por Antonio Liberal {{ page.excerpt | strip_html | xml_escape | truncate: 160, "" }}",
         "articleBody": "{{ page.content | strip_html | xml_escape }}",
         "keywords":"{{page.keywords | join: ', ' | xml_escape }}",
         "image": [
@@ -61,7 +61,7 @@
         "publisher": {
             "@type": "Organization",
             "name": "Cls-System",
-            "description": "Un sitio donde hablar sobre el parkinson",
+            "description": "Un sitio donde hablar sobre el Parkinson",
             "sameAs": "{{ site.baseurl | prepend: site.url }}",
             "logo": {
                 "@type": "ImageObject",

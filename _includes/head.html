@@ -3,13 +3,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% if paginator.page and paginator.page>1%}(Página {{paginator.page}}){% endif %}</title>
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160, "" }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="description" content="Diario de un Parkinsoniano: {% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160, "" }}{% else %}{{ site.description }}{% endif %}">
     {%if page.keywords %}<meta name="keywords" content="{{ page.keywords | join: ',' | escape }}"/>{% else %}<meta name="keywords" content="diario de un parkinsoniano,Antonio Liberal,Parkinson,{% if paginator.page %}Página {{paginator.page}}{% endif %}"/>{%endif %}
     {%if page.seo.robots | is_not_empty%}<meta name="robots" content="{{ page.seo.robots | join: ',' }}">{%elsif (page.url contains 'page')%}<meta name="robots" content="noindex,nofollow">{%endif%}
     <meta name="author" content="Antonio Liberal Irigoyen" />
   <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | strip_newlines | truncate: 160, "" }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}" />
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160, "" }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:description" content="Diario de un Parkinsoniano: {% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160, "" }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:locale" content="es_ES" />
   <meta name="twitter:site" content="@diariodeunparki" />
@@ -43,7 +43,7 @@
   	{% endif %}
   	<meta property="article:author" content="https://www.facebook.com/a.liberal.irigoyen" />
     <meta property="article:publisher" content="https://www.facebook.com/profile.php?id=100089167203477" />
-  	<meta property="article:section" content="{{page.vertical}}" />
+  	<meta property="article:section" content="Blog personal {{page.vertical}}" />
   	{% for tag in page.keywords %}
   		<meta property="article:tag" content="{{tag}}" />
   	{% endfor %}
@@ -78,7 +78,7 @@
   	<meta name="twitter:image" content="{{ site.baseurl | prepend: site.url }}/assets/images/libroweb.jpg" />
 	{% include homeJSONLD.html %}
 	<meta name="google-site-verification" content="jXvCe3S__OvDumCHcPkx_tDxl1Brl0ES0_eUdjsyHcM" />
-	{% endif %}
+ {% endif %}
    
   
  

@@ -1,8 +1,8 @@
 ---
 layout: allposts
-excerpt: todos los posts de diariodeunparkinsoniano 
+excerpt: todas las entradas del blog Diario de un parkinsoniano
 title: Entradas
-keywords: [diariodeunparkinsoniano,enfermedad de parkinson, diario de un parkinsoniano]
+keywords: [diario de un parkinsoniano,enfermedad de parkinson]
 background: '/img/bg-index.jpg'
 date: 2024-08-05 06:00
 ---
