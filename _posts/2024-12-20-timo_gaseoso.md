@@ -15,7 +15,7 @@ Como el 99% de los ciudadanos, soy usuario de gas natural.
 
 Y, a pesar de las múltiples llamadas telefónicas recibidas, ofertándome el oro y el moro, he conseguido resistir estoicamente, y mantenerme en la misma compañía desde que me independicé, y además con la tarifa de último recurso (TUR, o como leches se llame ahora mismo).
 
-Desde hace unos años, mi “compañía de siempre” (la que todos hemos tenido aquí donde vivo, en Navarra), se convirtió en comercializadora, y desde entonces, de la distribución del gas se encarga otra empresa, probablemente porque por motivos de seguridad, hay muchas comercializadoras (que ni saben lo que es una tubería), y pocas distribuidoras, que son las que manejan el gas, de manera real y tangible.
+Desde hace unos años, mi “compañía de siempre” (la que todos hemos tenido aquí donde vivo, en Navarra), se convirtió en comercializadora, y desde entonces, de la distribución del gas se encarga otra empresa, probablemente porque por motivos de seguridad hay muchas comercializadoras (que ni saben lo que es una tubería), y pocas distribuidoras, que son las que manejan el gas, de manera real y tangible.
 
 Hace falta tener un master en energías para conseguir entender la factura: Que si el impuesto de hidrocarburos; que si ahora el IVA al 10%, ahora al 21%... pero lo último (y por lo que no paso, y el motivo de esta carta) es que, desde hace un tiempo, ya no se molestan ni en pasarse a leer los contadores del gas, y en mis facturas han empezado a aparecer lecturas “estimadas” en lugar de reales, con lo que te cobran lo que les da la real gana.
 
