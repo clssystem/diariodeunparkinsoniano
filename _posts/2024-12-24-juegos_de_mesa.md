@@ -38,6 +38,6 @@ Y yo, con suma delicadeza y cuidado, volví a depositar el valioso juego en el a
 
 Esta nochebuena, mientras terminaba de recoger la cocina, escuché ese choque inconfundible del dado contra la ventanita de plástico, acompañado de las risotadas de mis sobrinos, de mi hermana y de mi madre, que se divertían mientras jugaban al *parchís automático*, llevándome, con nostalgia, a aquellos tardes de domingo, con sabor a pollo asado, haciendo que se dibujase en mis labios, inevitablemente, una sonrisa de complicidad.
 
-Por cierto... ya habrás adivinado quién ganó todas las partidas esta noche.
+Por cierto... ya habrás adivinado quién ganó todas las partidas esta noche.... mi madre y también mi sobrina 
 
 Feliz Navidad.
