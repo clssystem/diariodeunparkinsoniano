@@ -51,7 +51,7 @@ Era el momento de tomar una decisión: La de que acudiera a un centro de día.
 Primero por él, porque allí iba a estar cuidado y entretenido, y le iban a hacer "trabajar", tanto física como mentalmente, ocho horas al día.  
 Y segundo por mi madre, que es la que realmente está pendiente de él las veinticuatro horas del día, sin tener tiempo para ella.
 
-Mención a parte tiene el hecho de que ir al centro de día, para él y para todos sus compañeros, es como ir a trabajar, porque, según él, les ponen a colorear o a hacer gimnasia, y les preguntan, una y otra vez, las mismas cuestiones, para intentar memorizarlas en su maltrecha cabeza.
+Mención aparte tiene el hecho de que ir al centro de día, para él y para todos sus compañeros, es como ir a trabajar, porque, según él, les ponen a colorear o a hacer gimnasia, y les preguntan, una y otra vez, las mismas cuestiones, para intentar memorizarlas en su maltrecha cabeza.
 
 Para mi padre, desde hace un tiempo, todo comienza prácticamente desde cero en cuanto se despierta, en su particular día de la marmota.
 
