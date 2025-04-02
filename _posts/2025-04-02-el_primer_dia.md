@@ -41,14 +41,14 @@ El diez de marzo cumplió ochenta y nueve años, y hace como unos cinco meses qu
 
 La mente de mi padre, poco a poco, se ha ido apagando, al igual que la fuerza de sus piernas.
 
-Lo primero que ha perdido es la noción temporal: No sabe ni el día ni la hora del *ahora*.
+Lo primero que ha perdido es la noción temporal: No sabe ni el día ni la hora del *ahora*.  
 Para él, un reloj analógico es todo un misterio, hasta el punto de tener que desterrarlos de casa, dejando tan sólo uno digital con el formato de doce horas, y ni aún así...
 
 El hecho de que la hora avance es, para él, todo un misterio: Se pasa el tiempo mirando el reloj digital, escudriñando en lo más profundo de su mente el porqué de que el guarismo de la hora se incremente en uno al llegar el minutero al número sesenta, reseteándose, como por arte de magia, a cero.
 
 Era el momento de tomar una decisión: La de que acudiera a un centro de día.
 
-Primero por él, porque allí iba a estar cuidado y entretenido, y le iban a hacer "trabajar", tanto física como mentalmente, ocho horas al día.
+Primero por él, porque allí iba a estar cuidado y entretenido, y le iban a hacer "trabajar", tanto física como mentalmente, ocho horas al día.  
 Y segundo por mi madre, que es la que realmente está pendiente de él las veinticuatro horas del día, sin tener tiempo para ella.
 
 Mención a parte tiene el hecho de que ir al centro de día, para él y para todos sus compañeros, es como ir a trabajar, porque, según él, les ponen a colorear o a hacer gimnasia, y les preguntan, una y otra vez, las mismas cuestiones, para intentar memorizarlas en su maltrecha cabeza.
