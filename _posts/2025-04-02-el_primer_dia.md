@@ -9,7 +9,7 @@ keywords: [Demencia, El primer día del resto de tu vida,Centro de día, Edadism
 image: '/assets/images/2025/04/primerdia.jpg'
 excerpt: Reflexiones sobre el primer día del resto de tu vida
 ---
-Hace mucho tiempo que no había escrito nada en este diario.
+Hace mucho tiempo que no había escrito nada en este diario. 
 
 De hecho, revisando las entradas del blog, he visto que la última fue escrita prácticamente a finales del año pasado, el día de Nochebuena, y eso es demasiado, teniendo en cuenta que una de las metas que me había *autoimpuesto* al comienzo del curso escolar, allá por el mes de septiembre, era, precisamente, el escribir con más frecuencia.
 
