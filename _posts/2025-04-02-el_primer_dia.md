@@ -44,7 +44,7 @@ La mente de mi padre, poco a poco, se ha ido apagando, al igual que la fuerza de
 Lo primero que ha perdido es la noción temporal: No sabe ni el día ni la hora del *ahora*.
 Para él, un reloj analógico es todo un misterio, hasta el punto de tener que desterrarlos de casa, dejando tan sólo uno digital con el formato de doce horas, y ni aún así...
 
-El hecho de que la hora avance es, para él, todo un misterio: Se pasa el tiempo mirando el reloj digital, buscando en lo profundo de su mente el porqué de que el guarismo de la hora se incremente en uno al llegar el minutero al número sesenta, reseteándose, como por arte de magia, a cero.
+El hecho de que la hora avance es, para él, todo un misterio: Se pasa el tiempo mirando el reloj digital, escudriñando en lo más profundo de su mente el porqué de que el guarismo de la hora se incremente en uno al llegar el minutero al número sesenta, reseteándose, como por arte de magia, a cero.
 
 Era el momento de tomar una decisión: La de que acudiera a un centro de día.
 
