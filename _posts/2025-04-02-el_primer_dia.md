@@ -53,7 +53,7 @@ Y segundo por mi madre, que es la que realmente está pendiente de él las veint
 
 Mención a parte tiene el hecho de que ir al centro de día, para él y para todos sus compañeros, es como ir a trabajar, porque, según él, les ponen a colorear o a hacer gimnasia, y les preguntan, una y otra vez, las mismas cuestiones, para intentar memorizarlas en su maltrecha cabeza.
 
-Para mi padre, desde hace un tiempo, el día comienza prácticamente de cero.
+Para mi padre, desde hace un tiempo, todo comienza prácticamente desde cero en cuanto se despierta, en su particular día de la marmota.
 
 Para él, todos los días son su primer día.
 
