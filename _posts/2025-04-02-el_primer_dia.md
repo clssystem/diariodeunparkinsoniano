@@ -33,11 +33,11 @@ Conforme se iba alejando, con su almuerzo de media barra de pan en una mano, cua
 
 La idea era hablar de mis primeros días: el primer día que ejercí de hermano mayor; la primera vez que empecé a trabajar; la primera vez que me sentí el dueño del mundo al coronar la cima de un monte...
 
-Se me iban ocurriendo un montón de "mis primeros días", pero era todo muy inconexo, y, si me apuras, hasta un poquito artificial.
+Se me iban ocurriendo un montón de "primeros días", pero era todo muy inconexo, y, si me apuras, hasta un poquito artificial.
 
-He dejado reposar esta entrada hasta el día de hoy, porque en realidad, mirando en mi interior, lo que me pide el cuerpo es hablar del primer día de otra persona: Dionisio, mi padre.
+He dejado reposar esta entrada hasta el día de hoy, porque en realidad, mirando en mi interior, lo que me pedía el cuerpo era hablar del primer día de otra persona: Dionisio, mi padre.
 
-Hace casi un mes que cumplió ochenta y nueve años, y hace como unos cinco que empezó a perder un poquito el rumbo: Su memoria temporal, la de corto plazo, fallaba cada vez más. Cada vez estaba más nervioso y le fallaban más las piernas, una y otra vez.
+El diez de marzo cumplió ochenta y nueve años, y hace como unos cinco meses empezó a perder un poquito el rumbo: Su memoria a corto plazo fallaba cada vez más; cada vez estaba más nervioso y le fallaban más las piernas sin parar.
 
 La mente de mi padre, poco a poco, se ha ido apagando, al igual que la fuerza de sus piernas.
 
