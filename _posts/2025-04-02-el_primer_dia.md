@@ -37,7 +37,7 @@ Se me iban ocurriendo un montón de "primeros días", pero era todo muy inconexo
 
 He dejado reposar esta entrada hasta el día de hoy, porque en realidad, mirando en mi interior, lo que me pedía el cuerpo era hablar del primer día de otra persona: Dionisio, mi padre.
 
-El diez de marzo cumplió ochenta y nueve años, y hace como unos cinco meses que empezó a perder un poquito el rumbo: Su memoria a corto plazo fallaba cada vez más; cada vez estaba más nervioso y le fallaban más las piernas sin parar.
+El diez de marzo cumplió ochenta y nueve años, y hace como unos cinco meses que empezó a perder un poquito el rumbo: Su memoria a corto plazo fallaba cada vez más; cada vez estaba más nervioso y le fallaban más las piernas.
 
 La mente de mi padre, poco a poco, se ha ido apagando, al igual que la fuerza de sus piernas.
 
