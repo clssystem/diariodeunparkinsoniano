@@ -4,7 +4,7 @@ title: "La regla del tiempo"
 date: 2025-07-03 06:00
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos XIII] 
+tags: [Relatos XIV] 
 keywords: [Cumpleaños, regla vital, paso del tiempo]
 image: '/assets/images/2025/07/53cumple.jpeg'
 excerpt: Reflexiones en mi 53 cumpleaños

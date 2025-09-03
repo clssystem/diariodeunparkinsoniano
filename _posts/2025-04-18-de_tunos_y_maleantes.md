@@ -4,7 +4,7 @@ title: "De tunos y maleantes"
 date: 2025-04-18 06:00
 author: diariodeunparkinsoniano
 comments: true
-tags: [Relatos XIII] 
+tags: [Relatos XIV] 
 keywords: [Tunos, Maleantes, Robo de cartera, Lentitud de movimientos]
 image: '/assets/images/2025/04/chorizo.png'
 excerpt: Me guindan la cartera comprando en un supermercado
