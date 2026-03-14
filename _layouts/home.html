@@ -2,6 +2,8 @@
 layout: default
 excerpt: Blog personal del parkinsoniano Antonio Liberal, donde relata de manera muy muy subjetiva sus opiniones sobre diferentes temas, la mayoría relacinados con la enfermedad
 keywords: [Enfermedad de Parkinson, Blog Personal de Antonio Liberal]
+pagination: 
+  enabled: true
 ---
 
 <!-- Page Header -->
@@ -86,8 +88,10 @@ keywords: [Enfermedad de Parkinson, Blog Personal de Antonio Liberal]
             <div class="col-lg-8 col-md-10 mx-auto">
                 <!-- Pager -->
                 <div class="pagination">
+<!--                    
 <ul class="list-inline text-center">
     <li class="list-inline-item"><span>Pág:</span></li>
+
 {% if paginator.total_pages > 1 %}
     <li class="list-inline-item">
   {% if paginator.previous_page %}
@@ -122,8 +126,46 @@ keywords: [Enfermedad de Parkinson, Blog Personal de Antonio Liberal]
                     <a href="{{"/allposts" | relative_url }}">Indice</a>
     </li>
 {% endif %}
-    </ul>
-                </div>
+</ul>
+-->
+
+
+{% if paginator.total_pages > 1 %}
+  <ul class="list-inline text-center">
+    <li class="list-inline-item"><span>Pág:</span></li>
+      {% if paginator.previous_page %}
+      <li class="list-inline-item">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;</a>
+      </li>
+      {% endif %}
+
+      {% if paginator.page_trail %}
+        <li class="list-inline-item">
+        {% for trail in paginator.page_trail %}
+          {% if page.url == trail.path %}
+                <em ><u>{{ trail.num}}</u> </em>
+          {% else%}                     
+          <a href="{{ trail.path | prepend: site.baseurl | replace: '//', '/' }}" title="{{trail.title}}" >{{ trail.num }}</a>
+          {% endif %}
+          </li>
+        {% endfor %}
+      {% endif %}
+
+      {% if paginator.next_page %}
+      <li class="list-inline-item">
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" >&rarr;</a>
+      </li>
+      {% endif %}
+        <li class="list-inline-item">
+                    <a href="{{"/allposts" | relative_url }}">Indice</a>
+        </li>
+
+
+  </ul>
+  {% endif %}
+
+
+</div>
                 </div>
             </div>
                 </div>
