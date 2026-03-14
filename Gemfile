@@ -1,14 +1,13 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
-gem "jekyll-paginate-v2"
-gem "jekyll-feed", "~> 0.6"
-gem "jekyll-sitemap"     
-gem "jekyll-email-protect"
-gem "jekyll-seo-tag"
+gem "jekyll", ">= 3.8.5"
 
 group :jekyll_plugins do
-  #gem "jekyll-paginate", "~> 1.1.0"
+  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-paginate", "~> 1.1.0"
+  gem "jekyll-sitemap"     
+  gem "jekyll-email-protect"
+  gem "jekyll-seo-tag"
 
 end
 
@@ -19,7 +18,7 @@ end
 #gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "wdm", ">=0.1.0" if Gem.win_platform?
-#gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 
 gem "webrick", "~> 1.7"
