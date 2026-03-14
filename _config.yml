@@ -53,6 +53,8 @@ plugins:
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
   - jekyll-email-protect
 
+
+
 pagination:
   enabled: true
   per_page: 10
