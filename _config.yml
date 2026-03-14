@@ -65,7 +65,7 @@ pagination:
     before: 2
     after: 2  
 
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, .vs]
+exclude: [vendor, Gemfile, Gemfile.lock, README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, .vs]
 
 defaults:
   -
