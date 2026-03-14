@@ -1,10 +1,11 @@
 source "https://rubygems.org"
 
-gem "jekyll", ">= 3.8.5"
+gem "jekyll", "~>= 4.3"
+gem "jekyll-paginate-v2"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-paginate", "~> 1.1.0"
+  #gem "jekyll-paginate", "~> 1.1.0"
   gem "jekyll-sitemap"     
   gem "jekyll-email-protect"
   gem "jekyll-seo-tag"

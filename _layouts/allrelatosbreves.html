@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+{% assign fondo = '/img/bg-header.jpg' %}
+             
+<!-- Page Header -->
+{% if fondo %}
+<header class="masthead" style="        background-image: url('{{ fondo  | prepend: site.baseurl | replace: '//', '/' }}')">
+    {% else %}
+    <header class="masthead">
+        {% endif %}
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-10 mx-auto">
+                    <div class="page-heading">
+                        <h1>{{ page.title }}</h1>
+                        {% if page.excerpt %}
+                        <span class="subheading">{{ page.excerpt }}</span>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="row">
+            <span class="col-lg-8 col-md-10 mx-auto">
+
+                {{ content }}
+                <!--<ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span class="nav-label">Entradas</span> <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            {% for tag in site.tags %}
+                            <li class="dropdown-submenu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span class="nav-label">{{ tag[0] | replace: '-', ' '}}</span><span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    {% for post in tag[1] reversed %}
+                                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                </ul>-->
+                <!-- Home Post List -->
+                {% for tag in site.tags %}
+                
+                <h3 id="{{ tag[0] | replace: '-', '' | replace: ' ','' }}" >{{ tag[0] | replace: '-', ' '}}
+                    
+  <!--         
+   <a href="/assets/ebooks/{{ tag[0] | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.epub"><img src="/assets/ebooks/epub.png" alt="EPUB" />
+                <a href="/assets/ebooks/{{ tag[0] | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.mobi"><img src="/assets/ebooks/mobi.png" alt="MOBI"  />
+                <a href="/assets/ebooks/{{ tag[0] | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.pdf"><img src="/assets/ebooks/pdf.png" alt="PDF"  />
+   -->           
+  </h3>
+                <ul>
+                    {% for post in tag[1] reversed %}
+                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                    {% endfor %}
+                </ul>
+                {% endfor %}
+
+
+                <!-- Pager -->
+        </div>
+    </div>
+    </div>
