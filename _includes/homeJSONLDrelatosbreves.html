@@ -1,0 +1,93 @@
+<!-- homeJSONLDrelatosbreves -->
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Blog",
+        "url": "{{ prepend: site.baseurlrelatosbreves | prepend: site.urlrelatosbreves }}",
+        "headline": "{{ site.titlerelatosbreves }}",
+        "about": "{{ site.descriptionrelatosbreves }}",
+        "keywords":"{{page.keywords | join: ', ' | xml_escape }}",
+        "image": {
+            "@type": "ImageObject",
+            "url": "{{ site.baseurlrelatosbreves | prepend: site.url }}/assets/images/libroweb.jpg"
+        },
+        "isAccessibleForFree": "True",
+        "isPartOf": {
+        "@type": ["CreativeWork", "Product"],
+        "name": "site.titlerelatosbreves",
+        "productID": "relatosbreves.cls-system.es"
+    },
+        "author": {
+            "@type": "Person",
+            "name": "Antonio Liberal Irigoyen",
+            "description": "Antonio Liberal Irigoyen es Ingeniero Superior de Telecomunicaciones. Es el creador de Mouse Helper, una herramienta para ayudar al manejo del raton para personas con Parkinson o movilidad reducida.",
+            "url": "https://diariodeunparkinsoniano.cls-system.es/about",
+            "jobTitle": "Ingeniero de Software",
+            "email": "diariodeunparkinsoniano@outlook.es",
+            "sameAs": [
+              "https://www.facebook.com/a.liberal.irigoyen",
+              "https://x.com/diariodeunparki",
+              "https://www.instagram.com/diariodeunparkinsoniano/",
+              "https://www.linkedin.com/in/aliberal/",
+              "https://diariodeunparkinsoniano.cls-system.es"
+            ],
+            "worksFor": {
+              "@type": "Organization",
+              "name": "Cls-System"
+            }
+            ,
+           "image": {
+                "@type": "ImageObject",
+                "url": "{{ site.baseurl | prepend: site.url}}/assets/images/about.jpg"
+            },
+            "givenName": "Antonio Liberal Irigoyen",
+            "familyName": "Antonio Liberal Irigoyen",
+            "alternateName": "Antonio Liberal Irigoyen",
+            "publishingPrinciples": "{{ site.baseurl | prepend: site.url }}/about"
+        },
+        "editor": {
+            "@type": "Person",
+            "name": "Antonio Liberal Irigoyen",
+            "description": "Antonio Liberal Irigoyen es Ingeniero Superior de Telecomunicaciones. Es el creador de Mouse Helper, una herramienta para ayudar al manejo del raton para personas con Parkinson o movilidad reducida.",
+            "url": "https://diariodeunparkinsoniano.cls-system.es/about",
+            "jobTitle": "Ingeniero de Software",
+            "email": "diariodeunparkinsoniano@outlook.es",
+            "sameAs": [
+              "https://www.facebook.com/a.liberal.irigoyen",
+              "https://x.com/diariodeunparki",
+              "https://www.instagram.com/diariodeunparkinsoniano/",
+              "https://www.linkedin.com/in/aliberal/",
+              "https://diariodeunparkinsoniano.cls-system.es"
+            ],
+            "worksFor": {
+              "@type": "Organization",
+              "name": "Cls-System"
+            }
+            ,
+           "image": {
+                "@type": "ImageObject",
+                "url": "{{ site.baseurl | prepend: site.url }}/assets/images/about.jpg"
+            },
+            "givenName": "Antonio Liberal Irigoyen",
+            "familyName": "Antonio Liberal Irigoyen",
+            "alternateName": "Antonio Liberal Irigoyen",
+            "publishingPrinciples": "{{ site.baseurl | prepend: site.url }}/about"
+        },
+        "inLanguage": "es-ES",
+        "additionalType": "CreativeWork",
+        "alternateName": "Diario de un parkinsoniano",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Cls-System",
+            "description": "Un sitio donde hablar sobre el parkinson",
+            "sameAs": "{{ site.baseurlrelatosbreves | prepend: site.urlrelatosbreves }}",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "{{ site.baseurl | prepend: site.url }}/assets/images/libroweb.jpg
+                "
+            },
+            "publishingPrinciples": "{{ site.baseurl | prepend: site.url }}/about"
+        }
+
+    }
+</script>

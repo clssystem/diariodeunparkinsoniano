@@ -1,0 +1,74 @@
+<!-- postJSONLDrelatosbreves -->
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "{{ page.title | xml_escape }}",
+        "description": "Relatos breves por Antonio Liberal {{ page.excerpt | strip_html | xml_escape | truncate: 160, "" }}",
+        "articleBody": "{{ page.content | strip_html | xml_escape }}",
+        "keywords":"{{page.keywords | join: ', ' | xml_escape }}",
+        "image": [
+            {% if page.ogimagenull %}
+
+            {% elsif page.ogimage %}
+                "{{ site.baseurl | prepend: site.url }}{{page.ogimage}}"
+            {% elsif page.image %}
+                "{{ site.baseurl | prepend: site.url }}{{page.image}}"
+            {% else %}
+                "{{ site.baseurl | prepend: site.url }}/assets/images/libroweb.jpg"
+            {% endif %}
+        ],
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+        },
+        "datePublished": "{{page.date | date_to_xmlschema}}",
+        "dateModified": "{% if page.modified %}{{page.modified | date_to_xmlschema}}{% else %}{{page.date | date_to_xmlschema }}{% endif %}",
+        "isAccessibleForFree": "True",
+        {% if page.isBasedOn %}"isBasedOn": "{{page.isBasedOn}}",{% endif %}
+        "isPartOf": {
+            "@type": ["CreativeWork", "Product", "Blog"],
+            "name": "Diario de un parkinsoniano",
+            "productID": "diariodeunparkinsoniano.cls-system.es"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Antonio Liberal Irigoyen",
+            "description": "Antonio Liberal Irigoyen es Ingeniero Superior de Telecomunicaciones. Es el creador de Mouse Helper, una herramienta para ayudar al manejo del raton para personas con Parkinson o movilidad reducida.",
+            "url": "https://diariodeunparkinsoniano.cls-system.es/relatosbreves/about",
+            "jobTitle": "Ingeniero de Software",
+            "email": "diariodeunparkinsoniano@outlook.es",
+            "sameAs": [
+              "https://www.facebook.com/a.liberal.irigoyen",
+              "https://x.com/diariodeunparki",
+              "https://www.instagram.com/diariodeunparkinsoniano/",
+              "https://www.linkedin.com/in/aliberal/",
+              "https://diariodeunparkinsoniano.cls-system.es"
+            ],
+            "worksFor": {
+              "@type": "Organization",
+              "name": "Cls-System"
+            }
+            ,
+           "image": {
+                "@type": "ImageObject",
+                "url": "{{ site.baseurl | prepend: site.url }}/assets/images/about.jpg"
+            },
+            "givenName": "Antonio Liberal Irigoyen",
+            "familyName": "Antonio Liberal Irigoyen",
+            "alternateName": "Antonio Liberal Irigoyen",
+            "publishingPrinciples": "{{ site.baseurl | prepend: site.url }}/relatosbreves/about"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Cls-System",
+            "description": "Relatos breves por Antonio Liberal",
+            "sameAs": "{{ site.baseurl | prepend: site.url }}",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "{{ site.baseurl | prepend: site.url }}/assets/images/libroweb.jpg"
+            },
+            "publishingPrinciples": "{{ site.baseurl | prepend: site.url }}/relatosbreves/about"
+        }
+    }
+</script>

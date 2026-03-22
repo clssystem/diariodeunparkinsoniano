@@ -1,0 +1,138 @@
+﻿---
+layout: defaultrelatosbreves
+excerpt: Blog de relatos breves por Antonio Liberal
+keywords: [Blog de relatos breves por Antonio Liberal]
+pagination:
+enabled: true
+---
+
+<!-- Page Header -->
+{% assign fondo = '/img/bg-relatos.jpg' %}
+<!-- Page Header -->
+{% if fondo %}
+<header class="masthead"
+    style="        background-image: url('{{ fondo  | prepend: site.baseurl | replace: '//', '/' }}')">
+    {% else %}
+    <header class="masthead">
+        {% endif %}
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-10 mx-auto">
+                    <div class="page-heading">
+                        <h1>{{ site.titlerelatosbreves }}</h1>
+                        <span class="subheading">{% if paginator.page and paginator.page>1%}Página {{paginator.page}}{%
+                            endif %}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+
+                {{ content }}
+
+                <!-- Home Post List -->
+
+
+                {% for post in paginator.posts %}
+                <article class="post-preview">
+                    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+                        <h2 class="post-title">{{ post.title }}</h2>
+                    </a>
+                    <p class="post-meta">
+                        {{ post.date | date: '%-d' }}
+                        {% assign m = post.date | date: '%-m' %}
+                        {% case m %}
+                        {% when '1' %}en
+                        {% when '2' %}feb
+                        {% when '3' %}mar
+                        {% when '4' %}abr
+                        {% when '5' %}may
+                        {% when '6' %}jun
+                        {% when '7' %}jul
+                        {% when '8' %}ago
+                        {% when '9' %}sep
+                        {% when '10' %}oct
+                        {% when '11' %}nov
+                        {% when '12' %}dic
+                        {% endcase %}
+                        {{ post.date | date: '%Y' }}
+                        &middot; {% include read_time.html content=post.content %}
+                    </p>
+                    {% if post.subtitle %}
+                    <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+                    {% else %}
+                    <p class="post-preview">
+                        {{ post.content | truncatewords: 50 | strip_html}}
+                    </p>
+                    <p class="post-meta">
+                        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+                            Seguir leyendo...
+                        </a>
+                    </p>
+                    {% endif %}
+
+
+                </article>
+
+                <hr>
+
+                {% endfor %}
+
+            </div>
+        </div>
+        <div class="container paginator">
+            <div class="row">
+                <div class="col-lg-8 col-md-10 mx-auto">
+                    <!-- Pager -->
+                    <div class="pagination">
+
+
+                        <ul class="list-inline text-center">
+                        {% if paginator.total_pages > 1 %}
+                            <li class="list-inline-item"><span>Pág:</span></li>
+                            {% if paginator.previous_page %}
+                            <li class="list-inline-item">
+                                <a
+                                    href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;</a>
+                            </li>
+                            {% endif %}
+
+                            {% if paginator.page_trail %}
+                            <li class="list-inline-item">
+                                {% for trail in paginator.page_trail %}
+                                {% if page.url == trail.path %}
+                                <em><u>{{ trail.num}}</u> </em>
+                                {% else%}
+                                <a href="{{ trail.path | prepend: site.baseurl | replace: '//', '/' }}"
+                                    title="{{trail.title}}">{{ trail.num }}</a>
+                                {% endif %}
+                            </li>
+                            {% endfor %}
+                            {% endif %}
+
+                            {% if paginator.next_page %}
+                            <li class="list-inline-item">
+                                <a
+                                    href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&rarr;</a>
+                            </li>
+                            {% endif %}
+
+                        {% else %}
+
+                        {% endif %}
+                            <li class="list-inline-item">
+                                <a href="{{'/relatosbreves/allrelatosbreves' | relative_url }}">Índice</a>
+                            </li>
+                        </ul>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: defaultrelatosbreves
 ---
-
+ 
 <!-- Page Header -->
-{% assign fondo = '/img/bg-header.jpg' %}
+{% assign fondo = '/img/bg-relatos.jpg' %}
              
 <!-- Page Header -->
 {% if fondo %}
@@ -29,43 +29,27 @@ layout: default
     <div class="container">
         <div class="row">
             <span class="col-lg-8 col-md-10 mx-auto">
-
+ 
                 {{ content }}
-                <!--<ul class="nav navbar-nav">
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span class="nav-label">Entradas</span> <span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                            {% for tag in site.tags %}
-                            <li class="dropdown-submenu">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span class="nav-label">{{ tag[0] | replace: '-', ' '}}</span><span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    {% for post in tag[1] reversed %}
-                                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                                    {% endfor %}
-                                </ul>
-                            </li>
-                            {% endfor %}
-                        </ul>
-                    </li>
-                </ul>-->
-                <!-- Home Post List -->
-                {% for tag in site.tags %}
-                
-                <h3 id="{{ tag[0] | replace: '-', '' | replace: ' ','' }}" >{{ tag[0] | replace: '-', ' '}}
-                    
-  <!--         
-   <a href="/assets/ebooks/{{ tag[0] | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.epub"><img src="/assets/ebooks/epub.png" alt="EPUB" />
-                <a href="/assets/ebooks/{{ tag[0] | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.mobi"><img src="/assets/ebooks/mobi.png" alt="MOBI"  />
-                <a href="/assets/ebooks/{{ tag[0] | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.pdf"><img src="/assets/ebooks/pdf.png" alt="PDF"  />
-   -->           
-  </h3>
-                <ul>
-                    {% for post in tag[1] reversed %}
-                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                    {% endfor %}
-                </ul>
-                {% endfor %}
+                {% assign relatos_ordenados = site.relatosbreves | sort:"numeroOrden" %}
+                {% assign agrupados = relatos_ordenados | group_by: "tituloRelatoPrincipal" %}
 
+                <!-- Home Post List -->
+                {% for tag in agrupados %}
+                
+                    <h3 id="{{ tag.name | replace: '-', '' | replace: ' ','' }}" >{{ tag.name | replace: '-', ' '}}
+                    <!--
+                    <a href="/assets/ebooks/{{ tag.name | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.epub"><img src="/assets/ebooks/epub.png" alt="EPUB" />
+                    <a href="/assets/ebooks/{{ tag.name | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.mobi"><img src="/assets/ebooks/mobi.png" alt="MOBI"  />
+                    <a href="/assets/ebooks/{{ tag.name | replace: '-', ' ' | replace: 'Relatos', 'Diario de un parkinsoniano'}} - Antonio Liberal.pdf"><img src="/assets/ebooks/pdf.png" alt="PDF"  /> 
+                    -->
+                    </h3>
+                    <ul>
+                        {% for post in tag.items %}
+                        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                {% endfor %}
 
                 <!-- Pager -->
         </div>

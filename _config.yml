@@ -3,6 +3,13 @@ email:              diariodeunparkinsoniano@outlook.es
 description:        Blog personal de Antonio Liberal Irigoyen, una persona que convive con el Parkinson, en el que relata sus vivencias y puntos de vista sobre diversos temas de manera muy subjetiva, humana y personal
 author:             diariodeunparkinsoniano
 date:               2016-11-27
+baseurl:            ""
+url:                "https://diariodeunparkinsoniano.cls-system.es"
+
+titlerelatosbreves:              Relatos breves de Antonio Liberal
+descriptionrelatosbreves:        Blog de los relatos breves de Antonio Liberal Irigoyen
+
+
 
 authors:
     diariodeunparkinsoniano:
@@ -14,8 +21,6 @@ authors:
       twitter:        diariodeunparki
 
 
-baseurl:            ""
-url:                "https://diariodeunparkinsoniano.cls-system.es"
 disqus: 'diariodeunparkinsoniano'
 # Social Profiles
 twitter_username:   diariodeunparki
@@ -45,6 +50,8 @@ collections:
   relatosbreves:
    output: true
    permalink: /relatosbreves/:year/:month/:day/:title
+   tituloRelatoPrincipal: 'sin tituloRelatoPrincipal'
+   sort_by: numeroOrden
 
 plugins:
   - jekyll-feed

@@ -88,47 +88,6 @@ pagination:
             <div class="col-lg-8 col-md-10 mx-auto">
                 <!-- Pager -->
                 <div class="pagination">
-<!--                    
-<ul class="list-inline text-center">
-    <li class="list-inline-item"><span>Pág:</span></li>
-
-{% if paginator.total_pages > 1 %}
-    <li class="list-inline-item">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr;</a>
-  {% else %}
-    <span >&larr;</span>
-  {% endif %}
-        </li>
-{% assign minPage = paginator.page | plus: -2 %}
-{% assign maxPage = paginator.page | plus: 2  %}
-    {%if maxPage>paginator.total_pages %}
-    {% assign maxPage = paginator.total_pages  %}
-    {%endif%}
-  {% for page in (minPage..maxPage) %}
-    <li class="list-inline-item">
-    {% if page == paginator.page %}
-      <em ><u>{{ page }}</u> </em>
-    {% elsif page == 1 %}
-      <a href="{{ '/' | relative_url }}">{{ page }}</a>
-    {% elsif page > 0 %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-        </li>
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <li class="list-inline-item">
-    <a href="{{ paginator.next_page_path | relative_url }}">&rarr;</a>
-        </li>
-  {% endif %}
-<li class="list-inline-item">
-                    <a href="{{"/allposts" | relative_url }}">Indice</a>
-    </li>
-{% endif %}
-</ul>
--->
-
 
 {% if paginator.total_pages > 1 %}
   <ul class="list-inline text-center">
@@ -157,7 +116,7 @@ pagination:
       </li>
       {% endif %}
         <li class="list-inline-item">
-                    <a href="{{"/allposts" | relative_url }}">Indice</a>
+                    <a href="{{'/allposts' | relative_url }}">Indice</a>
         </li>
 
 
