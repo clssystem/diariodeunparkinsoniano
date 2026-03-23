@@ -4,10 +4,10 @@ title: "Introducción"
 date: 2020-10-14 06:00
 author: diariodeunparkinsoniano
 comments: true
-tagsX: [Relatos XIV] 
-keywordsX: [Muerte, papá]
+tags: [Eneko] 
+keywords: [Eneko Jorajuría, Introducción]
 imageX: '/assets/images/2025/09/vuelaalto.webp'
-excerptX: Carta a mi padre fallecido
+excerpt: 'Introducción a los relatos sobre Eneko Jorajuría'
 tituloRelatoPrincipal: 'Las aventuras de Eneko Jorajuría'
 numeroOrden: 0
 ---

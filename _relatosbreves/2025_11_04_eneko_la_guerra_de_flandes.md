@@ -4,10 +4,10 @@ title: "La guerra de Flandes"
 date: 2025-11-04 06:00
 author: diariodeunparkinsoniano
 comments: true
-tagsX: [Relatos XIV] 
-keywordsX: [Muerte, papá]
+tags: [Eneko] 
+keywords: [Eneko Jorajuría, Flandes]
 imageX: '/assets/images/2025/09/vuelaalto.webp'
-excerptX: Carta a mi padre fallecido
+excerpt: Un pasaje ficticio de la guerra de Flandes
 tituloRelatoPrincipal: 'Las aventuras de Eneko Jorajuría'
 numeroOrden: 200
 ---

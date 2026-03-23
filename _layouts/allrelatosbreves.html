@@ -29,7 +29,6 @@ layout: defaultrelatosbreves
     <div class="container">
         <div class="row">
             <span class="col-lg-8 col-md-10 mx-auto">
- 
                 {{ content }}
                 {% assign relatos_ordenados = site.relatosbreves | sort:"numeroOrden" %}
                 {% assign agrupados = relatos_ordenados | group_by: "tituloRelatoPrincipal" %}

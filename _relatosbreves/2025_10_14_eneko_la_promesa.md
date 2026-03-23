@@ -4,10 +4,10 @@ title: "La promesa"
 date: 2025-10-14 06:00
 author: diariodeunparkinsoniano
 comments: true
-tagsX: [Relatos XIV] 
-keywordsX: [Muerte, papá]
+tags: [Eneko] 
+keywords: [Eneko Jorajuría, Promesa]
 imageX: '/assets/images/2025/09/vuelaalto.webp'
-excerptX: Carta a mi padre fallecido
+excerpt: Una aventura juvenil de Eneko Jorajuría
 tituloRelatoPrincipal: 'Las aventuras de Eneko Jorajuría'
 numeroOrden: 100
 ---

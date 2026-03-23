@@ -1,13 +1,13 @@
 ---
 layout: postrelatosbreves
 title: "El nuevo Eneko"
-date: 2025-11-12 06:00
+date: 2025-11-01 06:00
 author: diariodeunparkinsoniano
 comments: true
-tagsX: [Relatos XIV] 
-keywordsX: [Muerte, papá]
+tags: [Eneko] 
+keywords: [Eneko Jorajuría, Destino]
 imageX: '/assets/images/2025/09/vuelaalto.webp'
-excerptX: Carta a mi padre fallecido
+excerpt: 'De cómo cambia la vida de Eneko Jorajuría'
 tituloRelatoPrincipal: 'Las aventuras de Eneko Jorajuría'
 numeroOrden: 150
 ---
