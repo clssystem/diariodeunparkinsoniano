@@ -6,8 +6,8 @@ date:               2016-11-27
 baseurl:            ""
 url:                "https://diariodeunparkinsoniano.cls-system.es"
 
-titlerelatosbreves:              Relatos breves de Antonio Liberal
-descriptionrelatosbreves:        Blog de los relatos breves de Antonio Liberal Irigoyen
+titlerelatosbreves:              Relatos breves
+descriptionrelatosbreves:        Blog de los relatos breves creado por Antonio Liberal Irigoyen
 
 
 
@@ -45,7 +45,7 @@ feed:
       path: "/relatosbreves.xml"
 
 page:
-    background: '/img/bg-contact.jpg'
+    background: '/img/bg-header.jpg'
 collections:
   relatosbreves:
    output: true

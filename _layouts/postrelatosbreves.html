@@ -1,12 +1,13 @@
 ---
-layout:          defaultrelatosbreves
-#type:            default
+layout: defaultrelatosbreves
+#type: default
 ---
 
 {% assign fondo = '/img/bg-relatos.jpg' %}
 <!-- Page Header -->
 {% if fondo %}
-<header class="masthead" style="        background-image: url('{{ fondo  | prepend: site.baseurl | replace: '//', '/' }}')">
+<header class="masthead"
+    style="        background-image: url('{{ fondo  | prepend: site.baseurl | replace: '//', '/' }}')">
     {% else %}
     <header class="masthead">
         {% endif %}
@@ -20,7 +21,7 @@ layout:          defaultrelatosbreves
                         <h2 class="subheading">{{ page.subtitle }}</h2>
                         {% endif %}
                         <span class="meta">
-                            {{  page.date | date: '%-d' }}
+                            {{ page.date | date: '%-d' }}
                             {% assign m = page.date | date: '%-m' %}
                             {% case m %}
                             {% when '1' %}en
@@ -36,7 +37,7 @@ layout:          defaultrelatosbreves
                             {% when '11' %}nov
                             {% when '12' %}dic
                             {% endcase %}
-                            {{  page.date | date: '%Y' }}
+                            {{ page.date | date: '%Y' }}
                             &middot; {% include read_time.html content=page.content %}
                         </span>
                     </div>
@@ -50,43 +51,65 @@ layout:          defaultrelatosbreves
 
 
                 {{ content }}
-{%if page.image %}
-<div align="center">
-<img class="img-fluid"  src="{{page.image}}" alt="{{page.title}}" />
-</div>
-{%endif %}
+                {%if page.image %}
+                <div align="center">
+                    <img class="img-fluid" src="{{page.image}}" alt="{{page.title}}" />
+                </div>
+                {%endif %}
                 <hr>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-md-10 mx-auto">
-                <ul class="list-inline text-center">
-                    {% if page.previous.url %}
-                    <li class="list-inline-item">
-                    <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">
-                        &larr; Anterior<span class="d-none d-md-inline">
-                        </span>
-                    </a>
-                        </li>
-                    {% endif %}
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-md-10 mx-auto">
+                            <ul class="list-inline text-center">
+                                {%assign tituloRelatoPrincipal = page.tituloRelatoPrincipal%}
+                                {%assign numeroOrden = page.numeroOrden%}
+                                {%assign mismoTituloPrincipal = site.relatosbreves | where: "tituloRelatoPrincipal", tituloRelatoPrincipal | sort: 'numeroOrden' %}
+                                {%assign anterior = null %}
+                                {%assign posterior = null %}
+                                {% for relato in mismoTituloPrincipal %}
+                                    {%if relato.url != page.url %}
+                                        {%if relato.numeroOrden> numeroOrden%}
+                                            {%if posterior==null %}
+                                                {%assign posterior = relato %}
+                                            {%endif%}                                                
+                                        {%endif%}
+                                        {%if relato.numeroOrden< numeroOrden%}
+                                            {%assign anterior = relato %}
+                                        {%endif%}
+                                    {%endif%}
+                                {% endfor %} 
+                                <li class="list-inline-item">
+                                    </li>
+                                   {% if anterior %}
+                                    <li class="list-inline-item">
+                                        <a href="{{ anterior.url | prepend: site.baseurl | replace: '//', '/' }}"
+                                            data-toggle="tooltip" data-placement="top"
+                                            title="{{ anterior.title }}">
+                                            &larr; Anterior<span class="d-none d-md-inline">
+                                            </span>
+                                        </a>
+                                    </li>
+                                    {% endif %}
 
-                    {% if page.next.url %}
-                    <li class="list-inline-item">
-                    <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">
-                        Siguiente<span class="d-none d-md-inline">
-                        </span> &rarr;
-                    </a>
-                        </li>
-                    {% endif %}
-                    <li class="list-inline-item">
-                    <a href="{{'/relatosbreves/allrelatosbreves' | relative_url }}">Entradas</a>
-                        </li>
+                                    {% if posterior %}
+                                    <li class="list-inline-item">
+                                        <a href="{{posterior.url | prepend: site.baseurl | replace: '//', '/' }}"
+                                            data-toggle="tooltip" data-placement="top" title="{{ posterior.title }}">
+                                            Siguiente<span class="d-none d-md-inline">
+                                            </span> &rarr;
+                                        </a>
+                                    </li>
+                                    {% endif %}
+                                    <li class="list-inline-item">
+                                        <a href="{{'/relatosbreves/allrelatosbreves' | relative_url }}">Índice</a>
+                                    </li>
 
 
+                        </div>
+                    </div>
                 </div>
-                </div>
-            </div>
- 
+
 
             </div>
 

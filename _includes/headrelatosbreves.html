@@ -12,7 +12,7 @@
 			(Página {{paginator.page}})
 		{% endif %}
 	</title>
-    <meta name="description" content="Relatos breves por Antonio Liberal: {% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160, '' }}{% else %}{{ site.descriptionrelatosbreves }}{% endif %}">
+    <meta name="description" content="Relatos breves creados por Antonio Liberal: {% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160, '' }}{% else %}{{ site.descriptionrelatosbreves }}{% endif %}">
     {%if page.keywords %}
 		<meta name="keywords" content="{{ page.keywords | join: ',' | escape }}"/>
 	{% else %}
@@ -26,7 +26,7 @@
     <meta name="author" content="Antonio Liberal Irigoyen" />
   	<meta property="og:title" content="{% if page.isHomePage !=true %}{{ page.title | strip_html | strip_newlines | truncate: 160, '' }}{% else %}{{ site.titlerelatosbreves }}{% endif %}">
 	<meta property="og:site_name" content="{{ site.titlerelatosbreves }}" />
-	<meta property="og:description" content="Relatos breves de Antonio Liberal: {% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160, '' }}{% else %}{{ site.descriptionrelatosbreves }}{% endif %}">
+	<meta property="og:description" content="Relatos breves creados por Antonio Liberal: {% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160, '' }}{% else %}{{ site.descriptionrelatosbreves }}{% endif %}">
   	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
   	<meta property="og:locale" content="es_ES" />
   	<meta name="twitter:site" content="@diariodeunparki" />
@@ -48,7 +48,7 @@
 			<meta {{ key_name }}="{{ meta.name }}" content="{{ meta.value }}">
 		{%endif%}
     {%endfor%}
-    <link type="application/atom+xml" rel="alternate" href="{{'/relatosbreves.xml' | prepend: site.baseurl | prepend: site.url }}" title="Relatos breves por Antonio Liberal" />
+    <link type="application/atom+xml" rel="alternate" href="{{'/relatosbreves.xml' | prepend: site.baseurl | prepend: site.url }}" title="Relatos breves creados por Antonio Liberal" />
       
     {% if page.isHomePage !=true %}
 		<!-- Article specific OG data -->
@@ -75,8 +75,8 @@
 			<meta property="og:image" content="{{ site.baseurl | prepend: site.url }}{{page.pageimage}}" />
 			<meta name="twitter:image" content="{{ site.baseurl | prepend: site.url }}{{page.pageimage}}" />
 		{% else %}
-			<meta property="og:image" content="{{ site.baseurl | prepend: site.url }}/assets/images/libroweb.jpg" />
-			<meta name="twitter:image" content="{{ site.baseurl | prepend: site.url }}/assets/images/libroweb.jpg" />
+			<meta property="og:image" content="{{ site.baseurl | prepend: site.url }}/img/bg-relatos.jpg" />
+			<meta name="twitter:image" content="{{ site.baseurl | prepend: site.url }}/img/bg-relatos.jpg" />
 		{% endif %}
 		
 		{% if page.jsonld %}
@@ -86,11 +86,11 @@
 		{% endif %}
   {% else %}
   	<!-- OG data for homepage -->
-  	<meta property="og:image" content="{{ site.baseurl | prepend: site.url }}/assets/images/libroweb.jpg" />
+  	<meta property="og:image" content="{{ site.baseurl | prepend: site.url }}/img/bg-relatos.jpg" />
   	<meta property="og:type" content="website" />
   	<meta name="twitter:card" content="summary_large_image" />
   	<meta name="twitter:title" content="{{site.titlerelatosbreves}}" />
-  	<meta name="twitter:image" content="{{ site.baseurl | prepend: site.url }}/assets/images/libroweb.jpg" />
+  	<meta name="twitter:image" content="{{ site.baseurl | prepend: site.url }}/img/bg-relatos.jpg" />
 	{% include homeJSONLDrelatosbreves.html %}
 	<meta name="google-site-verification" content="jXvCe3S__OvDumCHcPkx_tDxl1Brl0ES0_eUdjsyHcM" />
   {% endif %}
